@@ -63,30 +63,26 @@ No leader mentioned hospitals, nurses or reimbursement, and no one named a speci
 
 ### What each leader said on health care
 
-| Leader | Health statements | What they said |
-|---|---|---|
-| Abdul El-Sayed, U.S. Senator-elect | 21 | Called stopping the January 2027 Medicaid cuts the first priority and Medicare for All the answer on health care. Criticized Blue Cross Blue Shield's market share and rate increases, and called for limits on rate increases and stock buybacks and for breaking up large corporations. Told stories of constituents struggling with insurance and medical costs. |
-| Debbie Dingell, U.S. Rep., MI-6 | 5 | Said reversing the Medicaid cuts and reinstating the ACA premium tax credit will be among the new House majority's first acts. Described constituents afraid of losing Medicaid. Called the health care system "broken." |
-| Jocelyn Benson, Governor-elect | 2 | Listed health care with housing, child care and energy as costs to make affordable. Pledged that women and girls will have access to the health care they need. Named no specific health policy. |
-| Winnie Brinks, Lieutenant Governor-elect | – | Did not mention health care. Spoke about affordability and working across parties. |
-| Curtis Hertel Jr., Michigan Democratic Party Chair | – | Did not mention health care. Rallied supporters and predicted wins across the ticket. |
-| Mallory McMorrow, State Senator | – | Did not mention health care. Spoke about the economy, organizing and the U.S. Senate race. |
-| Ranjeev Puri, House Democratic Leader, likely Speaker | News quote | "I watched healthcare be ripped away from our sick" (election-night watch party, per the Michigan Advance). Named no specific health policy. |
-| Darrin Camilleri, State Senator | News quote | Did not mention health care. His statement was about the expanded Senate Democratic majority (per The Detroit News). |
-| Eli Savit, Attorney General-elect | News quote | Did not mention health care in his Nov. 4 victory remarks. Said he would represent "the people and not the powerful" and "I am going to work for you" (per the Michigan Advance and WLNS). No post-election video found. |
-| Matt Hall, House Speaker (R), outgoing | No statement | Has not spoken publicly since the election. No statement found as of Nov. 4. |
+Health statements on video, Nov. 3–4, with key lines in their own words.
 
-### In their words: health care
-
-- **El-Sayed:** "the worst of this big ugly bill has not yet happened. They purposely pushed it into January of 2027, and that's the Medicaid cuts." ([post-election interview, WDIV Local 4 2:25](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=145s))
-- **El-Sayed:** "instead of getting it in a primary care office before it's a lot worse and more expensive, they have to go to an emergency room." ([post-election interview, WDIV Local 4 2:39](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=159s))
-- **El-Sayed:** "The attorney general right now is suing Blue Cross Blue Shield because they are basically 85% of our insurance market." ([post-election interview, WDIV Local 4 5:18](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=318s))
-- **El-Sayed:** "when it comes to healthcare, look, the answer here is Medicare for all." ([post-election interview, WDIV Local 4 8:06](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=486s))
-- **Dingell:** "one of the first things that we are going to do is to reverse the cuts in Medicaid" ([post-election interview, FOX 2 Detroit 3:03](https://www.youtube.com/watch?v=wBwr5WNZbwg&t=183s))
-- **Dingell:** "reinstate the affordable care tax credit until we can figure out what we really need to do to fix a broken health care system." ([post-election interview, FOX 2 Detroit 3:19](https://www.youtube.com/watch?v=wBwr5WNZbwg&t=199s))
-- **Benson:** "ensure from health care to housing to child care to our energy costs that those costs are affordable for everyone." ([transition press conference, Detroit 8:00](https://www.youtube.com/watch?v=xha9JCqPbBQ&t=480s))
-- **Benson:** "ensure that young girls and women always have access to the health care they need" ([victory speech, Hudson's Detroit 6:21](https://www.youtube.com/watch?v=X0E_y4UhEaM&t=381s))
-- **Puri:** "I watched healthcare be ripped away from our sick." ([Michigan Advance](https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html))
+- **Abdul El-Sayed**, U.S. Senator-elect (21 health statements): Called stopping the January 2027 Medicaid cuts the first priority and Medicare for All the answer. Criticized Blue Cross Blue Shield's market share and rate increases.
+    - "the worst of this big ugly bill has not yet happened. They purposely pushed it into January of 2027, and that's the Medicaid cuts." ([post-election interview, WDIV Local 4 2:25](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=145s))
+    - "instead of getting it in a primary care office before it's a lot worse and more expensive, they have to go to an emergency room." ([post-election interview, WDIV Local 4 2:39](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=159s))
+    - "The attorney general right now is suing Blue Cross Blue Shield because they are basically 85% of our insurance market." ([post-election interview, WDIV Local 4 5:18](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=318s))
+    - "when it comes to healthcare, look, the answer here is Medicare for all." ([post-election interview, WDIV Local 4 8:06](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=486s))
+- **Debbie Dingell**, U.S. Rep., MI-6 (5 health statements): Said reversing the Medicaid cuts and reinstating the ACA premium tax credit will be among the new House majority's first acts. Called the health care system "broken."
+    - "one of the first things that we are going to do is to reverse the cuts in Medicaid" ([post-election interview, FOX 2 Detroit 3:03](https://www.youtube.com/watch?v=wBwr5WNZbwg&t=183s))
+    - "reinstate the affordable care tax credit until we can figure out what we really need to do to fix a broken health care system." ([post-election interview, FOX 2 Detroit 3:19](https://www.youtube.com/watch?v=wBwr5WNZbwg&t=199s))
+- **Jocelyn Benson**, Governor-elect (2 health statements): Listed health care with housing, child care and energy as costs to make affordable. Pledged that women and girls will have access to the health care they need. Named no specific health policy.
+    - "ensure from health care to housing to child care to our energy costs that those costs are affordable for everyone." ([transition press conference, Detroit 8:00](https://www.youtube.com/watch?v=xha9JCqPbBQ&t=480s))
+    - "ensure that young girls and women always have access to the health care they need" ([victory speech, Hudson's Detroit 6:21](https://www.youtube.com/watch?v=X0E_y4UhEaM&t=381s))
+- **Winnie Brinks**, Lieutenant Governor-elect (0 health statements): Did not mention health care. Spoke about affordability and working across parties.
+- **Curtis Hertel Jr.**, Michigan Democratic Party Chair (0 health statements): Did not mention health care. Rallied supporters and predicted wins across the ticket.
+- **Mallory McMorrow**, State Senator (0 health statements): Did not mention health care. Spoke about the economy, organizing and the U.S. Senate race.
+- **Ranjeev Puri**, House Democratic Leader, likely Speaker (news quote): Spoke at the election-night watch party (quoted by the Michigan Advance; no video). Named no specific health policy.
+    - "I watched healthcare be ripped away from our sick." ([Michigan Advance](https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html))
+- **Darrin Camilleri**, State Senator (news quote): Did not mention health care. His statement was about the expanded Senate Democratic majority (per The Detroit News).
+- **Eli Savit**, Attorney General-elect (news quote): Did not mention health care in his Nov. 4 victory remarks (per the Michigan Advance and WLNS). No post-election video found.
 
 ## One more thing: Speaker Matt Hall
 

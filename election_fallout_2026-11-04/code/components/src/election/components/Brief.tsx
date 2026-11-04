@@ -98,16 +98,13 @@ function SourceChip({ q, data }: { q: BriefQuote; data: BriefData }) {
   );
 }
 
-function QuoteLine({ q, data, withEvent }: { q: BriefQuote; data: BriefData; withEvent?: boolean }) {
+function QuoteLine({ q, data }: { q: BriefQuote; data: BriefData }) {
   const name = nameOf(data, q.speaker);
-  const ev = q.event ? eventByKey(data, q.event) : undefined;
-  const where = ev ? ev.label.replace(new RegExp(`^${name}\\s*`), "").replace(/^and Winnie Brinks\s*/, "") : undefined;
   return (
     <div className="avoid-break flex items-start gap-2 text-[11.5px] leading-snug">
       <SourceChip q={q} data={data} />
       <span className="text-slate">
         <span className="font-semibold text-ink">{name}</span>
-        {withEvent && where && <span className="text-mute"> ({where})</span>}
         <span className="font-semibold text-ink">:</span> <span className="q italic">{q.text}</span>
       </span>
     </div>
@@ -188,12 +185,13 @@ function HealthSummary({ data }: { data: BriefData }) {
   );
 }
 
-function Row({ name, office, count, badge, said, active }: {
+function Row({ name, office, count, badge, said, active, quotes = [], data }: {
   name: string; office: string; count?: number; badge?: string; said: string; active: boolean;
+  quotes?: BriefQuote[]; data: BriefData;
 }) {
   return (
     <tr className="avoid-break border-t border-line align-top">
-      <td className="py-2 pr-3">
+      <td className="py-1.5 pr-3">
         <div className="flex items-center gap-2">
           <Monogram name={name} size={24} tone={active ? "deep" : "light"} />
           <div className="leading-tight">
@@ -202,10 +200,22 @@ function Row({ name, office, count, badge, said, active }: {
           </div>
         </div>
       </td>
-      <td className="py-2 pr-3 text-center">
+      <td className="py-1.5 pr-3 text-center">
         {badge ? <Badge tone={badge === "No statement" ? "coral" : "amber"}>{badge}</Badge> : <div className="font-display text-[17px] font-bold text-deep">{count || "–"}</div>}
       </td>
-      <td className="py-2 text-[11.5px] leading-snug text-slate">{said}</td>
+      <td className="py-1.5 text-[11.5px] leading-snug text-slate">
+        <div>{said}</div>
+        {quotes.length > 0 && (
+          <div className="mt-1 space-y-0.5">
+            {quotes.map((q, i) => (
+              <div key={i} className="flex items-start gap-1.5 text-[11px] leading-snug">
+                <SourceChip q={q} data={data} />
+                <span className="q italic text-slate">{q.text}</span>
+              </div>
+            ))}
+          </div>
+        )}
+      </td>
     </tr>
   );
 }
@@ -213,10 +223,11 @@ function Row({ name, office, count, badge, said, active }: {
 function Leaders({ data }: { data: BriefData }) {
   const speakers = [...data.speakers].sort((a, b) => b.health_count - a.health_count);
   const said = (k: string, fallback: string) => data.brief.speakers[k] ?? fallback;
+  const quotesOf = (k: string) => data.brief.quotes.filter((q) => q.speaker === k);
   return (
-    <section className="avoid-break mt-7">
-      <SectionHead n="03" title="What each leader said on health care" kicker="Health statements counted across each leader's appearances on video, Nov. 3–4." />
-      <table className="avoid-break w-full border-collapse">
+    <section className="page-break">
+      <SectionHead n="03" title="What each leader said on health care" kicker="Health statements on video, Nov. 3–4, with key lines in their own words." />
+      <table className="w-full border-collapse">
         <thead>
           <tr className="text-left text-[9.5px] font-semibold uppercase tracking-[0.1em] text-mute">
             <th className="w-[2in] pb-1.5">Leader</th>
@@ -226,31 +237,16 @@ function Leaders({ data }: { data: BriefData }) {
         </thead>
         <tbody>
           {speakers.map((s) => (
-            <Row key={s.key} name={s.name} office={s.office} count={s.health_count} said={said(s.key, s.takeaway)} active={s.health_count > 0} />
+            <Row key={s.key} name={s.name} office={s.office} count={s.health_count} said={said(s.key, s.takeaway)} active={s.health_count > 0} quotes={quotesOf(s.key)} data={data} />
           ))}
           {(data.print_speakers ?? []).map((s) => (
-            <Row key={s.key} name={s.name} office={s.office} badge="News quote" said={said(s.key, s.takeaway)} active={(s.print_health ?? 0) > 0} />
+            <Row key={s.key} name={s.name} office={s.office} badge="News quote" said={said(s.key, s.takeaway)} active={(s.print_health ?? 0) > 0} quotes={quotesOf(s.key)} data={data} />
           ))}
           {(data.brief.extra_speakers ?? []).map((s) => (
-            <Row key={s.key} name={s.name} office={s.office} badge={s.source} said={s.said} active={false} />
+            <Row key={s.key} name={s.name} office={s.office} badge={s.source} said={s.said} active={false} data={data} />
           ))}
         </tbody>
       </table>
-    </section>
-  );
-}
-
-function Quotes({ data }: { data: BriefData }) {
-  return (
-    <section className="mt-7">
-      <SectionHead n="04" title="In their words: health care" kicker="Key health care lines, trimmed to the main point. Timestamps open the video at that moment." />
-      <div className="space-y-2">
-        {data.brief.quotes.map((q, i) => (
-          <div key={i} className="border-b border-line pb-2">
-            <QuoteLine q={q} data={data} withEvent />
-          </div>
-        ))}
-      </div>
     </section>
   );
 }
@@ -277,7 +273,6 @@ export function Brief({ data }: { data: BriefData }) {
         <Themes data={data} />
         <HealthSummary data={data} />
         <Leaders data={data} />
-        <Quotes data={data} />
         <Silent data={data} />
         <Footer data={data} />
       </div>
