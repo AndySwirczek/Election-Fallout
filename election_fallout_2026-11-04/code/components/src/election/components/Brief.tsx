@@ -150,20 +150,11 @@ function Silent({ data }: { data: BriefData }) {
             <div className="text-[11px] text-mute">{h.office}</div>
           </div>
         </div>
-        <ul className="mt-2.5 list-disc space-y-1 pl-5 text-[12px] leading-[1.5] text-slate">
+        <div className="mt-2 space-y-1 text-[12px] leading-[1.5] text-slate">
           {h.facts.map((f, i) => (
-            <li key={i}>{f}</li>
+            <p key={i}>{f}</p>
           ))}
-        </ul>
-        <p className="mt-2 text-[10.5px] leading-snug text-mute">
-          {h.note} Checked:{" "}
-          {h.sources.map((src, i) => (
-            <span key={i}>
-              {i > 0 && " · "}
-              <a href={src.url} className="link-u">{src.label}</a>
-            </span>
-          ))}
-        </p>
+        </div>
       </div>
     </section>
   );

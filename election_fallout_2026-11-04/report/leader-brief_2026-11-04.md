@@ -86,15 +86,6 @@ Health statements on video, Nov. 3–4, with key lines in their own words.
 
 ## One more thing: Speaker Matt Hall
 
-**Speaker Matt Hall has not spoken publicly since the election.** Speaker of the Michigan House (R), through Dec. 31, 2026.
-
-- No statement, concession or comment from Hall was found as of the afternoon of Nov. 4, 2026.
-- His page on the House Republicans' site has no post since July 29, 2026 ("Speaker Hall on the governor's recent vetoes").
-- The Michigan Advance and Detroit News stories on Democrats winning the House, both updated Nov. 4, do not quote or mention him.
-- No video of Hall from election night or Nov. 4 was found.
-- His own race (HD-42) was close: about 51% to 49% at 97% reporting (ClickOnDetroit, unofficial).
-- He remains Speaker, and Republicans control the House floor, through Dec. 31, 2026.
-
-*Hall's X and Facebook accounts were not checked. Checked: [gophouse.org Hall posts](https://gophouse.org/member/repmatthall/posts) · [Detroit News via Yahoo, Nov. 4](https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html) · [Michigan Advance via Yahoo, Nov. 4](https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html)*
+**Speaker Matt Hall has not spoken publicly since the election.** Speaker of the Michigan House (R), through Dec. 31, 2026. No statement, concession or comment from Hall was found as of the afternoon of Nov. 4, 2026 (his X and Facebook accounts were not checked).
 
 *Quotes come from machine transcripts checked against the transcript text. Check the linked video before quoting externally.*
