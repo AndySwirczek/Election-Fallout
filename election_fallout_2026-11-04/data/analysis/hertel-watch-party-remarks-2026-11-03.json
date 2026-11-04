@@ -1,0 +1,35 @@
+{
+  "event_key": "hertel-watch-party-remarks-2026-11-03",
+  "canonical_id": "Ar_Y2ZPespw",
+  "url": "https://www.youtube.com/watch?v=Ar_Y2ZPespw",
+  "model": "opus",
+  "analyzed_at": "2026-11-04T12:16:35",
+  "segments": 19,
+  "headline": "Michigan Democratic Party Chair Curtis Hertel rallied supporters at the party's election-night watch event, predicting victories across the ticket.",
+  "health_summary": "Hertel made no statements about health or health care during these brief remarks.",
+  "priorities": [
+    {
+      "speaker": "hertel",
+      "label": "Defeat Republican statewide candidates",
+      "timestamp": "00:00:26",
+      "quote": "But we're going to make John James a threetime loser.",
+      "seconds": 26,
+      "ts_label": "0:26",
+      "end_seconds": 34,
+      "link": "https://www.youtube.com/watch?v=Ar_Y2ZPespw&t=26s",
+      "verified": true
+    },
+    {
+      "speaker": "hertel",
+      "label": "Win across the full ticket",
+      "timestamp": "00:00:50",
+      "quote": "LET'S GO WIN EVERYBODY. IT'S GOING TO BE A FUN NIGHT. Pace yourselves. We're going to have a long night of victories.",
+      "seconds": 50,
+      "ts_label": "0:50",
+      "end_seconds": 58,
+      "link": "https://www.youtube.com/watch?v=Ar_Y2ZPespw&t=50s",
+      "verified": true
+    }
+  ],
+  "findings": []
+}

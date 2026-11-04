@@ -1,0 +1,119 @@
+{
+  "event_key": "benson-brinks-transition-presser-2026-11-04",
+  "canonical_id": "xha9JCqPbBQ",
+  "url": "https://www.youtube.com/watch?v=xha9JCqPbBQ",
+  "model": "opus",
+  "analyzed_at": "2026-11-04T12:21:00",
+  "segments": 82,
+  "headline": "Governor-elect Jocelyn Benson and Lieutenant Governor-elect Winnie Brinks pledged to lower costs, grow the economy, and govern collaboratively after Democrats swept Michigan's 2026 elections.",
+  "health_summary": "Health care received only a brief, explicit mention: Benson listed it alongside housing, child care, and energy costs as areas where her administration will work to ensure affordability. No specific health care policies, programs, or legislative proposals were discussed at this press conference.",
+  "priorities": [
+    {
+      "speaker": "brinks",
+      "label": "Bipartisan collaboration",
+      "timestamp": "00:02:30",
+      "quote": "Real progress doesn't come from one office or one party alone. Excuse me. It comes when people sit down at the same table and focus on what works for the families that we serve.",
+      "seconds": 150,
+      "ts_label": "2:30",
+      "end_seconds": 165,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=150s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Lower everyday costs",
+      "timestamp": "00:04:30",
+      "quote": "Voters elected Democrats up and down the ticket, not because they like the shade of blue, but maybe they do, but also because they are calling out for leaders who will get things done, who will work to lower our costs and raise our wages and end corruption.",
+      "seconds": 270,
+      "ts_label": "4:30",
+      "end_seconds": 300,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=270s",
+      "verified": true
+    },
+    {
+      "speaker": "brinks",
+      "label": "Lower costs and affordability",
+      "timestamp": "00:05:30",
+      "quote": "Together we made history as the first all-female ticket in Michigan and together we will deliver on our commitment to make life more affordable for all.",
+      "seconds": 330,
+      "ts_label": "5:30",
+      "end_seconds": 345,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=330s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Affordable health care and housing",
+      "timestamp": "00:08:00",
+      "quote": "We will transform state government to make it efficient and effective and ensure from health care to housing to child care to our energy costs that those costs are affordable for everyone.",
+      "seconds": 480,
+      "ts_label": "8:00",
+      "end_seconds": 495,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=480s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Government transparency",
+      "timestamp": "00:11:00",
+      "quote": "on day one, once I'm sworn in as the next governor of Michigan, we will voluntarily make the governor's office open to FOIA.",
+      "seconds": 660,
+      "ts_label": "11:00",
+      "end_seconds": 675,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=660s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Grow economy and recruit jobs",
+      "timestamp": "00:16:00",
+      "quote": "to bring more well-paying jobs to the state. We need to work aggressively to recruit those employers and we'll be working not just with Governor Whitmer, but in the months ahead, I hope, in my administration as well, to bring new jobs and employers to Michigan.",
+      "seconds": 960,
+      "ts_label": "16:00",
+      "end_seconds": 975,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=960s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Gas-tax relief for drivers",
+      "timestamp": "00:18:30",
+      "quote": "I very much want to explore ways to bring relief to our drivers. I think some sort of partnership maybe even with the reduction of the federal and the state gas tax can help provide that relief and I want to explore that in the weeks ahead.",
+      "seconds": 1110,
+      "ts_label": "18:30",
+      "end_seconds": 1140,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=1110s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Improve public schools",
+      "timestamp": "00:19:15",
+      "quote": "I don't want to just simply more invest more in public schools. I want to restructure our funding formula so that the funding is more effective, efficient and transparent.",
+      "seconds": 1155,
+      "ts_label": "19:15",
+      "end_seconds": 1170,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=1155s",
+      "verified": true
+    }
+  ],
+  "findings": [
+    {
+      "speaker": "benson",
+      "timestamp": "00:08:00",
+      "quote": "We will transform state government to make it efficient and effective and ensure from health care to housing to child care to our energy costs that those costs are affordable for everyone.",
+      "topics": [
+        "costs"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "medium",
+      "context": "Benson listed health care among several household cost categories her administration will target for affordability.",
+      "why_it_matters": "A broad affordability agenda that names health care could lead to state-level actions on insurance premiums, hospital pricing, or coverage costs, but no specifics were offered at this stage.",
+      "seconds": 480,
+      "ts_label": "8:00",
+      "end_seconds": 495,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=480s",
+      "verified": true
+    }
+  ]
+}

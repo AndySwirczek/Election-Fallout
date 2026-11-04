@@ -1,0 +1,87 @@
+{
+  "event_key": "dingell-nbc-interview-2026-11-04",
+  "canonical_id": "Qt1jr4liIoc",
+  "url": "https://www.youtube.com/watch?v=Qt1jr4liIoc",
+  "model": "opus",
+  "analyzed_at": "2026-11-04T12:19:59",
+  "segments": 103,
+  "headline": "Rep. Debbie Dingell said Democrats must deliver results on voters' concerns quickly or face another electoral backlash in two years.",
+  "health_summary": "Dingell listed 'our broken health care system' among the top voter concerns Democrats must address, alongside grocery costs, gasoline, rent, and corruption. She did not elaborate on specific health-policy proposals or legislation.",
+  "priorities": [
+    {
+      "speaker": "dingell",
+      "label": "Deliver results quickly",
+      "timestamp": "00:01:50",
+      "quote": "AND IF WE DON'T DELIVER IN THE NEXT FEW YEARS YOU'RE GOING TO SEE THEM SEND ANOTHER LOUD MESSAGE.",
+      "seconds": 110,
+      "ts_label": "1:50",
+      "end_seconds": 118,
+      "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=110s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "label": "Lower grocery and gas costs",
+      "timestamp": "00:02:08",
+      "quote": "AND I THINK THEY'RE VERY WORRIED ABOUT THE COST OF GROCERIES, GASOLINE, ABOUT WHETHER THEY CAN PAY THEIR RENT, OUR BROKEN HEALTH CARE SYSTEM, AND CORRUPTION.",
+      "seconds": 128,
+      "ts_label": "2:08",
+      "end_seconds": 136,
+      "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=128s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "label": "Fix the health care system",
+      "timestamp": "00:02:08",
+      "quote": "AND I THINK THEY'RE VERY WORRIED ABOUT THE COST OF GROCERIES, GASOLINE, ABOUT WHETHER THEY CAN PAY THEIR RENT, OUR BROKEN HEALTH CARE SYSTEM, AND CORRUPTION.",
+      "seconds": 128,
+      "ts_label": "2:08",
+      "end_seconds": 136,
+      "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=128s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "label": "Housing affordability",
+      "timestamp": "00:02:11",
+      "quote": "ABOUT WHETHER THEY CAN PAY THEIR RENT, OUR BROKEN HEALTH CARE SYSTEM, AND CORRUPTION.",
+      "seconds": 131,
+      "ts_label": "2:11",
+      "end_seconds": 139,
+      "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=131s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "label": "Address corruption",
+      "timestamp": "00:02:14",
+      "quote": "OUR BROKEN HEALTH CARE SYSTEM, AND CORRUPTION. BUT WE'VE GOT TO ADDRESS ALL OF THAT.",
+      "seconds": 134,
+      "ts_label": "2:14",
+      "end_seconds": 142,
+      "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=134s",
+      "verified": true
+    }
+  ],
+  "findings": [
+    {
+      "speaker": "dingell",
+      "timestamp": "00:02:08",
+      "quote": "AND I THINK THEY'RE VERY WORRIED ABOUT THE COST OF GROCERIES, GASOLINE, ABOUT WHETHER THEY CAN PAY THEIR RENT, OUR BROKEN HEALTH CARE SYSTEM, AND CORRUPTION. BUT WE'VE GOT TO ADDRESS ALL OF THAT.",
+      "topics": [
+        "costs",
+        "other_health"
+      ],
+      "type": "framing",
+      "hospital_relevance": "medium",
+      "context": "Dingell characterized the health care system as 'broken' and listed it among top voter anxieties that the new Democratic majority must address.",
+      "why_it_matters": "Framing the health care system as broken signals potential legislative interest in systemic reforms that could affect hospital operations, reimbursement, or regulation in Michigan.",
+      "seconds": 128,
+      "ts_label": "2:08",
+      "end_seconds": 141,
+      "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=128s",
+      "verified": true
+    }
+  ]
+}

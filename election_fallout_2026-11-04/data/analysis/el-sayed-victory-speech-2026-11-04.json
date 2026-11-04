@@ -1,0 +1,260 @@
+{
+  "event_key": "el-sayed-victory-speech-2026-11-04",
+  "canonical_id": "yMNEKYd3Pb8",
+  "url": "https://www.youtube.com/watch?v=yMNEKYd3Pb8",
+  "model": "opus",
+  "analyzed_at": "2026-11-04T12:19:04",
+  "segments": 456,
+  "headline": "Senator-elect Abdul El-Sayed declared victory in Michigan's U.S. Senate race, framing the win as a grassroots movement against corporate-funded opposition and pledging to fight for working families.",
+  "health_summary": "El-Sayed repeatedly invoked his campaign slogan \"Medicare for Michigan\" and criticized a health care system he said is \"more interested in monetizing our illness than healing our bodies and minds.\" He shared personal stories of constituents struggling with health insurance and medical costs, and pledged to guarantee health care for all. He also cited his own background as a doctor and public health professional, noting that America vaccinated him against diseases that killed family members abroad.",
+  "priorities": [
+    {
+      "speaker": "el-sayed",
+      "label": "Medicare for Michigan / single-payer",
+      "timestamp": "00:00:30",
+      "quote": "MEDICARE FOR MICHIGAN. We did it.",
+      "seconds": 30,
+      "ts_label": "0:30",
+      "end_seconds": 44,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=30s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "label": "Get money out of politics",
+      "timestamp": "00:01:47",
+      "quote": "this movement for money out of politics, money in your pocket, and Medicare for all.",
+      "seconds": 107,
+      "ts_label": "1:47",
+      "end_seconds": 115,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=107s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "label": "Workers' right to unionize",
+      "timestamp": "00:06:23",
+      "quote": "And they won that fight. His hope, an America where every single worker gets the right TO A UNION.",
+      "seconds": 383,
+      "ts_label": "6:23",
+      "end_seconds": 395,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=383s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "label": "Lower costs for working families",
+      "timestamp": "00:16:11",
+      "quote": "Shouldn't be this hard to buy a second bag of groceries or fill your tank.",
+      "seconds": 971,
+      "ts_label": "16:11",
+      "end_seconds": 979,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=971s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "label": "End foreign military spending",
+      "timestamp": "00:16:20",
+      "quote": "It shouldn't be this hard to pay your taxes and know that that money is going to be spent ON YOU AND YOUR KIDS INSTEAD of dropping bombs on somebody else and their kids.",
+      "seconds": 980,
+      "ts_label": "16:20",
+      "end_seconds": 990,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=980s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "label": "Fight corporate and billionaire influence",
+      "timestamp": "00:16:45",
+      "quote": "And right now that means taking on the corporations and the billionaires, special interests who've rigged the system against us for far too long.",
+      "seconds": 1005,
+      "ts_label": "16:45",
+      "end_seconds": 1014,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=1005s",
+      "verified": true
+    }
+  ],
+  "findings": [
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:00:30",
+      "quote": "MEDICARE FOR MICHIGAN. We did it.",
+      "topics": [
+        "single_payer",
+        "medicare"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "high",
+      "context": "El-Sayed opened his victory speech with the campaign's signature call for a Medicare-based universal coverage system in Michigan.",
+      "why_it_matters": "A Medicare for Michigan push could restructure hospital reimbursement models and shift payer mix away from private insurance.",
+      "seconds": 30,
+      "ts_label": "0:30",
+      "end_seconds": 44,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=30s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:01:47",
+      "quote": "this movement for money out of politics, money in your pocket, and Medicare for all.",
+      "topics": [
+        "single_payer",
+        "medicare"
+      ],
+      "type": "framing",
+      "hospital_relevance": "high",
+      "context": "El-Sayed described his campaign as a three-part movement, with Medicare for All as one of the central planks.",
+      "why_it_matters": "A federal Medicare for All effort would fundamentally change hospital revenue streams and eliminate private-payer negotiations.",
+      "seconds": 107,
+      "ts_label": "1:47",
+      "end_seconds": 115,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=107s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:05:47",
+      "quote": "A mom of two kids with a genetic lung disease in East Jordan, fighting the system to make sure her kids don't lose the meds that they rely on to stay alive. Her hope that they don't have to struggle with health insurance like she has.",
+      "topics": [
+        "aca_coverage",
+        "drug_prices",
+        "costs"
+      ],
+      "type": "personal_story",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed shared the story of a mother whose children depend on medications for a genetic lung disease and who struggles with health insurance.",
+      "why_it_matters": "Stories like these signal the senator-elect may push for prescription drug affordability and coverage protections that affect hospital pharmacy and patient access.",
+      "seconds": 347,
+      "ts_label": "5:47",
+      "end_seconds": 364,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=347s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:06:35",
+      "quote": "I MET A small business owner fighting to make sure that another heart attack doesn't take food off the table for his 30 employees or their families. His hope that his workers don't have to worry about how they'll feed their families.",
+      "topics": [
+        "costs",
+        "insurers_corporate"
+      ],
+      "type": "personal_story",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed described a small business owner whose health crisis threatened the livelihoods of his employees.",
+      "why_it_matters": "This framing may support employer coverage mandates or public option proposals that would change how small-employer patients are insured at hospitals.",
+      "seconds": 395,
+      "ts_label": "6:35",
+      "end_seconds": 408,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=395s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:07:12",
+      "quote": "To defend us all from a health care system more interested in monetizing our illness than healing our bodies and minds.",
+      "topics": [
+        "insurers_corporate",
+        "costs",
+        "behavioral"
+      ],
+      "type": "criticism",
+      "hospital_relevance": "high",
+      "context": "El-Sayed criticized the U.S. health care system as prioritizing profit over patient care, referencing both physical and mental health.",
+      "why_it_matters": "This rhetoric signals potential scrutiny of hospital and insurer pricing practices and could inform legislative efforts on transparency or rate regulation.",
+      "seconds": 432,
+      "ts_label": "7:12",
+      "end_seconds": 440,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=432s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:07:20",
+      "quote": "To defend us all from air too putrid to breathe and water too putrid to drink.",
+      "topics": [
+        "public_health"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed pledged to fight environmental health hazards including air and water pollution.",
+      "why_it_matters": "Environmental health advocacy could affect hospital patient volumes related to pollution-linked illnesses and drive community health investment requirements.",
+      "seconds": 440,
+      "ts_label": "7:20",
+      "end_seconds": 448,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=440s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:13:54",
+      "quote": "America vaccinated me against diseases that killed an aunt and uncle I never got to meet.",
+      "topics": [
+        "public_health"
+      ],
+      "type": "personal_story",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed cited his personal experience with vaccination as evidence of America's public health infrastructure.",
+      "why_it_matters": "Strong pro-vaccine positioning from a physician-senator may support public health funding that sustains hospital immunization programs.",
+      "seconds": 834,
+      "ts_label": "13:54",
+      "end_seconds": 842,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=834s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:15:33",
+      "quote": "America's greatness is the fight to guarantee all of us the health care we need if we get sick.",
+      "topics": [
+        "single_payer",
+        "aca_coverage"
+      ],
+      "type": "framing",
+      "hospital_relevance": "high",
+      "context": "El-Sayed framed universal health care access as a core American value.",
+      "why_it_matters": "A senator committed to guaranteed coverage could advance legislation expanding insurance enrollment, directly affecting hospital uncompensated care levels.",
+      "seconds": 933,
+      "ts_label": "15:33",
+      "end_seconds": 941,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=933s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:15:39",
+      "quote": "Our greatness is the fight for clean air, clean water, and a good home. Our greatness is the fight for equal pay, for equal work, and full freedom of our bodies.",
+      "topics": [
+        "public_health",
+        "reproductive"
+      ],
+      "type": "framing",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed included bodily autonomy language alongside environmental health priorities.",
+      "why_it_matters": "The 'full freedom of our bodies' framing suggests support for reproductive health protections that affect OB-GYN services at Michigan hospitals.",
+      "seconds": 939,
+      "ts_label": "15:39",
+      "end_seconds": 948,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=939s",
+      "verified": true
+    },
+    {
+      "speaker": "el-sayed",
+      "timestamp": "00:16:18",
+      "quote": "Shouldn't be this hard to see a doctor in the richest, most powerful country in the world.",
+      "topics": [
+        "costs",
+        "rural"
+      ],
+      "type": "framing",
+      "hospital_relevance": "high",
+      "context": "El-Sayed decried the difficulty of accessing medical care despite national wealth.",
+      "why_it_matters": "Emphasis on access barriers could drive legislative action on provider shortages, network adequacy, or rural health funding relevant to Michigan hospitals.",
+      "seconds": 978,
+      "ts_label": "16:18",
+      "end_seconds": 986,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=978s",
+      "verified": true
+    }
+  ]
+}

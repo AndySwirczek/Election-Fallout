@@ -1,0 +1,383 @@
+{
+  "_comment": "Who to look for and how. Add speakers/queries here; reruns only fetch what is new. Seed lists of Michigan Democratic winners come from github.com/AndySwirczek/Election-Fallout (Nov. 4, 2026).",
+  "start_date": "2026-11-03",
+  "election_label": "Michigan general election, Nov. 3, 2026",
+  "search_results_per_query": 12,
+  "max_duration_minutes": 75,
+  "speakers": [
+    {
+      "key": "benson",
+      "name": "Jocelyn Benson",
+      "office": "Governor-elect",
+      "detail": "Secretary of State; elected governor over John James. Takes office Jan. 1, 2027.",
+      "aliases": [
+        "Benson",
+        "Governor-elect Benson"
+      ],
+      "queries": [
+        "Jocelyn Benson victory speech",
+        "Governor-elect Jocelyn Benson",
+        "Benson transition press conference"
+      ]
+    },
+    {
+      "key": "el-sayed",
+      "name": "Abdul El-Sayed",
+      "office": "U.S. Senator-elect",
+      "detail": "Physician and former Detroit health director; won the open U.S. Senate seat over Mike Rogers.",
+      "aliases": [
+        "El-Sayed",
+        "Abdul",
+        "Senator-elect El-Sayed"
+      ],
+      "queries": [
+        "Abdul El-Sayed victory speech",
+        "Abdul El-Sayed election night",
+        "Senator-elect El-Sayed"
+      ]
+    },
+    {
+      "key": "savit",
+      "name": "Eli Savit",
+      "office": "Attorney General-elect",
+      "detail": "Washtenaw County Prosecutor; elected attorney general over Doug Lloyd.",
+      "aliases": [
+        "Savit"
+      ],
+      "queries": [
+        "Eli Savit attorney general",
+        "Eli Savit victory"
+      ]
+    },
+    {
+      "key": "brinks",
+      "name": "Winnie Brinks",
+      "office": "Lieutenant Governor-elect",
+      "detail": "Senate Majority Leader; Benson's running mate.",
+      "aliases": [
+        "Brinks"
+      ],
+      "queries": [
+        "Winnie Brinks",
+        "Brinks lieutenant governor-elect"
+      ]
+    },
+    {
+      "key": "puri",
+      "name": "Ranjeev Puri",
+      "office": "House Democratic Leader, likely Speaker",
+      "detail": "House Minority Leader 2025-26; Democrats flipped the state House.",
+      "aliases": [
+        "Puri",
+        "Leader Puri"
+      ],
+      "queries": [
+        "Ranjeev Puri",
+        "Michigan House Democrats majority Puri",
+        "Speaker-elect Puri"
+      ]
+    },
+    {
+      "key": "hertel",
+      "name": "Curtis Hertel Jr.",
+      "office": "Michigan Democratic Party Chair",
+      "detail": "MDP chair; spoke at the Hudson's Detroit watch party.",
+      "aliases": [
+        "Hertel",
+        "Curtis Hertel"
+      ],
+      "queries": [
+        "Curtis Hertel election night",
+        "Michigan Democratic Party chair election results"
+      ]
+    },
+    {
+      "key": "mcmorrow",
+      "name": "Mallory McMorrow",
+      "office": "State Senator",
+      "detail": "Senate Majority Whip.",
+      "aliases": [
+        "McMorrow"
+      ],
+      "queries": [
+        "Mallory McMorrow election night"
+      ]
+    },
+    {
+      "key": "camilleri",
+      "name": "Darrin Camilleri",
+      "office": "State Senator",
+      "detail": "Assistant Senate Majority Leader 2025-26; possible Senate leadership candidate.",
+      "aliases": [
+        "Camilleri"
+      ],
+      "queries": [
+        "Darrin Camilleri",
+        "Senator Camilleri Senate majority"
+      ]
+    },
+    {
+      "key": "senate-dems",
+      "name": "Michigan Senate Democrats",
+      "office": "Senate majority caucus",
+      "detail": "Caucus leadership remarks and press events after expanding the Senate majority.",
+      "aliases": [
+        "Senate Democrats"
+      ],
+      "queries": [
+        "Michigan Senate Democrats majority leader 2027",
+        "Michigan Senate Democrats press conference"
+      ]
+    },
+    {
+      "key": "mccann",
+      "name": "Sean McCann",
+      "office": "U.S. Rep.-elect, MI-4",
+      "detail": "State senator; declared victory over Rep. Bill Huizenga.",
+      "aliases": [
+        "McCann"
+      ],
+      "queries": [
+        "Sean McCann victory",
+        "Sean McCann election night Huizenga"
+      ]
+    },
+    {
+      "key": "lawrence",
+      "name": "William Lawrence",
+      "office": "U.S. Rep.-elect, MI-7",
+      "detail": "Declared victory over Rep. Tom Barrett.",
+      "aliases": [
+        "Lawrence",
+        "Will Lawrence"
+      ],
+      "queries": [
+        "William Lawrence victory Barrett",
+        "Will Lawrence election night"
+      ]
+    },
+    {
+      "key": "hines",
+      "name": "Christina Hines",
+      "office": "U.S. Rep.-elect, MI-10",
+      "detail": "Declared victory in the open seat over Mike Bouchard.",
+      "aliases": [
+        "Hines"
+      ],
+      "queries": [
+        "Christina Hines victory",
+        "Christina Hines election night Bouchard"
+      ]
+    },
+    {
+      "key": "moss",
+      "name": "Jeremy Moss",
+      "office": "U.S. Rep.-elect, MI-11",
+      "detail": "Senate President Pro Tem; won the open seat.",
+      "aliases": [
+        "Moss"
+      ],
+      "queries": [
+        "Jeremy Moss victory 11th district",
+        "Jeremy Moss election night"
+      ]
+    },
+    {
+      "key": "dingell",
+      "name": "Debbie Dingell",
+      "office": "U.S. Rep., MI-6",
+      "detail": "Re-elected.",
+      "aliases": [
+        "Dingell"
+      ],
+      "queries": [
+        "Debbie Dingell election night",
+        "Debbie Dingell Democrats win House"
+      ]
+    },
+    {
+      "key": "scholten",
+      "name": "Hillary Scholten",
+      "office": "U.S. Rep., MI-3",
+      "detail": "Re-elected.",
+      "aliases": [
+        "Scholten"
+      ],
+      "queries": [
+        "Hillary Scholten election night"
+      ]
+    },
+    {
+      "key": "mcdonald-rivet",
+      "name": "Kristen McDonald Rivet",
+      "office": "U.S. Rep., MI-8",
+      "detail": "Re-elected.",
+      "aliases": [
+        "McDonald Rivet"
+      ],
+      "queries": [
+        "Kristen McDonald Rivet election night"
+      ]
+    },
+    {
+      "key": "mckinney",
+      "name": "Donavan McKinney",
+      "office": "U.S. Rep.-elect, MI-13",
+      "detail": "Won the seat after ousting Rep. Shri Thanedar in the primary.",
+      "aliases": [
+        "McKinney"
+      ],
+      "queries": [
+        "Donavan McKinney victory"
+      ]
+    },
+    {
+      "key": "tlaib",
+      "name": "Rashida Tlaib",
+      "office": "U.S. Rep., MI-12",
+      "detail": "Re-elected.",
+      "aliases": [
+        "Tlaib"
+      ],
+      "queries": [
+        "Rashida Tlaib election night 2026"
+      ]
+    },
+    {
+      "key": "whitmer",
+      "name": "Gretchen Whitmer",
+      "office": "Governor (outgoing)",
+      "detail": "Term-limited; hands off to Benson.",
+      "aliases": [
+        "Whitmer"
+      ],
+      "queries": [
+        "Whitmer election night Benson",
+        "Whitmer Benson transition"
+      ]
+    }
+  ],
+  "general_queries": [
+    "Michigan Democrats election night Hudson's Detroit",
+    "Michigan Democrats trifecta press conference",
+    "Michigan election results Democrats speech",
+    "Michigan Democratic watch party speech"
+  ],
+  "print_quotes": [
+    {
+      "id": "puri-election-night-health",
+      "speaker": "puri",
+      "period": "election_night",
+      "setting": "Election-night speech, Democratic watch party at Hudson's Detroit, Nov. 3",
+      "date": "2026-11-03",
+      "quote": "I watched healthcare be ripped away from our sick. I watched food and benefits taken away from our needy, and I watched tax cuts to billionaire corporations.",
+      "outlet": "Michigan Advance",
+      "author": "Ben Solis",
+      "headline": "Return of the trifecta: Michigan Democrats reclaim full control of state government",
+      "url": "https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html",
+      "variant": "The Detroit News renders it: \"I've watched health care be ripped away from our sick.\"",
+      "health": true,
+      "type": "criticism",
+      "hospital_relevance": "medium",
+      "context": "Puri listed health care losses first among the harms he said he watched as minority leader under the Republican House majority."
+    },
+    {
+      "id": "puri-election-night-mandate",
+      "speaker": "puri",
+      "period": "election_night",
+      "setting": "Election-night speech, Democratic watch party at Hudson's Detroit, Nov. 3",
+      "date": "2026-11-03",
+      "quote": "The people of Michigan spoke up tonight and said that they've had enough, and they delivered a House Democratic majority.",
+      "outlet": "Michigan Advance",
+      "author": "Ben Solis",
+      "headline": "Return of the trifecta: Michigan Democrats reclaim full control of state government",
+      "url": "https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html",
+      "health": false,
+      "context": "Puri called the result not a \"blue wave\" but a \"tsunami\" and said House Democrats would protect the state from \"chaos\" in Washington (Detroit News)."
+    },
+    {
+      "id": "camilleri-senate-majority",
+      "speaker": "camilleri",
+      "period": "election_night",
+      "setting": "Post-election statement as chair of the Senate Democratic Fund (setting not reported)",
+      "date": "2026-11-04",
+      "quote": "Every one of our candidates left it all on the field and because of their hard work, Michiganders will have an expanded majority in the state Senate that's ready to deliver even more progress for the people of our state.",
+      "outlet": "The Detroit News",
+      "author": "Beth LeBlanc and Craig Mauger",
+      "headline": "Michigan Democrats ride 'blue tsunami' to control in Lansing",
+      "url": "https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html",
+      "health": false,
+      "context": "Camilleri credited candidates for an expanded Senate majority; he did not name health care or other specific priorities in the reported remarks."
+    }
+  ],
+  "watch_channels": [
+    {
+      "url": "https://www.youtube.com/channel/UCKC0Tff91CDt4UC3e70_z2A",
+      "name": "Rep. Ranjeev Puri",
+      "speaker": "puri"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC8FAWQ90GQ4sKpvVFlf-u1A",
+      "name": "Michigan House Democrats",
+      "speaker": "puri"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC9QPolE5QBbZoDf3S6YMqug",
+      "name": "Darrin Camilleri",
+      "speaker": "camilleri"
+    }
+  ],
+  "watch_channel_recent": 6,
+  "exclude_ids": {
+    "x992ba85cfa": "13abc 'Eli Savit elected...' is a 1:20 news package (one Savit soundbite plus Doug Lloyd), not the speech; metadata reported 13:51."
+  },
+  "event_overrides": {
+    "flFkJewk2XA": {
+      "event_key": "benson-victory-speech-2026-11-04",
+      "completeness": "partial",
+      "why": "WXYZ upload titled as a post-projection appearance is a 5-minute cut of the victory speech."
+    }
+  },
+  "seed_urls": [
+    {
+      "url": "https://www.wnem.com/video/2026/11/04/full-speech-benson-declares-victory/",
+      "speaker": "benson",
+      "note": "From Andy's notes."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_Dq9FyAc-QI",
+      "speaker": "benson",
+      "note": "From Andy's notes."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IycEAVOvAB4",
+      "speaker": "benson",
+      "note": "From Andy's notes."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OewJHzfiqZw",
+      "speaker": "el-sayed",
+      "note": "From Andy's notes."
+    }
+  ],
+  "preferred_channels": [
+    "C-SPAN",
+    "Michigan Public",
+    "WKAR News",
+    "Click On Detroit | Local 4 | WDIV",
+    "WXYZ-TV Detroit | Channel 7",
+    "CBS Detroit",
+    "FOX 2 Detroit",
+    "WOOD TV8",
+    "WNEM TV5",
+    "WLNS 6 News",
+    "13 ON YOUR SIDE",
+    "WWMT-TV",
+    "MLive",
+    "Detroit Free Press",
+    "The Detroit News",
+    "ABC12",
+    "UpNorthLive",
+    "Bridge Michigan"
+  ]
+}

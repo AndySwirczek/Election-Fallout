@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500;600;700;800&family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400;1,6..72,500&family=JetBrains+Mono:wght@500;600&display=swap");
+@import "tailwindcss" source(none);
+@source "./";
+
+@theme {
+  --font-display: "Inter Tight", "Segoe UI", Arial, sans-serif;
+  --font-body: "Inter", "Segoe UI", Arial, sans-serif;
+  --font-quote: "Newsreader", Georgia, serif;
+  --font-mono: "JetBrains Mono", Consolas, monospace;
+
+  --color-ink: #0f1a24;
+  --color-slate: #3f4c5a;
+  --color-mute: #6a7684;
+  --color-line: #dfe5ea;
+  --color-wash: #f4f7f8;
+  --color-deep: #0a3540;
+  --color-deep-2: #0f4d5b;
+  --color-teal: #0c7c86;
+  --color-teal-soft: #e3f2f3;
+  --color-mint: #9fe0d6;
+  --color-coral: #d4512b;
+  --color-coral-soft: #fbe9e2;
+  --color-amber: #b7791f;
+  --color-amber-soft: #fbf1dc;
+}
+
+@page {
+  size: Letter;
+  margin: 0.6in 0.65in 0.72in 0.65in;
+}
+@page :first {
+  margin: 0;
+}
+
+html {
+  font-family: var(--font-body);
+  color: var(--color-ink);
+  background: white;
+  font-feature-settings: "cv11", "ss01";
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.avoid-break {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.page-break {
+  break-before: page;
+  page-break-before: always;
+}
+h1, h2, h3, h4 {
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+.num {
+  font-family: var(--font-display);
+  font-variant-numeric: lining-nums tabular-nums;
+  letter-spacing: -0.035em;
+  line-height: 0.92;
+}
+
+.q {
+  font-family: var(--font-quote);
+}
+.q::before {
+  content: "\201C";
+}
+.q::after {
+  content: "\201D";
+}
+
+/* Cover: exactly one Letter page, full bleed. */
+.cover {
+  width: 8.5in;
+  height: 11in;
+  position: relative;
+  overflow: hidden;
+  background: var(--color-deep);
+  color: white;
+}
+.cover-grid {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(159, 224, 214, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(159, 224, 214, 0.07) 1px, transparent 1px);
+  background-size: 0.5in 0.5in;
+}
+.cover-glow {
+  position: absolute;
+  right: -2.2in;
+  top: -1.6in;
+  width: 7in;
+  height: 7in;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgba(12, 124, 134, 0.55) 0%, rgba(12, 124, 134, 0) 70%);
+}
+
+.ts {
+  font-family: var(--font-mono);
+  font-weight: 600;
+  font-size: 10.5px;
+  letter-spacing: 0.01em;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 7px 2px 6px;
+  border-radius: 999px;
+  background: var(--color-teal-soft);
+  color: var(--color-teal);
+  white-space: nowrap;
+}
+.ts::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 6px solid currentColor;
+  border-top: 3.5px solid transparent;
+  border-bottom: 3.5px solid transparent;
+}
+
+.link-u {
+  color: var(--color-teal);
+  border-bottom: 1px solid rgba(12, 124, 134, 0.35);
+}
+
+.matrix th.rot > div {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  white-space: nowrap;
+}
+
+.src-table td, .src-table th {
+  padding: 6px 6px;
+  vertical-align: top;
+}
+.src-table tbody tr {
+  border-bottom: 1px solid var(--color-line);
+}
+
+@media screen {
+  body {
+    background: #e9eef1;
+    padding: 24px 12px;
+    margin: 0;
+  }
+  .report {
+    max-width: 8.5in;
+    margin: 0 auto;
+  }
+  .sheet {
+    background: white;
+    padding: 0.6in 0.65in;
+    box-shadow: 0 2px 24px rgba(10, 53, 64, 0.12);
+  }
+  .cover {
+    max-width: 100%;
+    height: auto;
+    min-height: 11in;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 24px rgba(10, 53, 64, 0.2);
+  }
+}
+@media screen and (max-width: 700px) {
+  .sheet { padding: 24px 16px; }
+  .cover { min-height: auto; }
+}
+
+@media print {
+  body {
+    margin: 0;
+  }
+}
