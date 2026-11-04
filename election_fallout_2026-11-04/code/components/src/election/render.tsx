@@ -4,7 +4,8 @@
  *   bun run src/election/render.tsx [path/to/data.json] [--brief]
  *
  * --brief renders the 2-3 page short version (components/Brief.tsx) to
- * election_health_<date>_brief.html instead of the full report.
+ * election_health_<date>_brief.html instead of the full report. Its text comes from
+ * brief.json next to data.json.
  *
  * Writes reports/election_fallout/election_health_<date>.html and
  * dist/election_last_render.json (consumed by src/election/pdf.ts).
@@ -13,7 +14,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { renderToStaticMarkup } from "react-dom/server";
-import { Brief } from "./components/Brief";
+import { Brief, type BriefContent } from "./components/Brief";
 import { Report } from "./components/Report";
 import type { ReportData } from "./types";
 
@@ -28,7 +29,14 @@ const distDir = join(componentsDir, "dist");
 mkdirSync(distDir, { recursive: true });
 
 const data: ReportData = JSON.parse(readFileSync(dataPath, "utf8"));
-const body = renderToStaticMarkup(brief ? <Brief data={data} /> : <Report data={data} />);
+let body: string;
+if (brief) {
+  const briefPath = join(dirname(dataPath), "brief.json");
+  const content: BriefContent = JSON.parse(readFileSync(briefPath, "utf8"));
+  body = renderToStaticMarkup(<Brief data={{ ...data, brief: content }} />);
+} else {
+  body = renderToStaticMarkup(<Report data={data} />);
+}
 
 const cssOut = join(distDir, "election.css");
 const twCli = join(componentsDir, "node_modules", "@tailwindcss", "cli", "dist", "index.mjs");

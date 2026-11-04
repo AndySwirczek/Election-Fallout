@@ -1,0 +1,45 @@
+{
+  "_comment": "Content for the short report (render.tsx --brief). Hand-written from data.json findings and transcripts: only what was said, no recommendations or analysis. Kept separate from data.json so pipeline reruns don't overwrite it.",
+  "summary": [
+    "From election night (Nov. 3) through Nov. 4, {{speakers}} Democratic leaders appeared on camera in {{events}} speeches, press events and interviews ({{minutes}} minutes of video). Three of them talked about health care: Abdul El-Sayed (21 statements), Debbie Dingell (5) and Jocelyn Benson (2). Winnie Brinks, Curtis Hertel Jr. and Mallory McMorrow did not mention health care.",
+    "El-Sayed said the first thing to do is stop the federal Medicaid cuts scheduled for January 2027. He said people who lose Medicaid will end up in emergency rooms, and that he expects some Republicans, especially from rural communities, to support reversing the cuts. He called for Medicare for All, said Blue Cross Blue Shield holds about 85% of Michigan's insurance market, and said insurers should not be able to raise rates by double digits or do stock buybacks.",
+    "Dingell said reversing the Medicaid cuts will be \"one of the first things\" the new U.S. House majority does, along with reinstating the ACA premium tax credit. She described constituents worried about losing Medicaid after receiving letters from the federal government. Benson listed health care with housing, child care and energy as costs her administration will make affordable, and pledged that women and girls will have access to the health care they need. Ranjeev Puri, quoted by the Michigan Advance, said he \"watched healthcare be ripped away from our sick.\"",
+    "No leader mentioned hospitals, nurses or reimbursement, and no one named a specific state health bill. Attorney General-elect Eli Savit's victory remarks, as reported by the Michigan Advance and WLNS, did not mention health care."
+  ],
+  "speakers": {
+    "el-sayed": "Called stopping the January 2027 Medicaid cuts the first priority and Medicare for All the answer on health care. Criticized Blue Cross Blue Shield's market share and rate increases, and called for limits on rate increases and stock buybacks and for breaking up large corporations. Told stories of constituents struggling with insurance and medical costs.",
+    "dingell": "Said reversing the Medicaid cuts and reinstating the ACA premium tax credit will be among the new House majority's first acts. Described constituents afraid of losing Medicaid. Called the health care system \"broken.\"",
+    "benson": "Listed health care with housing, child care and energy as costs to make affordable. Pledged that women and girls will have access to the health care they need. Named no specific health policy.",
+    "brinks": "Did not mention health care. Spoke about affordability and working across parties.",
+    "hertel": "Did not mention health care. Rallied supporters and predicted wins across the ticket.",
+    "mcmorrow": "Did not mention health care. Spoke about the economy, organizing and the U.S. Senate race.",
+    "puri": "\"I watched healthcare be ripped away from our sick\" (election-night watch party, per the Michigan Advance). Named no specific health policy.",
+    "camilleri": "Did not mention health care. His statement was about the expanded Senate Democratic majority (per The Detroit News)."
+  },
+  "quote_ids": [
+    "el-sayed-wdiv-interview-2026-11-04#1",
+    "el-sayed-wdiv-interview-2026-11-04#2",
+    "el-sayed-wdiv-interview-2026-11-04#4",
+    "el-sayed-wdiv-interview-2026-11-04#5",
+    "el-sayed-wdiv-interview-2026-11-04#9",
+    "el-sayed-wdiv-interview-2026-11-04#11",
+    "el-sayed-victory-speech-2026-11-04#1",
+    "el-sayed-victory-speech-2026-11-04#10",
+    "dingell-fox2-interview-2026-11-04#1",
+    "dingell-fox2-interview-2026-11-04#2",
+    "dingell-fox2-interview-2026-11-04#3",
+    "dingell-nbc-interview-2026-11-04#1",
+    "benson-brinks-transition-presser-2026-11-04#1",
+    "benson-victory-speech-2026-11-04#1",
+    "print:puri-election-night-health"
+  ],
+  "extra_speakers": [
+    {
+      "key": "savit",
+      "name": "Eli Savit",
+      "office": "Attorney General-elect",
+      "source": "News quote",
+      "said": "Did not mention health care in his Nov. 4 victory remarks. Said he would represent \"the people and not the powerful\" and \"I am going to work for you\" (per the Michigan Advance and WLNS). No post-election video found."
+    }
+  ]
+}

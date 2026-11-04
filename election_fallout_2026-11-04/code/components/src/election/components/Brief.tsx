@@ -1,19 +1,25 @@
 /**
- * Short (2-3 page) version of the election-fallout report for org leaders.
- * Same data and styles as Report.tsx: header, executive summary, signals for hospitals
- * (one supporting quote each), and a one-row-per-leader table.
+ * Short version of the election-fallout report for org leaders: what was said, and a plain
+ * summary of it. No recommendations, relevance ratings or analysis.
+ *
+ * Text comes from data/brief.json (attached as data.brief by render.tsx --brief); quotes and
+ * timestamps come from data.json.
  */
-import type { ReportData, Speaker, StatKey } from "../types";
+import type { ReportData, StatKey } from "../types";
 import { shortDate } from "../types";
 import { Badge, Monogram, OutletChip, SectionHead, Tokenized, Ts, eventByKey, speakerName } from "./bits";
 
-const BRIEF_STATS: StatKey[] = ["events", "minutes", "health_findings", "high_relevance"];
-
-function clip(s: string, n = 190): string {
-  return s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "").replace(/[,;:]$/, "") + " …" : s;
+export interface BriefContent {
+  summary: string[];
+  speakers: Record<string, string>;
+  quote_ids: string[];
+  extra_speakers?: { key: string; name: string; office: string; source: string; said: string }[];
 }
+export type BriefData = ReportData & { brief: BriefContent };
 
-function Header({ data }: { data: ReportData }) {
+const BRIEF_STATS: StatKey[] = ["events", "minutes", "speakers_on_health", "health_findings"];
+
+function Header({ data }: { data: BriefData }) {
   const a = shortDate(data.period_start);
   const b = shortDate(data.period_end);
   return (
@@ -31,15 +37,13 @@ function Header({ data }: { data: ReportData }) {
           What Michigan&rsquo;s new majority said about health care
         </h1>
         <p className="mt-2 max-w-[6in] text-[12.5px] leading-[1.45] text-white/80">
-          The key points from election-night speeches and first interviews. Full quotes, themes and leader
-          profiles are in the 20-page report.
+          What the winners said in election-night speeches and first interviews, and a summary of it. The full
+          20-page report has every statement and transcript.
         </p>
         <div className="mt-4 grid grid-cols-4 gap-px overflow-hidden rounded-[8px] bg-white/15">
           {BRIEF_STATS.map((k) => (
             <div key={k} className="bg-deep/90 px-3 pb-2.5 pt-2">
-              <div className={"num text-[28px] font-bold " + (k === "high_relevance" ? "text-[#ff9d7e]" : "text-white")}>
-                {data.stats[k].toLocaleString()}
-              </div>
+              <div className="num text-[28px] font-bold text-white">{data.stats[k].toLocaleString()}</div>
               <div className="mt-1 text-[10px] leading-snug text-white/70">{data.stat_labels[k]}</div>
             </div>
           ))}
@@ -49,13 +53,12 @@ function Header({ data }: { data: ReportData }) {
   );
 }
 
-function BottomLine({ data }: { data: ReportData }) {
-  const paras = data.executive_summary.split(/\n\s*\n/).filter(Boolean);
+function Summary({ data }: { data: BriefData }) {
   return (
     <section className="mt-7">
-      <SectionHead n="01" title="The bottom line" />
+      <SectionHead n="01" title="Summary of what was said" />
       <div className="space-y-3 text-[12.5px] leading-[1.58] text-slate">
-        {paras.map((p, i) => (
+        {data.brief.summary.map((p, i) => (
           <p key={i}>
             <Tokenized text={p} stats={data.stats} />
           </p>
@@ -65,100 +68,96 @@ function BottomLine({ data }: { data: ReportData }) {
   );
 }
 
-function Signals({ data }: { data: ReportData }) {
-  if (!data.watch_list.length) return null;
-  return (
-    <section className="mt-7">
-      <SectionHead n="02" title="Signals for hospitals" kicker="What MHA should watch for or prepare for, with one statement behind each." />
-      <div className="space-y-3">
-        {data.watch_list.map((w, i) => {
-          const id = w.evidence[0];
-          const f = id && !id.startsWith("print:") ? data.findings[id] : undefined;
-          const p = id?.startsWith("print:") ? data.print_quotes?.[id.slice(6)] : undefined;
-          return (
-            <div key={i} className="avoid-break grid grid-cols-[0.42in_1fr] gap-2.5 rounded-[10px] border border-line px-3.5 py-3">
-              <div className="num text-[26px] font-bold text-coral">{String(i + 1).padStart(2, "0")}</div>
-              <div>
-                <h3 className="font-display text-[14.5px] font-bold leading-snug text-deep">{w.title}</h3>
-                <p className="mt-0.5 text-[12px] leading-[1.5] text-slate">{w.body}</p>
-                {f && (
-                  <div className="mt-1.5 flex items-start gap-2 text-[11px] leading-snug">
-                    <Ts href={f.link} label={f.ts_label} external={!eventByKey(data, f.event_key)?.timestamped} />
-                    <span className="text-slate">
-                      <span className="font-semibold text-ink">{speakerName(data, f.speaker)}:</span>{" "}
-                      <span className="q italic">{clip(f.quote)}</span>
-                    </span>
-                  </div>
-                )}
-                {p && (
-                  <div className="mt-1.5 flex items-start gap-2 text-[11px] leading-snug">
-                    <OutletChip q={p} />
-                    <span className="text-slate">
-                      <span className="font-semibold text-ink">{speakerName(data, p.speaker)}:</span>{" "}
-                      <span className="q italic">{clip(p.excerpt ?? p.quote)}</span>
-                    </span>
-                  </div>
-                )}
-              </div>
-            </div>
-          );
-        })}
-      </div>
-    </section>
-  );
-}
-
-function LeaderRow({ s, printOnly }: { s: Speaker; printOnly?: boolean }) {
+function Row({ name, office, count, badge, said, active }: {
+  name: string; office: string; count?: number; badge?: string; said: string; active: boolean;
+}) {
   return (
     <tr className="avoid-break border-t border-line align-top">
       <td className="py-2 pr-3">
         <div className="flex items-center gap-2">
-          <Monogram name={s.name} size={24} tone={s.health_count || (printOnly && s.print_health) ? "deep" : "light"} />
+          <Monogram name={name} size={24} tone={active ? "deep" : "light"} />
           <div className="leading-tight">
-            <div className="text-[12px] font-semibold text-ink">{s.name}</div>
-            <div className="text-[10px] text-mute">{s.office}</div>
+            <div className="text-[12px] font-semibold text-ink">{name}</div>
+            <div className="text-[10px] text-mute">{office}</div>
           </div>
         </div>
       </td>
       <td className="py-2 pr-3 text-center">
-        {printOnly ? (
-          <Badge tone="amber">News quote</Badge>
-        ) : (
-          <>
-            <div className="font-display text-[17px] font-bold text-deep">{s.health_count || "–"}</div>
-            {s.high_count > 0 && <div className="text-[9.5px] text-coral">{s.high_count} high stakes</div>}
-          </>
-        )}
+        {badge ? <Badge tone="amber">{badge}</Badge> : <div className="font-display text-[17px] font-bold text-deep">{count || "–"}</div>}
       </td>
-      <td className="py-2 text-[11.5px] leading-snug text-slate">{s.takeaway}</td>
+      <td className="py-2 text-[11.5px] leading-snug text-slate">{said}</td>
     </tr>
   );
 }
 
-function WhoSaidWhat({ data }: { data: ReportData }) {
+function Leaders({ data }: { data: BriefData }) {
   const speakers = [...data.speakers].sort((a, b) => b.health_count - a.health_count);
+  const said = (k: string, fallback: string) => data.brief.speakers[k] ?? fallback;
   return (
     <section className="mt-7">
-      <SectionHead n="03" title="Who said what" kicker="Health statements per leader across the appearances reviewed." />
+      <SectionHead n="02" title="What each leader said" kicker="Health statements counted across each leader's appearances on video, Nov. 3–4." />
       <table className="w-full border-collapse">
         <thead>
           <tr className="text-left text-[9.5px] font-semibold uppercase tracking-[0.1em] text-mute">
             <th className="w-[2in] pb-1.5">Leader</th>
             <th className="w-[0.85in] pb-1.5 text-center">Health statements</th>
-            <th className="pb-1.5">Takeaway</th>
+            <th className="pb-1.5">What they said</th>
           </tr>
         </thead>
         <tbody>
           {speakers.map((s) => (
-            <LeaderRow key={s.key} s={s} />
+            <Row key={s.key} name={s.name} office={s.office} count={s.health_count} said={said(s.key, s.takeaway)} active={s.health_count > 0} />
           ))}
           {(data.print_speakers ?? []).map((s) => (
-            <LeaderRow key={s.key} s={s} printOnly />
+            <Row key={s.key} name={s.name} office={s.office} badge="News quote" said={said(s.key, s.takeaway)} active={(s.print_health ?? 0) > 0} />
+          ))}
+          {(data.brief.extra_speakers ?? []).map((s) => (
+            <Row key={s.key} name={s.name} office={s.office} badge={s.source} said={s.said} active={false} />
           ))}
         </tbody>
       </table>
+    </section>
+  );
+}
+
+function Quotes({ data }: { data: BriefData }) {
+  return (
+    <section className="mt-7">
+      <SectionHead n="03" title="In their words" kicker="Selected health care statements, verbatim. Timestamps open the video at that moment." />
+      <div className="space-y-2.5">
+        {data.brief.quote_ids.map((id) => {
+          if (id.startsWith("print:")) {
+            const p = data.print_quotes?.[id.slice(6)];
+            if (!p) return null;
+            return (
+              <div key={id} className="avoid-break flex items-start gap-2.5 border-b border-line pb-2.5 text-[12px] leading-snug">
+                <OutletChip q={p} />
+                <div>
+                  <div className="text-[10.5px] font-semibold text-ink">
+                    {speakerName(data, p.speaker)} <span className="font-normal text-mute">&middot; {p.setting}</span>
+                  </div>
+                  <div className="q mt-0.5 italic text-slate">{p.quote}</div>
+                </div>
+              </div>
+            );
+          }
+          const f = data.findings[id];
+          if (!f) return null;
+          return (
+            <div key={id} className="avoid-break flex items-start gap-2.5 border-b border-line pb-2.5 text-[12px] leading-snug">
+              <Ts href={f.link} label={f.ts_label} external={!eventByKey(data, f.event_key)?.timestamped} />
+              <div>
+                <div className="text-[10.5px] font-semibold text-ink">
+                  {speakerName(data, f.speaker)} <span className="font-normal text-mute">&middot; {f.event_label}</span>
+                </div>
+                <div className="q mt-0.5 italic text-slate">{f.quote}</div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
       {data.coverage.not_found.length > 0 && (
-        <p className="mt-3 text-[10.5px] leading-snug text-mute">
+        <p className="mt-4 text-[10.5px] leading-snug text-mute">
           <span className="font-semibold text-slate">No post-election video found for: </span>
           {data.coverage.not_found.map((s) => s.name).join(", ")}.
         </p>
@@ -168,14 +167,14 @@ function WhoSaidWhat({ data }: { data: ReportData }) {
   );
 }
 
-export function Brief({ data }: { data: ReportData }) {
+export function Brief({ data }: { data: BriefData }) {
   return (
     <main className="report brief font-body text-ink">
       <div className="sheet">
         <Header data={data} />
-        <BottomLine data={data} />
-        <Signals data={data} />
-        <WhoSaidWhat data={data} />
+        <Summary data={data} />
+        <Leaders data={data} />
+        <Quotes data={data} />
       </div>
     </main>
   );
