@@ -1,0 +1,124 @@
+{
+  "event_key": "dingell-fox2-interview-2026-11-04",
+  "canonical_id": "wBwr5WNZbwg",
+  "url": "https://www.youtube.com/watch?v=wBwr5WNZbwg",
+  "model": "opus",
+  "analyzed_at": "2026-11-04T12:19:37",
+  "segments": 106,
+  "headline": "Rep. Debbie Dingell urged Democrats to deliver on kitchen-table issues after their sweep of Michigan and congressional races, warning against overreading the mandate.",
+  "health_summary": "Dingell recounted a personal encounter with two women at a Kroger who feared losing Medicaid coverage after receiving federal letters. She pledged that the new Democratic House majority's first-100-hours agenda would reverse Medicaid cuts, reverse food assistance cuts, and reinstate the Affordable Care Act premium tax credit while Congress works on broader health care reform.",
+  "priorities": [
+    {
+      "speaker": "dingell",
+      "label": "Lower grocery and housing costs",
+      "timestamp": "00:01:17",
+      "quote": "the number one thing on everybody's mind working families is how much groceries were costing. uh that some people were afraid they couldn't pay their rent, let alone buy a house.",
+      "seconds": 77,
+      "ts_label": "1:17",
+      "end_seconds": 88,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=77s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "label": "Pass federal budget by deadline",
+      "timestamp": "00:02:24",
+      "quote": "we have to get a budget bill passed by December 11th because the current one expires then",
+      "seconds": 144,
+      "ts_label": "2:24",
+      "end_seconds": 152,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=144s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "label": "Reverse Medicaid cuts",
+      "timestamp": "00:03:03",
+      "quote": "one of the first things that we are going to do is to reverse the cuts in Medicaid",
+      "seconds": 183,
+      "ts_label": "3:03",
+      "end_seconds": 191,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=183s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "label": "Reverse food assistance cuts",
+      "timestamp": "00:03:08",
+      "quote": "reverse the cuts in food to help make sure we don't have hungry children and seniors",
+      "seconds": 188,
+      "ts_label": "3:08",
+      "end_seconds": 196,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=188s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "label": "Reinstate ACA premium tax credit",
+      "timestamp": "00:03:19",
+      "quote": "reinstate the affordable care tax credit until we can figure out what we really need to do to fix a broken health care system.",
+      "seconds": 199,
+      "ts_label": "3:19",
+      "end_seconds": 207,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=199s",
+      "verified": true
+    }
+  ],
+  "findings": [
+    {
+      "speaker": "dingell",
+      "timestamp": "00:01:33",
+      "quote": "two women uh had a long talk with me about the letter they received from the federal government on their Medicaid and they didn't know if they were going to have health insurance and they didn't know how to sort through it all and they didn't know if their child got sick they were going to be able to take them to the doctor or afford their medicine.",
+      "topics": [
+        "medicaid",
+        "costs",
+        "federal_cuts"
+      ],
+      "type": "personal_story",
+      "hospital_relevance": "high",
+      "context": "Dingell described a Sunday encounter at a Kroger where two women told her they feared losing Medicaid coverage and access to care for their children after receiving federal letters.",
+      "why_it_matters": "Medicaid coverage losses translate directly into uncompensated care and revenue risk for Michigan hospitals that serve newly uninsured patients.",
+      "seconds": 93,
+      "ts_label": "1:33",
+      "end_seconds": 110,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=93s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "timestamp": "00:03:03",
+      "quote": "one of the first things that we are going to do is to reverse the cuts in Medicaid, reverse the cuts in food to help make sure we don't have hungry children and seniors and to address the health care issue",
+      "topics": [
+        "medicaid",
+        "federal_cuts"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "high",
+      "context": "Dingell said the Democratic House majority's first-100-hours agenda will reverse federal Medicaid cuts and food assistance reductions.",
+      "why_it_matters": "Restoring Medicaid funding would stabilize a major payer source for Michigan hospitals and reduce the risk of rising uninsured patient volumes.",
+      "seconds": 183,
+      "ts_label": "3:03",
+      "end_seconds": 199,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=183s",
+      "verified": true
+    },
+    {
+      "speaker": "dingell",
+      "timestamp": "00:03:19",
+      "quote": "reinstate the affordable care tax credit until we can figure out what we really need to do to fix a broken health care system.",
+      "topics": [
+        "aca_coverage",
+        "costs"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "high",
+      "context": "Dingell committed to reinstating the ACA premium tax credit as an interim measure while pursuing broader health system reform.",
+      "why_it_matters": "Renewing premium subsidies would help maintain marketplace enrollment in Michigan, protecting hospitals from coverage losses and the associated rise in uncompensated care.",
+      "seconds": 199,
+      "ts_label": "3:19",
+      "end_seconds": 207,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=199s",
+      "verified": true
+    }
+  ]
+}

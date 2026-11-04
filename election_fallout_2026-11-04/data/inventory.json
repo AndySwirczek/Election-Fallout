@@ -1,0 +1,559 @@
+{
+  "generated": "2026-11-04T12:23:18",
+  "events": [
+    {
+      "event_key": "hertel-watch-party-remarks-2026-11-03",
+      "label": "Curtis Hertel remarks at Democratic watch party, Hudson's Detroit",
+      "event_date": "2026-11-03",
+      "kind": "remarks",
+      "speakers": [
+        "hertel"
+      ],
+      "canonical_id": "Ar_Y2ZPespw",
+      "url": "https://www.youtube.com/watch?v=Ar_Y2ZPespw",
+      "title": "Michigan DNC Chair Curtis Hertel: \"It's been a strange 48 hours\"",
+      "channel": "WWMT-TV",
+      "duration": 66,
+      "upload_date": "2026-11-04",
+      "completeness": "clip",
+      "is_live": false,
+      "alternates": [],
+      "transcript_path": "transcripts/election_2026-11-03_hertel-watch-party-remarks-2026-11-03.txt",
+      "transcript_source": "auto-generated",
+      "segments": 19,
+      "status": "transcribed"
+    },
+    {
+      "event_key": "mcmorrow-wwmt-interview-2026-11-03",
+      "label": "Mallory McMorrow interview with WWMT, election night",
+      "event_date": "2026-11-03",
+      "kind": "interview",
+      "speakers": [
+        "mcmorrow"
+      ],
+      "canonical_id": "M5FJOTQb2EU",
+      "url": "https://www.youtube.com/watch?v=M5FJOTQb2EU",
+      "title": "Michigan's Mallory McMorrow talks Election Night",
+      "channel": "WWMT-TV",
+      "duration": 118,
+      "upload_date": "2026-11-04",
+      "completeness": "full",
+      "is_live": false,
+      "alternates": [],
+      "transcript_path": "transcripts/election_2026-11-03_mcmorrow-wwmt-interview-2026-11-03.txt",
+      "transcript_source": "auto-generated",
+      "segments": 59,
+      "status": "transcribed"
+    },
+    {
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "event_date": "2026-11-04",
+      "kind": "interview",
+      "speakers": [
+        "el-sayed"
+      ],
+      "canonical_id": "WL7ZL2UENhI",
+      "url": "https://www.youtube.com/watch?v=WL7ZL2UENhI",
+      "title": "U.S. Senator-Elect Abdul El-Sayed shares top priorities for Congress",
+      "channel": "Click On Detroit | Local 4 | WDIV",
+      "duration": 736,
+      "upload_date": "2026-11-04",
+      "completeness": "full",
+      "is_live": false,
+      "alternates": [],
+      "transcript_path": "transcripts/election_2026-11-04_el-sayed-wdiv-interview-2026-11-04.txt",
+      "transcript_source": "auto-generated",
+      "segments": 415,
+      "status": "transcribed"
+    },
+    {
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "event_date": "2026-11-04",
+      "kind": "victory_speech",
+      "speakers": [
+        "el-sayed"
+      ],
+      "canonical_id": "yMNEKYd3Pb8",
+      "url": "https://www.youtube.com/watch?v=yMNEKYd3Pb8",
+      "title": "Abdul El-Sayed (D-MI) Election Night Speech",
+      "channel": "C-SPAN",
+      "duration": 1304,
+      "upload_date": "2026-11-04",
+      "completeness": "full",
+      "is_live": false,
+      "alternates": [
+        {
+          "id": "VZZ79hJ_2GY",
+          "url": "https://www.youtube.com/watch?v=VZZ79hJ_2GY",
+          "channel": "CBS Detroit",
+          "title": "U.S. Senate candidate Abdul El-Sayed speaks in Detroit",
+          "duration": 1260,
+          "completeness": "full"
+        },
+        {
+          "id": "uYlIA2UYlfk",
+          "url": "https://www.youtube.com/watch?v=uYlIA2UYlfk",
+          "channel": "WWMT-TV",
+          "title": "LIVE: Abdul El-Sayed declares victory in Michigan U.S. Senate Race",
+          "duration": 1255,
+          "completeness": "full"
+        },
+        {
+          "id": "oW9DCdGIZro",
+          "url": "https://www.youtube.com/watch?v=oW9DCdGIZro",
+          "channel": "WXYZ-TV Detroit | Channel 7",
+          "title": "Abdul El-Sayed speaks after claiming victory in U.S. Senate race in Michigan",
+          "duration": 1214,
+          "completeness": "full"
+        },
+        {
+          "id": "Btos5P_O2EY",
+          "url": "https://www.youtube.com/watch?v=Btos5P_O2EY",
+          "channel": "C-SPAN",
+          "title": "El-Sayed Full Victory Speech",
+          "duration": 1197,
+          "completeness": "full"
+        },
+        {
+          "id": "lkjfhgxZAS4",
+          "url": "https://www.youtube.com/watch?v=lkjfhgxZAS4",
+          "channel": "13 ON YOUR SIDE",
+          "title": "Abdul El-Sayed calls himself Michigan Senator-Elect",
+          "duration": 1161,
+          "completeness": "full"
+        },
+        {
+          "id": "WOmPHRTYK60",
+          "url": "https://www.youtube.com/watch?v=WOmPHRTYK60",
+          "channel": "Click On Detroit | Local 4 | WDIV",
+          "title": "Abdul El-Sayed delivers victory speech, as AP projects him winner of Michigan's US Senate race",
+          "duration": 1129,
+          "completeness": "full"
+        },
+        {
+          "id": "kPheGIFg0mA",
+          "url": "https://www.youtube.com/watch?v=kPheGIFg0mA",
+          "channel": "Reuters",
+          "title": "LIVE: Michigan Democratic Senate candidate Abdul El-Sayed’s midterms watch party in Detroit",
+          "duration": 3366,
+          "completeness": "full"
+        },
+        {
+          "id": "FSAUyp01gOE",
+          "url": "https://www.youtube.com/watch?v=FSAUyp01gOE",
+          "channel": "PBS NewsHour",
+          "title": "WATCH: Democrat Abdul El-Sayed of Michigan speaks at election night watch party",
+          "duration": 2740,
+          "completeness": "full"
+        },
+        {
+          "id": "ZBZybii6w0w",
+          "url": "https://www.youtube.com/watch?v=ZBZybii6w0w",
+          "channel": "Diario AS",
+          "title": "Abdul El-Sayed's FULL VICTORY SPEECH as FIRST MUSLIM ELECTED TO THE US SENATE",
+          "duration": 1266,
+          "completeness": "full"
+        },
+        {
+          "id": "OewJHzfiqZw",
+          "url": "https://www.youtube.com/watch?v=OewJHzfiqZw",
+          "channel": "DRM News",
+          "title": "FULL: Abdul El-Sayed Slams Musk, AIPAC and Billionaires in Historic Senate Victory Speech | AC1G",
+          "duration": 1240,
+          "completeness": "full"
+        },
+        {
+          "id": "DhLZJRTvh2M",
+          "url": "https://www.youtube.com/watch?v=DhLZJRTvh2M",
+          "channel": "Al Jazeera English",
+          "title": "US midterms: Democrat Abdul El-Sayed wins Michigan Senate race",
+          "duration": 1235,
+          "completeness": "full"
+        },
+        {
+          "id": "hzwjZ2QYe6Y",
+          "url": "https://www.youtube.com/watch?v=hzwjZ2QYe6Y",
+          "channel": "USA TODAY",
+          "title": "Full Abdul El-Sayed speech celebrates Michigan election results, becoming first Muslim US Senator",
+          "duration": 1234,
+          "completeness": "full"
+        },
+        {
+          "id": "c7KBDFFofpo",
+          "url": "https://www.youtube.com/watch?v=c7KBDFFofpo",
+          "channel": "LiveNOW from FOX",
+          "title": "BREAKING: Abdul El-Sayed wins Michigan senate race",
+          "duration": 1220,
+          "completeness": "full"
+        },
+        {
+          "id": "5OgaePFdrJU",
+          "url": "https://www.youtube.com/watch?v=5OgaePFdrJU",
+          "channel": "MS NOW",
+          "title": "LIVE: Abdul El-Sayed gives remarks on night of midterm election in Michigan Senate race",
+          "duration": 1110,
+          "completeness": "full"
+        },
+        {
+          "id": "W7rJ_D6qCjI",
+          "url": "https://www.youtube.com/watch?v=W7rJ_D6qCjI",
+          "channel": "DRM News",
+          "title": "Abdul El-Sayed Mocks JD Vance, Slams Trump and Billionaires in Historic Senate Victory Speech | AC1G",
+          "duration": 725,
+          "completeness": "full"
+        },
+        {
+          "id": "f38afpQbzTQ",
+          "url": "https://www.youtube.com/watch?v=f38afpQbzTQ",
+          "channel": "DRM News",
+          "title": "Abdul El-Sayed Declares Victory Over Rogers, Slams Trump in Fiery Michigan Senate Speech | AC1B",
+          "duration": 495,
+          "completeness": "full"
+        },
+        {
+          "id": "kuDj8_b2qgw",
+          "url": "https://www.youtube.com/watch?v=kuDj8_b2qgw",
+          "channel": "Bloomberg Television",
+          "title": "Midterm Elections 2026: El-Sayed Speaks After Winning Michigan Senate Race",
+          "duration": 257,
+          "completeness": "partial"
+        },
+        {
+          "id": "btlcNVA4PeI",
+          "url": "https://www.youtube.com/watch?v=btlcNVA4PeI",
+          "channel": "Forbes Breaking News",
+          "title": "'This Fight Is Not Yet Over': Abdul El-Sayed Promises Change For Michigan In Midterm Victory Speech",
+          "duration": 255,
+          "completeness": "partial"
+        },
+        {
+          "id": "JKJxUHkaX7Q",
+          "url": "https://www.youtube.com/watch?v=JKJxUHkaX7Q",
+          "channel": "UpNorthLive",
+          "title": "Abdul El-Sayed jokes about Trump during Michigan Senate victory speech",
+          "duration": 57,
+          "completeness": "clip"
+        },
+        {
+          "id": "bvZ28uJEYyI",
+          "url": "https://www.youtube.com/watch?v=bvZ28uJEYyI",
+          "channel": "DRM News",
+          "title": "El-Sayed Shares Emotional Moment With Wife Sarah Jukaku After Historic Senate Victory | AC1G",
+          "duration": 260,
+          "completeness": "clip"
+        },
+        {
+          "id": "y8RlCC1oT4I",
+          "url": "https://www.youtube.com/watch?v=y8RlCC1oT4I",
+          "channel": "Bloomberg Podcasts",
+          "title": "Democrat Abdul El-Sayed Wins Michigan Senate Race, Delivers Victory Speech",
+          "duration": 257,
+          "completeness": "clip"
+        },
+        {
+          "id": "hJTbB9_V4uM",
+          "url": "https://www.youtube.com/watch?v=hJTbB9_V4uM",
+          "channel": "Forbes Breaking News",
+          "title": "'JD...': El-Sayed Shares Direct Message To Vice President Vance In Michigan Senate Victory Speech",
+          "duration": 155,
+          "completeness": "clip"
+        },
+        {
+          "id": "qmUeGizc-Ks",
+          "url": "https://www.youtube.com/watch?v=qmUeGizc-Ks",
+          "channel": "Associated Press",
+          "title": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race, will become first Muslim senator",
+          "duration": 98,
+          "completeness": "clip"
+        },
+        {
+          "id": "TH_tHzSWcho",
+          "url": "https://www.youtube.com/watch?v=TH_tHzSWcho",
+          "channel": "Associated Press",
+          "title": "'The bad guys lost,' Abdul El-Sayed says after winning the Michigan Senate race",
+          "duration": 92,
+          "completeness": "clip"
+        }
+      ],
+      "transcript_path": "transcripts/election_2026-11-04_el-sayed-victory-speech-2026-11-04.txt",
+      "transcript_source": "auto-generated",
+      "segments": 456,
+      "status": "transcribed"
+    },
+    {
+      "event_key": "dingell-fox2-interview-2026-11-04",
+      "label": "Debbie Dingell post-election interview, FOX 2 Detroit",
+      "event_date": "2026-11-04",
+      "kind": "interview",
+      "speakers": [
+        "dingell"
+      ],
+      "canonical_id": "wBwr5WNZbwg",
+      "url": "https://www.youtube.com/watch?v=wBwr5WNZbwg",
+      "title": "Rep. Debbie Dingell on the Democrats' historic election night",
+      "channel": "FOX 2 Detroit",
+      "duration": 219,
+      "upload_date": "2026-11-04",
+      "completeness": "full",
+      "is_live": false,
+      "alternates": [],
+      "transcript_path": "transcripts/election_2026-11-04_dingell-fox2-interview-2026-11-04.txt",
+      "transcript_source": "auto-generated",
+      "segments": 106,
+      "status": "transcribed"
+    },
+    {
+      "event_key": "dingell-nbc-interview-2026-11-04",
+      "label": "Debbie Dingell post-election interview, NBC News",
+      "event_date": "2026-11-04",
+      "kind": "interview",
+      "speakers": [
+        "dingell"
+      ],
+      "canonical_id": "Qt1jr4liIoc",
+      "url": "https://www.youtube.com/watch?v=Qt1jr4liIoc",
+      "title": "Rep. Debbie Dingell: If Democrats don't deliver, voters will send another message in two years",
+      "channel": "NBC News",
+      "duration": 196,
+      "upload_date": "2026-11-04",
+      "completeness": "full",
+      "is_live": false,
+      "alternates": [],
+      "transcript_path": "transcripts/election_2026-11-04_dingell-nbc-interview-2026-11-04.txt",
+      "transcript_source": "manual",
+      "segments": 103,
+      "status": "transcribed"
+    },
+    {
+      "event_key": "dingell-watch-party-remarks-2026-11-04",
+      "label": "Debbie Dingell remarks at Democratic watch party, Hudson's Detroit",
+      "event_date": "2026-11-04",
+      "kind": "remarks",
+      "speakers": [
+        "dingell"
+      ],
+      "canonical_id": "WbIzIwlWcjM",
+      "url": "https://www.youtube.com/watch?v=WbIzIwlWcjM",
+      "title": "Debbie Dingell wins in Michigan's 6th Congressional District, CBS News projects",
+      "channel": "CBS Detroit",
+      "duration": 93,
+      "upload_date": "2026-11-04",
+      "completeness": "clip",
+      "is_live": false,
+      "alternates": [],
+      "transcript_path": "transcripts/election_2026-11-04_dingell-watch-party-remarks-2026-11-04.txt",
+      "transcript_source": "manual",
+      "segments": 40,
+      "status": "transcribed"
+    },
+    {
+      "event_key": "benson-brinks-transition-presser-2026-11-04",
+      "label": "Jocelyn Benson and Winnie Brinks transition press conference, Detroit",
+      "event_date": "2026-11-04",
+      "kind": "press_conference",
+      "speakers": [
+        "benson",
+        "brinks"
+      ],
+      "canonical_id": "xha9JCqPbBQ",
+      "url": "https://www.youtube.com/watch?v=xha9JCqPbBQ",
+      "title": "Michigan's Governor-Elect Jocelyn Benson speaks in Detroit",
+      "channel": "CBS Detroit",
+      "duration": 1218,
+      "upload_date": "2026-11-04",
+      "completeness": "full",
+      "is_live": false,
+      "alternates": [],
+      "transcript_path": "transcripts/election_2026-11-04_benson-brinks-transition-presser-2026-11-04.txt",
+      "transcript_source": "whisper",
+      "segments": 82,
+      "status": "transcribed"
+    },
+    {
+      "event_key": "benson-victory-speech-2026-11-04",
+      "label": "Jocelyn Benson victory speech, Hudson's Detroit",
+      "event_date": "2026-11-04",
+      "kind": "victory_speech",
+      "speakers": [
+        "benson",
+        "brinks"
+      ],
+      "canonical_id": "X0E_y4UhEaM",
+      "url": "https://www.youtube.com/watch?v=X0E_y4UhEaM",
+      "title": "Jocelyn Benson delivers victory speech, as AP projects her as winner of Michigan governor race",
+      "channel": "Click On Detroit | Local 4 | WDIV",
+      "duration": 771,
+      "upload_date": "2026-11-04",
+      "completeness": "full",
+      "is_live": false,
+      "alternates": [
+        {
+          "id": "4g0UkbAlixs",
+          "url": "https://www.youtube.com/watch?v=4g0UkbAlixs",
+          "channel": "WOOD TV8",
+          "title": "Benson declares victory in Michigan governor's race",
+          "duration": 610,
+          "completeness": "full"
+        },
+        {
+          "id": "j7bbWaOcj4Y",
+          "url": "https://www.youtube.com/watch?v=j7bbWaOcj4Y",
+          "channel": "WWMT-TV",
+          "title": "LIVE: Jocelyn Benson declares victory in race for Michigan Governor",
+          "duration": 569,
+          "completeness": "full"
+        },
+        {
+          "id": "_-Svsi1iVgk",
+          "url": "https://www.youtube.com/watch?v=_-Svsi1iVgk",
+          "channel": "WNEM TV5",
+          "title": "Full speech: Benson declares victory",
+          "duration": 553,
+          "completeness": "full"
+        },
+        {
+          "id": "IycEAVOvAB4",
+          "url": "https://www.youtube.com/watch?v=IycEAVOvAB4",
+          "channel": "Michigan Public",
+          "title": "Governor Candidate Jocelyn Benson Gives Victory Speech",
+          "duration": 543,
+          "completeness": "full"
+        },
+        {
+          "id": "F0BYuvbXdKo",
+          "url": "https://www.youtube.com/watch?v=F0BYuvbXdKo",
+          "channel": "WOOD TV8",
+          "title": "Jocelyn Benson declares victory in race for Michigan governor",
+          "duration": 484,
+          "completeness": "full"
+        },
+        {
+          "id": "BOYbGsniVvg",
+          "url": "https://www.youtube.com/watch?v=BOYbGsniVvg",
+          "channel": "WWMT-TV",
+          "title": "FULL: Democratic Governor-elect Jocelyn Benson calls victory for Michigan",
+          "duration": 481,
+          "completeness": "full"
+        },
+        {
+          "id": "-d5OwD_bWFs",
+          "url": "https://www.youtube.com/watch?v=-d5OwD_bWFs",
+          "channel": "DRM News",
+          "title": "Jocelyn Benson Declares Michigan Governor Victory, Vows to Stand Up to Powerful Bullies | AC1B",
+          "duration": 555,
+          "completeness": "full"
+        },
+        {
+          "id": "_Dq9FyAc-QI",
+          "url": "https://www.youtube.com/watch?v=_Dq9FyAc-QI",
+          "channel": "DRM News",
+          "title": "FULL: Benson Delivers Victory Speech After Winning Michigan Governor Race Against John James | AC1G",
+          "duration": 487,
+          "completeness": "full"
+        },
+        {
+          "id": "-2g5ns5By8I",
+          "url": "https://www.youtube.com/watch?v=-2g5ns5By8I",
+          "channel": "BG On The Scene",
+          "title": "Michigan Governor-elect Jocelyn Benson Gives Victory Speech in Detroit",
+          "duration": 485,
+          "completeness": "full"
+        },
+        {
+          "id": "FTyIDfz00m4",
+          "url": "https://www.youtube.com/watch?v=FTyIDfz00m4",
+          "channel": "Mid-Michigan now on FOX66 & NBC25",
+          "title": "Democratic Governor-elect Jocelyn Benson calls victory for Michigan",
+          "duration": 481,
+          "completeness": "full"
+        },
+        {
+          "id": "-uiPsK8djLY",
+          "url": "https://www.youtube.com/watch?v=-uiPsK8djLY",
+          "channel": "SPTV NEWS",
+          "title": "'Will Stand Up to Any Bully': Jocelyn Benson WARNS Trump After Historic Michigan Win",
+          "duration": 476,
+          "completeness": "full"
+        },
+        {
+          "id": "x2a77d0b592",
+          "url": "https://www.wnem.com/video/2026/11/04/full-speech-benson-declares-victory/",
+          "channel": "ArcPublishing",
+          "title": "Full speech: Benson declares victory",
+          "duration": 5531,
+          "completeness": "full"
+        },
+        {
+          "id": "sUsGFVJeW_Y",
+          "url": "https://www.youtube.com/watch?v=sUsGFVJeW_Y",
+          "channel": "CBS Detroit",
+          "title": "Jocelyn Benson wins Michigan's gubernatorial race, CBS News projects",
+          "duration": 483,
+          "completeness": "partial"
+        },
+        {
+          "id": "a0auAdtNmFU",
+          "url": "https://www.youtube.com/watch?v=a0auAdtNmFU",
+          "channel": "FOX 2 Detroit",
+          "title": "Jocelyn Benson elected next Michigan governor",
+          "duration": 480,
+          "completeness": "partial"
+        },
+        {
+          "id": "ey-ypDaE74E",
+          "url": "https://www.youtube.com/watch?v=ey-ypDaE74E",
+          "channel": "13 ON YOUR SIDE",
+          "title": "Michigan elects Jocelyn Benson as the next governor",
+          "duration": 388,
+          "completeness": "partial"
+        },
+        {
+          "id": "flFkJewk2XA",
+          "url": "https://www.youtube.com/watch?v=flFkJewk2XA",
+          "channel": "WXYZ-TV Detroit | Channel 7",
+          "title": "Jocelyn Benson speaks after several outlets project she will be Michigan's next governor",
+          "duration": 320,
+          "completeness": "partial"
+        },
+        {
+          "id": "pQwBsfQwaLQ",
+          "url": "https://www.youtube.com/watch?v=pQwBsfQwaLQ",
+          "channel": "News Central",
+          "title": "\"I Will Always Fight for You!\" Michigan Governor-Elect Delivers Powerful Victory Speech | AC1W",
+          "duration": 380,
+          "completeness": "partial"
+        },
+        {
+          "id": "RdnoI_VnE5s",
+          "url": "https://www.youtube.com/watch?v=RdnoI_VnE5s",
+          "channel": "DWS News",
+          "title": "Jocelyn Benson Delivers Powerful Victory Speech At Michigan Election Night Rally | DWS News | AC14",
+          "duration": 275,
+          "completeness": "partial"
+        },
+        {
+          "id": "qsuZNsUieJw",
+          "url": "https://www.youtube.com/watch?v=qsuZNsUieJw",
+          "channel": "WOOD TV8",
+          "title": "Jocelyn Benson declares victory in race Michigan governor's race",
+          "duration": 151,
+          "completeness": "clip"
+        },
+        {
+          "id": "Je54nj8gzWY",
+          "url": "https://www.youtube.com/watch?v=Je54nj8gzWY",
+          "channel": "WWMT-TV",
+          "title": "WATCH: Michigan's Jocelyn Benson declares victory in Governor race",
+          "duration": 101,
+          "completeness": "clip"
+        }
+      ],
+      "transcript_path": "transcripts/election_2026-11-04_benson-victory-speech-2026-11-04.txt",
+      "transcript_source": "auto-generated",
+      "segments": 255,
+      "status": "transcribed"
+    }
+  ]
+}

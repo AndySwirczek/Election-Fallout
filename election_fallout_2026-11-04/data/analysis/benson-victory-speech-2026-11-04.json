@@ -1,0 +1,97 @@
+{
+  "event_key": "benson-victory-speech-2026-11-04",
+  "canonical_id": "X0E_y4UhEaM",
+  "url": "https://www.youtube.com/watch?v=X0E_y4UhEaM",
+  "model": "opus",
+  "analyzed_at": "2026-11-04T12:22:02",
+  "segments": 255,
+  "headline": "Governor-elect Jocelyn Benson declared victory and pledged to use a Democratic trifecta to lower costs, fight corruption, and protect rights for all Michiganders.",
+  "health_summary": "Benson made one direct health-care reference, pledging that she and Lieutenant Governor-elect Winnie Brinks would ensure women and girls always have access to the health care they need. She did not discuss hospitals, Medicaid, federal health cuts, drug prices, or any other specific health-policy topic.",
+  "priorities": [
+    {
+      "speaker": "benson",
+      "label": "Lower costs for families",
+      "timestamp": "00:04:54",
+      "quote": "They want leaders who will fight for them, fight to lower costs, fight to grow our economy, fight the corruption that too often protects the pe powerful and hurts the people.",
+      "seconds": 294,
+      "ts_label": "4:54",
+      "end_seconds": 305,
+      "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=294s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "End corruption",
+      "timestamp": "00:04:58",
+      "quote": "fight the corruption that too often protects the pe powerful and hurts the people.",
+      "seconds": 298,
+      "ts_label": "4:58",
+      "end_seconds": 306,
+      "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=298s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Grow Michigan's economy",
+      "timestamp": "00:04:58",
+      "quote": "fight to grow our economy",
+      "seconds": 298,
+      "ts_label": "4:58",
+      "end_seconds": 306,
+      "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=298s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Women's health care access",
+      "timestamp": "00:06:21",
+      "quote": "As governor and lieutenant governor, who will work together every day to ensure that young girls and women always have access to the health care they need and the rights and freedoms they deserve.",
+      "seconds": 381,
+      "ts_label": "6:21",
+      "end_seconds": 394,
+      "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=381s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Pass state voting rights act",
+      "timestamp": "00:06:43",
+      "quote": "Our Democratic trifecta is going to go to Lancing and pass a voting rights act for the state of Michigan to ensure that every citizen in this state is protected at the ballot box in every election.",
+      "seconds": 403,
+      "ts_label": "6:43",
+      "end_seconds": 419,
+      "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=403s",
+      "verified": true
+    },
+    {
+      "speaker": "benson",
+      "label": "Stand up to federal overreach",
+      "timestamp": "00:10:12",
+      "quote": "I will be unafraid to stand up to any bully, no matter how powerful, who brings chaos to our communities or tries to put their profits ahead of our people or threatens the rights or freedoms of Michiganders.",
+      "seconds": 612,
+      "ts_label": "10:12",
+      "end_seconds": 632,
+      "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=612s",
+      "verified": true
+    }
+  ],
+  "findings": [
+    {
+      "speaker": "benson",
+      "timestamp": "00:06:21",
+      "quote": "As governor and lieutenant governor, who will work together every day to ensure that young girls and women always have access to the health care they need and the rights and freedoms they deserve.",
+      "topics": [
+        "reproductive"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "medium",
+      "context": "Benson pledged that she and Brinks would protect women's and girls' access to health care and associated rights.",
+      "why_it_matters": "The commitment signals continued state-level protection of reproductive health services, which affects hospitals and health systems that provide those services.",
+      "seconds": 381,
+      "ts_label": "6:21",
+      "end_seconds": 394,
+      "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=381s",
+      "verified": true
+    }
+  ]
+}

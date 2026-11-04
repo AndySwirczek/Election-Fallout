@@ -1,0 +1,1072 @@
+{
+  "-2g5ns5By8I": {
+    "id": "-2g5ns5By8I",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Benson victory speech uploaded by BG On The Scene, 8:05"
+  },
+  "-d5OwD_bWFs": {
+    "id": "-d5OwD_bWFs",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Benson victory speech uploaded by DRM News, 9:15"
+  },
+  "-uiPsK8djLY": {
+    "id": "-uiPsK8djLY",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Benson victory speech uploaded by SPTV NEWS, 7:56"
+  },
+  "29Tax8cb8Pg": {
+    "id": "29Tax8cb8Pg",
+    "keep": false,
+    "reason": "News panel analysis of election results, no tracked person speaking at length"
+  },
+  "3z3nTcQuXVU": {
+    "id": "3z3nTcQuXVU",
+    "keep": false,
+    "reason": "TYT reaction/commentary channel reacting to El-Sayed speech, not the speech itself"
+  },
+  "4dGjLmgem6U": {
+    "id": "4dGjLmgem6U",
+    "keep": false,
+    "reason": "Pete Buttigieg is not a tracked person"
+  },
+  "4g0UkbAlixs": {
+    "id": "4g0UkbAlixs",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Benson victory speech uploaded by WOOD TV8, 10:10"
+  },
+  "5OgaePFdrJU": {
+    "id": "5OgaePFdrJU",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "El-Sayed election night remarks, 18:30 live stream by MS NOW"
+  },
+  "5ZnQKPS32hI": {
+    "id": "5ZnQKPS32hI",
+    "keep": false,
+    "reason": "Local TV morning news recap of election results, no tracked person speaking at length"
+  },
+  "5ngmSH-Fn48": {
+    "id": "5ngmSH-Fn48",
+    "keep": false,
+    "reason": "Local TV election night results coverage, no tracked person speaking at length"
+  },
+  "9DtBtbeRa60": {
+    "id": "9DtBtbeRa60",
+    "keep": false,
+    "reason": "AP news brief, 0:56 wire report, no tracked person speaking at length"
+  },
+  "9HRaBVYznB0": {
+    "id": "9HRaBVYznB0",
+    "keep": false,
+    "reason": "McMorrow CNN clip from Election Day before polls closed (Nov 3 daytime), 0:48 clip"
+  },
+  "9_dmiWDezFE": {
+    "id": "9_dmiWDezFE",
+    "keep": false,
+    "reason": "News package about watch parties for Benson and James, likely anchor-driven coverage with soundbites"
+  },
+  "A8Cd_hobe7w": {
+    "id": "A8Cd_hobe7w",
+    "keep": false,
+    "reason": "Election Day team coverage before polls closed, no tracked person speaking at length"
+  },
+  "ARH5-b_PA3c": {
+    "id": "ARH5-b_PA3c",
+    "keep": false,
+    "reason": "Pennsylvania election coverage, not Michigan"
+  },
+  "Ar_Y2ZPespw": {
+    "id": "Ar_Y2ZPespw",
+    "keep": true,
+    "speakers": [
+      "hertel"
+    ],
+    "event_key": "hertel-watch-party-remarks-2026-11-03",
+    "event_label": "Curtis Hertel remarks at Democratic watch party, Hudson's Detroit",
+    "event_date": "2026-11-03",
+    "kind": "remarks",
+    "completeness": "clip",
+    "reason": "Hertel addressing voters at Democratic watch party on election night, 1:06"
+  },
+  "BOYbGsniVvg": {
+    "id": "BOYbGsniVvg",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Benson victory speech uploaded by WWMT, 8:01"
+  },
+  "BSsPRbRaeZM": {
+    "id": "BSsPRbRaeZM",
+    "keep": false,
+    "reason": "News team coverage of Scholten and DeBoer campaigns, news package format with soundbites"
+  },
+  "BePZKoThcdM": {
+    "id": "BePZKoThcdM",
+    "keep": false,
+    "reason": "News analysis of Senate race, no tracked person speaking at length"
+  },
+  "Btos5P_O2EY": {
+    "id": "Btos5P_O2EY",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "C-SPAN full El-Sayed victory speech, 19:57"
+  },
+  "CutFR6jYHR0": {
+    "id": "CutFR6jYHR0",
+    "keep": false,
+    "reason": "Gary Peters speaking at watch party, not a tracked person"
+  },
+  "D7z6OXQWWl4": {
+    "id": "D7z6OXQWWl4",
+    "keep": false,
+    "reason": "News station election night results update, anchor-driven coverage"
+  },
+  "E5p-WJz3m7E": {
+    "id": "E5p-WJz3m7E",
+    "keep": false,
+    "reason": "News station election results update, anchor-driven coverage"
+  },
+  "EEv9YUlqZZk": {
+    "id": "EEv9YUlqZZk",
+    "keep": false,
+    "reason": "Election Day voters-head-to-polls coverage, before results came in"
+  },
+  "EhRV6WeNFKk": {
+    "id": "EhRV6WeNFKk",
+    "keep": false,
+    "reason": "Morning news headlines recap, no tracked person speaking at length"
+  },
+  "ErjZlX6fMOQ": {
+    "id": "ErjZlX6fMOQ",
+    "keep": false,
+    "reason": "News station recap of Democratic wins, anchor-driven coverage"
+  },
+  "F0BYuvbXdKo": {
+    "id": "F0BYuvbXdKo",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "WOOD TV8 upload of Benson's victory speech, 8:04 is likely near-complete"
+  },
+  "F0fyhPXhDiM": {
+    "id": "F0fyhPXhDiM",
+    "keep": false,
+    "reason": "Dingell on Meet the Press NOW while voters are still casting ballots; Election Day interview before polls closed"
+  },
+  "FSAUyp01gOE": {
+    "id": "FSAUyp01gOE",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "PBS NewsHour full 45:40 watch-party stream capturing El-Sayed's victory speech"
+  },
+  "GILjomuEpJ8": {
+    "id": "GILjomuEpJ8",
+    "keep": false,
+    "reason": "FOX 2 Detroit anchor-led results coverage; no tracked person speaking at length"
+  },
+  "IFp5BZYJPWw": {
+    "id": "IFp5BZYJPWw",
+    "keep": false,
+    "reason": "WWMT news package on MI-4 race; McCann does not appear to speak at length, just election-night reporting"
+  },
+  "IycEAVOvAB4": {
+    "id": "IycEAVOvAB4",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Michigan Public / C-SPAN source of Benson victory speech, 9:03"
+  },
+  "J0EyyNzk9iI": {
+    "id": "J0EyyNzk9iI",
+    "keep": false,
+    "reason": "FRANCE 24 pre-election profile of El-Sayed Senate race; recorded before polls closed"
+  },
+  "JKJxUHkaX7Q": {
+    "id": "JKJxUHkaX7Q",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "clip",
+    "reason": "0:57 excerpt of El-Sayed victory speech (Trump joke moment)"
+  },
+  "JbHyJvLi8cM": {
+    "id": "JbHyJvLi8cM",
+    "keep": false,
+    "reason": "FOX 29 Philadelphia multi-state results recap; no tracked person speaking at length"
+  },
+  "Je54nj8gzWY": {
+    "id": "Je54nj8gzWY",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "clip",
+    "reason": "WWMT 1:41 clip of Benson victory speech"
+  },
+  "Jidt5wip_xk": {
+    "id": "Jidt5wip_xk",
+    "keep": false,
+    "reason": "13 ON YOUR SIDE news package tracking multiple congressional races; no tracked person speaking at length"
+  },
+  "LftIamdgZSU": {
+    "id": "LftIamdgZSU",
+    "keep": false,
+    "reason": "WXYZ pre-event report that El-Sayed 'will attend' watch party; no substantive speech from tracked person"
+  },
+  "LtGNVgsmmkY": {
+    "id": "LtGNVgsmmkY",
+    "keep": false,
+    "reason": "WOOD TV8 news recap of Democratic wins across Michigan; anchor-led package, not a tracked person speaking at length"
+  },
+  "M5FJOTQb2EU": {
+    "id": "M5FJOTQb2EU",
+    "keep": true,
+    "speakers": [
+      "mcmorrow"
+    ],
+    "event_key": "mcmorrow-wwmt-interview-2026-11-03",
+    "event_label": "Mallory McMorrow interview with WWMT, election night",
+    "event_date": "2026-11-03",
+    "kind": "interview",
+    "completeness": "full",
+    "reason": "McMorrow one-on-one interview with WWMT on election night; 1:58 is the complete segment"
+  },
+  "OA-WN1BLCoM": {
+    "id": "OA-WN1BLCoM",
+    "keep": false,
+    "reason": "CNN projection coverage and analyst discussion; El-Sayed does not speak at length, anchors and panels dominate"
+  },
+  "OewJHzfiqZw": {
+    "id": "OewJHzfiqZw",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "DRM News 20:40 full upload of El-Sayed victory speech"
+  },
+  "PK6hbhBJK4E": {
+    "id": "PK6hbhBJK4E",
+    "keep": false,
+    "reason": "CNN panel discussing former Stevens adviser; no tracked person speaking at length, pre-election topic"
+  },
+  "QSGc_H32p2c": {
+    "id": "QSGc_H32p2c",
+    "keep": false,
+    "reason": "CBS Detroit pre-election preview of Savit vs Lloyd AG race; recorded before polls closed"
+  },
+  "Qm3ADFJgzW8": {
+    "id": "Qm3ADFJgzW8",
+    "keep": false,
+    "reason": "FOX 2 Detroit anchor results update on Benson lead; no tracked person speaking at length"
+  },
+  "Qt1jr4liIoc": {
+    "id": "Qt1jr4liIoc",
+    "keep": true,
+    "speakers": [
+      "dingell"
+    ],
+    "event_key": "dingell-nbc-interview-2026-11-04",
+    "event_label": "Debbie Dingell post-election interview, NBC News",
+    "event_date": "2026-11-04",
+    "kind": "interview",
+    "completeness": "full",
+    "reason": "Dingell one-on-one NBC post-election interview, 3:16"
+  },
+  "RdnoI_VnE5s": {
+    "id": "RdnoI_VnE5s",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "partial",
+    "reason": "DWS News 4:35 partial upload of Benson victory speech"
+  },
+  "Rzf-yfoyLTY": {
+    "id": "Rzf-yfoyLTY",
+    "keep": false,
+    "reason": "Hertel on CBS Daily Report discussing Stevens endorsement controversy; Election Day interview before polls closed"
+  },
+  "TH_tHzSWcho": {
+    "id": "TH_tHzSWcho",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "clip",
+    "reason": "AP 1:32 clip of El-Sayed victory speech highlights"
+  },
+  "VZZ79hJ_2GY": {
+    "id": "VZZ79hJ_2GY",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "CBS Detroit 21:00 live coverage of El-Sayed speaking in Detroit"
+  },
+  "V_bPfi64ei0": {
+    "id": "V_bPfi64ei0",
+    "keep": false,
+    "reason": "MS NOW pre-election segment about Democrats rallying around El-Sayed after Stevens endorsement; before polls closed"
+  },
+  "W7rJ_D6qCjI": {
+    "id": "W7rJ_D6qCjI",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "DRM News upload of El-Sayed full victory speech in Detroit"
+  },
+  "WOmPHRTYK60": {
+    "id": "WOmPHRTYK60",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "WDIV upload of El-Sayed full victory speech"
+  },
+  "WbIzIwlWcjM": {
+    "id": "WbIzIwlWcjM",
+    "keep": true,
+    "speakers": [
+      "dingell"
+    ],
+    "event_key": "dingell-watch-party-remarks-2026-11-04",
+    "event_label": "Debbie Dingell remarks at Democratic watch party, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "remarks",
+    "completeness": "clip",
+    "reason": "Dingell speaks at the Democratic watch party, short CBS clip"
+  },
+  "X0E_y4UhEaM": {
+    "id": "X0E_y4UhEaM",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "WDIV upload of Benson full victory speech"
+  },
+  "YA-NfpoJ62c": {
+    "id": "YA-NfpoJ62c",
+    "keep": false,
+    "reason": "Detroit Mayor Mary Sheffield speaking; not a tracked person"
+  },
+  "ZBZybii6w0w": {
+    "id": "ZBZybii6w0w",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Diario AS upload of El-Sayed full victory speech"
+  },
+  "_-Svsi1iVgk": {
+    "id": "_-Svsi1iVgk",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "WNEM upload of Benson full victory speech"
+  },
+  "_Dq9FyAc-QI": {
+    "id": "_Dq9FyAc-QI",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "DRM News upload of Benson full victory speech"
+  },
+  "_JxCaSnpPqs": {
+    "id": "_JxCaSnpPqs",
+    "keep": false,
+    "reason": "General election night coverage/results package from 13 ON YOUR SIDE; no tracked person speaking at length"
+  },
+  "a0auAdtNmFU": {
+    "id": "a0auAdtNmFU",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "partial",
+    "reason": "FOX 2 coverage of Benson elected, includes speech footage"
+  },
+  "aCsDqmrRt0w": {
+    "id": "aCsDqmrRt0w",
+    "keep": false,
+    "reason": "News results coverage package; no tracked person speaking at length on camera"
+  },
+  "bokNjtiarr0": {
+    "id": "bokNjtiarr0",
+    "keep": false,
+    "reason": "Short news recap of Democratic wins; likely soundbites only, not a speech or interview"
+  },
+  "btlcNVA4PeI": {
+    "id": "btlcNVA4PeI",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "partial",
+    "reason": "Forbes excerpt of El-Sayed victory speech"
+  },
+  "bvZ28uJEYyI": {
+    "id": "bvZ28uJEYyI",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "clip",
+    "reason": "Clip of El-Sayed emotional moment with wife during victory speech"
+  },
+  "c7KBDFFofpo": {
+    "id": "c7KBDFFofpo",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "LiveNOW from FOX upload of El-Sayed victory speech"
+  },
+  "ey-ypDaE74E": {
+    "id": "ey-ypDaE74E",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "partial",
+    "reason": "13 ON YOUR SIDE coverage of Benson victory speech"
+  },
+  "f38afpQbzTQ": {
+    "id": "f38afpQbzTQ",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "DRM News alternate upload of El-Sayed victory speech"
+  },
+  "flFkJewk2XA": {
+    "id": "flFkJewk2XA",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-morning-after-remarks-2026-11-04",
+    "event_label": "Jocelyn Benson morning-after remarks, WXYZ interview",
+    "event_date": "2026-11-04",
+    "kind": "interview",
+    "completeness": "full",
+    "reason": "Benson speaks Wednesday morning after projected win, one-on-one with WXYZ"
+  },
+  "hJTbB9_V4uM": {
+    "id": "hJTbB9_V4uM",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "clip",
+    "reason": "Forbes clip of El-Sayed's message to JD Vance from victory speech"
+  },
+  "hmlsniHb9eA": {
+    "id": "hmlsniHb9eA",
+    "keep": false,
+    "reason": "Fox News anchor breaking news package projecting El-Sayed win; no extended on-camera speech from El-Sayed"
+  },
+  "hzwjZ2QYe6Y": {
+    "id": "hzwjZ2QYe6Y",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "USA TODAY upload of El-Sayed full victory speech"
+  },
+  "j7bbWaOcj4Y": {
+    "id": "j7bbWaOcj4Y",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "WWMT live stream of Benson victory speech"
+  },
+  "jMmUFRMbRFc": {
+    "id": "jMmUFRMbRFc",
+    "keep": false,
+    "reason": "News results coverage tracking El-Sayed vs Rogers vote count; no tracked person speaking at length"
+  },
+  "kPheGIFg0mA": {
+    "id": "kPheGIFg0mA",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Reuters live stream of El-Sayed watch party including victory speech"
+  },
+  "lkjfhgxZAS4": {
+    "id": "lkjfhgxZAS4",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "13 ON YOUR SIDE full-length upload of El-Sayed claiming victory, 19:21"
+  },
+  "mwalm3BNGrM": {
+    "id": "mwalm3BNGrM",
+    "keep": false,
+    "reason": "Pre-election CBS News segment from Nov 3 before polls closed; campaign coverage, not post-election remarks"
+  },
+  "naSrmypvbRk": {
+    "id": "naSrmypvbRk",
+    "keep": false,
+    "reason": "Pre-election CBS Detroit preview of Benson vs James race; no post-election speech"
+  },
+  "oW9DCdGIZro": {
+    "id": "oW9DCdGIZro",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "WXYZ full upload of El-Sayed's victory speech, 20:14"
+  },
+  "oaRGoU6tjcg": {
+    "id": "oaRGoU6tjcg",
+    "keep": false,
+    "reason": "Election Day pre-results interviews; recorded before polls closed"
+  },
+  "oecHiFtkVXU": {
+    "id": "oecHiFtkVXU",
+    "keep": false,
+    "reason": "CBS Pittsburgh anchor recap of national results; no tracked person speaking at length"
+  },
+  "pL6VXYtvS90": {
+    "id": "pL6VXYtvS90",
+    "keep": false,
+    "reason": "Pete Buttigieg speaking at watch party; not a tracked person"
+  },
+  "pQwBsfQwaLQ": {
+    "id": "pQwBsfQwaLQ",
+    "keep": true,
+    "speakers": [
+      "benson",
+      "brinks"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "partial",
+    "reason": "News Central 6:20 edit of Benson victory speech; mentions Lt. Gov.-elect Brinks joining on stage"
+  },
+  "pkh1hUzl2QA": {
+    "id": "pkh1hUzl2QA",
+    "keep": false,
+    "reason": "News team coverage of watch-party atmospheres with early results; no tracked person speaking at length"
+  },
+  "qmUeGizc-Ks": {
+    "id": "qmUeGizc-Ks",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "clip",
+    "reason": "AP 1:38 clip of El-Sayed declaring victory"
+  },
+  "qsuZNsUieJw": {
+    "id": "qsuZNsUieJw",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "clip",
+    "reason": "WOOD TV8 2:31 clip of Benson declaring victory"
+  },
+  "rplJ5tRh3G4": {
+    "id": "rplJ5tRh3G4",
+    "keep": false,
+    "reason": "Pre-election CBS Detroit preview of MI-10 Hines vs Bouchard race; no post-election remarks"
+  },
+  "sUsGFVJeW_Y": {
+    "id": "sUsGFVJeW_Y",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "partial",
+    "reason": "CBS Detroit 8:03 projection segment that includes portions of Benson's victory speech"
+  },
+  "sgfJPEe9XkU": {
+    "id": "sgfJPEe9XkU",
+    "keep": false,
+    "reason": "News package on Huizenga-McCann race status; anchor/reporter coverage, not McCann speaking at length"
+  },
+  "tWuXyq6XLR8": {
+    "id": "tWuXyq6XLR8",
+    "keep": false,
+    "reason": "Expert/analyst discussion of Benson's lead; no tracked person speaking at length"
+  },
+  "tXZL4_b4Eh4": {
+    "id": "tXZL4_b4Eh4",
+    "keep": false,
+    "reason": "Multi-speaker highlight compilation of victory speeches from many states (TX, MI, KS, OH, etc.); reject per multi-state compilation rule"
+  },
+  "toBGD2agBM4": {
+    "id": "toBGD2agBM4",
+    "keep": false,
+    "reason": "CBS Detroit news package about Benson's transition website; reporter-narrated, likely only short soundbites"
+  },
+  "u9Oda1m5aOE": {
+    "id": "u9Oda1m5aOE",
+    "keep": false,
+    "reason": "Fox Business anchor/analyst projection coverage; no El-Sayed speaking at length"
+  },
+  "uUYF1XfcXqg": {
+    "id": "uUYF1XfcXqg",
+    "keep": false,
+    "reason": "News update on Huizenga's early lead; no tracked person speaking at length"
+  },
+  "uYlIA2UYlfk": {
+    "id": "uYlIA2UYlfk",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "WWMT live 20:55 upload of El-Sayed's full victory speech"
+  },
+  "umr6I7SHzWU": {
+    "id": "umr6I7SHzWU",
+    "keep": false,
+    "reason": "WXYZ results roundup at 11pm; anchor-led coverage, not a tracked person speaking at length"
+  },
+  "wBwr5WNZbwg": {
+    "id": "wBwr5WNZbwg",
+    "keep": true,
+    "speakers": [
+      "dingell"
+    ],
+    "event_key": "dingell-fox2-interview-2026-11-04",
+    "event_label": "Debbie Dingell post-election interview, FOX 2 Detroit",
+    "event_date": "2026-11-04",
+    "kind": "interview",
+    "completeness": "full",
+    "reason": "Dingell one-on-one interview with FOX 2 about Democrats' election night, 3:39"
+  },
+  "wtBQHpCq5h8": {
+    "id": "wtBQHpCq5h8",
+    "keep": false,
+    "reason": "FOX 2 news update on El-Sayed's vote lead; anchor-driven coverage, not El-Sayed speaking at length"
+  },
+  "x2a77d0b592": {
+    "id": "x2a77d0b592",
+    "keep": true,
+    "speakers": [
+      "benson",
+      "brinks"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "ArcPublishing 92-minute full uncut speech including Benson and Brinks"
+  },
+  "x992ba85cfa": {
+    "id": "x992ba85cfa",
+    "keep": true,
+    "speakers": [
+      "savit"
+    ],
+    "event_key": "savit-victory-speech-2026-11-04",
+    "event_label": "Eli Savit victory speech, election night",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "ArcPublishing 13:51 upload of Savit's AG victory speech"
+  },
+  "xByTVmha5XQ": {
+    "id": "xByTVmha5XQ",
+    "keep": false,
+    "reason": "Wisconsin-focused election analysis on FOX 11; no Michigan tracked person speaking"
+  },
+  "xzZCL5KGTls": {
+    "id": "xzZCL5KGTls",
+    "keep": false,
+    "reason": "Live results coverage with anchors recapping early vote tallies; no tracked person speaking at length on camera."
+  },
+  "y5QZRNKZm94": {
+    "id": "y5QZRNKZm94",
+    "keep": false,
+    "reason": "Reaction/commentary channel (MS NOW) reacting to election results; not tracked people speaking on camera themselves."
+  },
+  "y8RlCC1oT4I": {
+    "id": "y8RlCC1oT4I",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "clip",
+    "reason": "Bloomberg's 4:17 upload of El-Sayed's victory speech; a trimmed excerpt of the same election-night speech covered at full length by C-SPAN (21:44)."
+  },
+  "yH0tbFyCHvA": {
+    "id": "yH0tbFyCHvA",
+    "keep": false,
+    "reason": "NYC DSA candidates (Avila Chevalier, Valdez); no tracked Michigan people."
+  },
+  "yMNEKYd3Pb8": {
+    "id": "yMNEKYd3Pb8",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "C-SPAN's full 21:44 recording of El-Sayed's election-night victory speech."
+  },
+  "A85yzYOSn7o": {
+    "id": "A85yzYOSn7o",
+    "keep": false,
+    "reason": "Speaker Mike Johnson remarks, not a tracked person"
+  },
+  "AjwUpX8tRgU": {
+    "id": "AjwUpX8tRgU",
+    "keep": false,
+    "reason": "Hakeem Jeffries coverage, not a tracked person"
+  },
+  "BWNTVT-yLEI": {
+    "id": "BWNTVT-yLEI",
+    "keep": false,
+    "reason": "Benson interview on eve of election before polls closed, pre-election campaign discussion"
+  },
+  "DhLZJRTvh2M": {
+    "id": "DhLZJRTvh2M",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Al Jazeera coverage of El-Sayed victory speech, 20:35"
+  },
+  "F9Xm8cHO6V4": {
+    "id": "F9Xm8cHO6V4",
+    "keep": false,
+    "reason": "Hakeem Jeffries press briefing; not a tracked Michigan person"
+  },
+  "FTyIDfz00m4": {
+    "id": "FTyIDfz00m4",
+    "keep": true,
+    "speakers": [
+      "benson"
+    ],
+    "event_key": "benson-victory-speech-2026-11-04",
+    "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "full",
+    "reason": "Mid-Michigan NOW upload of same Benson victory speech, 8:01"
+  },
+  "SRbsSLuB1gM": {
+    "id": "SRbsSLuB1gM",
+    "keep": false,
+    "reason": "13 ON YOUR SIDE team coverage news package of Michigan results; no tracked person speaking at length"
+  },
+  "Sw7_vMt5rwc": {
+    "id": "Sw7_vMt5rwc",
+    "keep": false,
+    "reason": "Pete Buttigieg speaking at watch party; Buttigieg is not a tracked person"
+  },
+  "TS75sLih5r0": {
+    "id": "TS75sLih5r0",
+    "keep": false,
+    "reason": "Hakeem Jeffries press conference; not a tracked Michigan person"
+  },
+  "WL7ZL2UENhI": {
+    "id": "WL7ZL2UENhI",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-wdiv-interview-2026-11-04",
+    "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+    "event_date": "2026-11-04",
+    "kind": "interview",
+    "completeness": "full",
+    "reason": "El-Sayed shares priorities in a one-on-one interview with WDIV"
+  },
+  "XefgReSDhfE": {
+    "id": "XefgReSDhfE",
+    "keep": false,
+    "reason": "House Speaker Mike Johnson (Republican) reacting; no tracked Michigan Democrats speaking"
+  },
+  "aSRHXOatzGQ": {
+    "id": "aSRHXOatzGQ",
+    "keep": false,
+    "reason": "New York state election results coverage; not Michigan tracked people"
+  },
+  "eBYQrrtNC80": {
+    "id": "eBYQrrtNC80",
+    "keep": false,
+    "reason": "NYT pre-election guide podcast; recorded before polls closed"
+  },
+  "f_pjb4_47us": {
+    "id": "f_pjb4_47us",
+    "keep": false,
+    "reason": "Hakeem Jeffries House Speaker projection; not a tracked Michigan person"
+  },
+  "jhzPJHLXkcg": {
+    "id": "jhzPJHLXkcg",
+    "keep": false,
+    "reason": "Georgia Tech football press conference; completely unrelated"
+  },
+  "kuDj8_b2qgw": {
+    "id": "kuDj8_b2qgw",
+    "keep": true,
+    "speakers": [
+      "el-sayed"
+    ],
+    "event_key": "el-sayed-victory-speech-2026-11-04",
+    "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "victory_speech",
+    "completeness": "partial",
+    "reason": "Bloomberg cut of El-Sayed's victory speech in Detroit, 4:17"
+  },
+  "mA8G7LPMPPI": {
+    "id": "mA8G7LPMPPI",
+    "keep": false,
+    "reason": "Speaker Mike Johnson is Republican and not a tracked person"
+  },
+  "sR1TcRJ0sXE": {
+    "id": "sR1TcRJ0sXE",
+    "keep": false,
+    "reason": "WKYC national results recap; anchor summary, no tracked person speaking at length"
+  },
+  "sfkgBacN0Fc": {
+    "id": "sfkgBacN0Fc",
+    "keep": false,
+    "reason": "13News Now Virginia-area general results rundown; no tracked Michigan person speaking"
+  },
+  "xha9JCqPbBQ": {
+    "id": "xha9JCqPbBQ",
+    "keep": true,
+    "speakers": [
+      "benson",
+      "brinks"
+    ],
+    "event_key": "benson-brinks-transition-presser-2026-11-04",
+    "event_label": "Jocelyn Benson and Winnie Brinks transition press conference, Detroit",
+    "event_date": "2026-11-04",
+    "kind": "press_conference",
+    "completeness": "full",
+    "reason": "Governor-elect Benson and LG-elect Brinks hold a 20-min press conference to outline their transition plan; both speak at length on camera."
+  },
+  "yNa5UdPbG30": {
+    "id": "yNa5UdPbG30",
+    "keep": false,
+    "reason": "CBS News anchor recap of midterm results; news package with no tracked person speaking at length on camera."
+  }
+}

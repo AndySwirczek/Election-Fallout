@@ -1,0 +1,2302 @@
+{
+  "generated": "2026-11-04T12:53:28",
+  "generated_pretty": "November 4, 2026",
+  "election_label": "Michigan general election, Nov. 3, 2026",
+  "period_start": "2026-11-03",
+  "period_end": "2026-11-04",
+  "stats": {
+    "events": 9,
+    "speakers": 6,
+    "minutes": 79,
+    "health_findings": 28,
+    "speakers_on_health": 3,
+    "high_relevance": 12
+  },
+  "stat_labels": {
+    "events": "speeches and press events analyzed",
+    "speakers": "leaders on camera",
+    "minutes": "minutes of video transcribed",
+    "health_findings": "statements on health care",
+    "speakers_on_health": "leaders who addressed health care",
+    "high_relevance": "statements with direct hospital stakes"
+  },
+  "topic_labels": {
+    "medicaid": "Medicaid & Healthy Michigan Plan",
+    "federal_cuts": "Federal health cuts (H.R. 1)",
+    "aca_coverage": "ACA subsidies & coverage",
+    "costs": "Health care costs & affordability",
+    "drug_prices": "Prescription drugs & PBMs",
+    "medicare": "Medicare & seniors",
+    "single_payer": "Medicare for All / universal coverage",
+    "hospitals": "Hospitals & access to care",
+    "hospital_pricing": "Hospital prices, consolidation & oversight",
+    "workforce": "Health workforce & staffing",
+    "behavioral": "Mental & behavioral health",
+    "public_health": "Public health, vaccines & science",
+    "reproductive": "Reproductive health & abortion",
+    "insurers_corporate": "Insurers, corporate & private-equity influence",
+    "medical_debt": "Medical debt",
+    "rural": "Rural health",
+    "other_health": "Other health"
+  },
+  "events": [
+    {
+      "event_key": "hertel-watch-party-remarks-2026-11-03",
+      "label": "Curtis Hertel remarks at Democratic watch party, Hudson's Detroit",
+      "event_date": "2026-11-03",
+      "event_date_pretty": "November 3, 2026",
+      "kind": "remarks",
+      "kind_label": "Remarks",
+      "speakers": [
+        "hertel"
+      ],
+      "url": "https://www.youtube.com/watch?v=Ar_Y2ZPespw",
+      "title": "Michigan DNC Chair Curtis Hertel: \"It's been a strange 48 hours\"",
+      "channel": "WWMT-TV",
+      "duration": 66,
+      "duration_label": "1:06",
+      "completeness": "clip",
+      "transcript_source": "auto-generated",
+      "alternates": [],
+      "headline": "Michigan Democratic Party Chair Curtis Hertel rallied supporters at the party's election-night watch event, predicting victories across the ticket.",
+      "health_summary": "Hertel made no statements about health or health care during these brief remarks.",
+      "health_count": 0,
+      "timestamped": true
+    },
+    {
+      "event_key": "mcmorrow-wwmt-interview-2026-11-03",
+      "label": "Mallory McMorrow interview with WWMT, election night",
+      "event_date": "2026-11-03",
+      "event_date_pretty": "November 3, 2026",
+      "kind": "interview",
+      "kind_label": "Interview",
+      "speakers": [
+        "mcmorrow"
+      ],
+      "url": "https://www.youtube.com/watch?v=M5FJOTQb2EU",
+      "title": "Michigan's Mallory McMorrow talks Election Night",
+      "channel": "WWMT-TV",
+      "duration": 118,
+      "duration_label": "1:58",
+      "completeness": "full",
+      "transcript_source": "auto-generated",
+      "alternates": [],
+      "headline": "State Senator Mallory McMorrow expressed confidence in Democratic victories across Michigan, emphasizing voter desire for change and the party's pursuit of a state government trifecta.",
+      "health_summary": "Senator McMorrow did not make any statements about health or health care during this interview. Her remarks focused on voter sentiment regarding economic conditions, support for down-ballot candidates, and the prospect of a Democratic trifecta in Lansing.",
+      "health_count": 0,
+      "timestamped": true
+    },
+    {
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "event_date": "2026-11-04",
+      "event_date_pretty": "November 4, 2026",
+      "kind": "interview",
+      "kind_label": "Interview",
+      "speakers": [
+        "el-sayed"
+      ],
+      "url": "https://www.youtube.com/watch?v=WL7ZL2UENhI",
+      "title": "U.S. Senator-Elect Abdul El-Sayed shares top priorities for Congress",
+      "channel": "Click On Detroit | Local 4 | WDIV",
+      "duration": 736,
+      "duration_label": "12:16",
+      "completeness": "full",
+      "transcript_source": "auto-generated",
+      "alternates": [],
+      "headline": "U.S. Senator-elect Abdul El-Sayed outlined an agenda centered on blocking Medicaid cuts, breaking up corporate monopolies, expanding union rights, removing money from politics, and pursuing universal health care.",
+      "health_summary": "El-Sayed identified stopping Medicaid cuts scheduled in the reconciliation bill as his top legislative priority, warning that coverage losses would drive up emergency-room use and raise premiums for everyone. He criticized Blue Cross Blue Shield's dominant market position and double-digit rate increases, and reiterated his support for Medicare for All as the long-term answer to health care affordability.",
+      "health_count": 11,
+      "timestamped": true
+    },
+    {
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "event_date": "2026-11-04",
+      "event_date_pretty": "November 4, 2026",
+      "kind": "victory_speech",
+      "kind_label": "Victory speech",
+      "speakers": [
+        "el-sayed"
+      ],
+      "url": "https://www.youtube.com/watch?v=yMNEKYd3Pb8",
+      "title": "Abdul El-Sayed (D-MI) Election Night Speech",
+      "channel": "C-SPAN",
+      "duration": 1304,
+      "duration_label": "21:44",
+      "completeness": "full",
+      "transcript_source": "auto-generated",
+      "alternates": [
+        {
+          "id": "VZZ79hJ_2GY",
+          "url": "https://www.youtube.com/watch?v=VZZ79hJ_2GY",
+          "channel": "CBS Detroit",
+          "title": "U.S. Senate candidate Abdul El-Sayed speaks in Detroit",
+          "duration": 1260,
+          "completeness": "full"
+        },
+        {
+          "id": "uYlIA2UYlfk",
+          "url": "https://www.youtube.com/watch?v=uYlIA2UYlfk",
+          "channel": "WWMT-TV",
+          "title": "LIVE: Abdul El-Sayed declares victory in Michigan U.S. Senate Race",
+          "duration": 1255,
+          "completeness": "full"
+        },
+        {
+          "id": "oW9DCdGIZro",
+          "url": "https://www.youtube.com/watch?v=oW9DCdGIZro",
+          "channel": "WXYZ-TV Detroit | Channel 7",
+          "title": "Abdul El-Sayed speaks after claiming victory in U.S. Senate race in Michigan",
+          "duration": 1214,
+          "completeness": "full"
+        },
+        {
+          "id": "Btos5P_O2EY",
+          "url": "https://www.youtube.com/watch?v=Btos5P_O2EY",
+          "channel": "C-SPAN",
+          "title": "El-Sayed Full Victory Speech",
+          "duration": 1197,
+          "completeness": "full"
+        },
+        {
+          "id": "lkjfhgxZAS4",
+          "url": "https://www.youtube.com/watch?v=lkjfhgxZAS4",
+          "channel": "13 ON YOUR SIDE",
+          "title": "Abdul El-Sayed calls himself Michigan Senator-Elect",
+          "duration": 1161,
+          "completeness": "full"
+        },
+        {
+          "id": "WOmPHRTYK60",
+          "url": "https://www.youtube.com/watch?v=WOmPHRTYK60",
+          "channel": "Click On Detroit | Local 4 | WDIV",
+          "title": "Abdul El-Sayed delivers victory speech, as AP projects him winner of Michigan's US Senate race",
+          "duration": 1129,
+          "completeness": "full"
+        },
+        {
+          "id": "kPheGIFg0mA",
+          "url": "https://www.youtube.com/watch?v=kPheGIFg0mA",
+          "channel": "Reuters",
+          "title": "LIVE: Michigan Democratic Senate candidate Abdul El-Sayed’s midterms watch party in Detroit",
+          "duration": 3366,
+          "completeness": "full"
+        },
+        {
+          "id": "FSAUyp01gOE",
+          "url": "https://www.youtube.com/watch?v=FSAUyp01gOE",
+          "channel": "PBS NewsHour",
+          "title": "WATCH: Democrat Abdul El-Sayed of Michigan speaks at election night watch party",
+          "duration": 2740,
+          "completeness": "full"
+        },
+        {
+          "id": "ZBZybii6w0w",
+          "url": "https://www.youtube.com/watch?v=ZBZybii6w0w",
+          "channel": "Diario AS",
+          "title": "Abdul El-Sayed's FULL VICTORY SPEECH as FIRST MUSLIM ELECTED TO THE US SENATE",
+          "duration": 1266,
+          "completeness": "full"
+        },
+        {
+          "id": "OewJHzfiqZw",
+          "url": "https://www.youtube.com/watch?v=OewJHzfiqZw",
+          "channel": "DRM News",
+          "title": "FULL: Abdul El-Sayed Slams Musk, AIPAC and Billionaires in Historic Senate Victory Speech | AC1G",
+          "duration": 1240,
+          "completeness": "full"
+        },
+        {
+          "id": "DhLZJRTvh2M",
+          "url": "https://www.youtube.com/watch?v=DhLZJRTvh2M",
+          "channel": "Al Jazeera English",
+          "title": "US midterms: Democrat Abdul El-Sayed wins Michigan Senate race",
+          "duration": 1235,
+          "completeness": "full"
+        },
+        {
+          "id": "hzwjZ2QYe6Y",
+          "url": "https://www.youtube.com/watch?v=hzwjZ2QYe6Y",
+          "channel": "USA TODAY",
+          "title": "Full Abdul El-Sayed speech celebrates Michigan election results, becoming first Muslim US Senator",
+          "duration": 1234,
+          "completeness": "full"
+        },
+        {
+          "id": "c7KBDFFofpo",
+          "url": "https://www.youtube.com/watch?v=c7KBDFFofpo",
+          "channel": "LiveNOW from FOX",
+          "title": "BREAKING: Abdul El-Sayed wins Michigan senate race",
+          "duration": 1220,
+          "completeness": "full"
+        },
+        {
+          "id": "5OgaePFdrJU",
+          "url": "https://www.youtube.com/watch?v=5OgaePFdrJU",
+          "channel": "MS NOW",
+          "title": "LIVE: Abdul El-Sayed gives remarks on night of midterm election in Michigan Senate race",
+          "duration": 1110,
+          "completeness": "full"
+        },
+        {
+          "id": "W7rJ_D6qCjI",
+          "url": "https://www.youtube.com/watch?v=W7rJ_D6qCjI",
+          "channel": "DRM News",
+          "title": "Abdul El-Sayed Mocks JD Vance, Slams Trump and Billionaires in Historic Senate Victory Speech | AC1G",
+          "duration": 725,
+          "completeness": "full"
+        },
+        {
+          "id": "f38afpQbzTQ",
+          "url": "https://www.youtube.com/watch?v=f38afpQbzTQ",
+          "channel": "DRM News",
+          "title": "Abdul El-Sayed Declares Victory Over Rogers, Slams Trump in Fiery Michigan Senate Speech | AC1B",
+          "duration": 495,
+          "completeness": "full"
+        },
+        {
+          "id": "kuDj8_b2qgw",
+          "url": "https://www.youtube.com/watch?v=kuDj8_b2qgw",
+          "channel": "Bloomberg Television",
+          "title": "Midterm Elections 2026: El-Sayed Speaks After Winning Michigan Senate Race",
+          "duration": 257,
+          "completeness": "partial"
+        },
+        {
+          "id": "btlcNVA4PeI",
+          "url": "https://www.youtube.com/watch?v=btlcNVA4PeI",
+          "channel": "Forbes Breaking News",
+          "title": "'This Fight Is Not Yet Over': Abdul El-Sayed Promises Change For Michigan In Midterm Victory Speech",
+          "duration": 255,
+          "completeness": "partial"
+        },
+        {
+          "id": "JKJxUHkaX7Q",
+          "url": "https://www.youtube.com/watch?v=JKJxUHkaX7Q",
+          "channel": "UpNorthLive",
+          "title": "Abdul El-Sayed jokes about Trump during Michigan Senate victory speech",
+          "duration": 57,
+          "completeness": "clip"
+        },
+        {
+          "id": "bvZ28uJEYyI",
+          "url": "https://www.youtube.com/watch?v=bvZ28uJEYyI",
+          "channel": "DRM News",
+          "title": "El-Sayed Shares Emotional Moment With Wife Sarah Jukaku After Historic Senate Victory | AC1G",
+          "duration": 260,
+          "completeness": "clip"
+        },
+        {
+          "id": "y8RlCC1oT4I",
+          "url": "https://www.youtube.com/watch?v=y8RlCC1oT4I",
+          "channel": "Bloomberg Podcasts",
+          "title": "Democrat Abdul El-Sayed Wins Michigan Senate Race, Delivers Victory Speech",
+          "duration": 257,
+          "completeness": "clip"
+        },
+        {
+          "id": "hJTbB9_V4uM",
+          "url": "https://www.youtube.com/watch?v=hJTbB9_V4uM",
+          "channel": "Forbes Breaking News",
+          "title": "'JD...': El-Sayed Shares Direct Message To Vice President Vance In Michigan Senate Victory Speech",
+          "duration": 155,
+          "completeness": "clip"
+        },
+        {
+          "id": "qmUeGizc-Ks",
+          "url": "https://www.youtube.com/watch?v=qmUeGizc-Ks",
+          "channel": "Associated Press",
+          "title": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race, will become first Muslim senator",
+          "duration": 98,
+          "completeness": "clip"
+        },
+        {
+          "id": "TH_tHzSWcho",
+          "url": "https://www.youtube.com/watch?v=TH_tHzSWcho",
+          "channel": "Associated Press",
+          "title": "'The bad guys lost,' Abdul El-Sayed says after winning the Michigan Senate race",
+          "duration": 92,
+          "completeness": "clip"
+        }
+      ],
+      "headline": "Senator-elect Abdul El-Sayed declared victory in Michigan's U.S. Senate race, framing the win as a grassroots movement against corporate-funded opposition and pledging to fight for working families.",
+      "health_summary": "El-Sayed repeatedly invoked his campaign slogan \"Medicare for Michigan\" and criticized a health care system he said is \"more interested in monetizing our illness than healing our bodies and minds.\" He shared personal stories of constituents struggling with health insurance and medical costs, and pledged to guarantee health care for all. He also cited his own background as a doctor and public health professional, noting that America vaccinated him against diseases that killed family members abroad.",
+      "health_count": 10,
+      "timestamped": true
+    },
+    {
+      "event_key": "dingell-fox2-interview-2026-11-04",
+      "label": "Debbie Dingell post-election interview, FOX 2 Detroit",
+      "event_date": "2026-11-04",
+      "event_date_pretty": "November 4, 2026",
+      "kind": "interview",
+      "kind_label": "Interview",
+      "speakers": [
+        "dingell"
+      ],
+      "url": "https://www.youtube.com/watch?v=wBwr5WNZbwg",
+      "title": "Rep. Debbie Dingell on the Democrats' historic election night",
+      "channel": "FOX 2 Detroit",
+      "duration": 219,
+      "duration_label": "3:39",
+      "completeness": "full",
+      "transcript_source": "auto-generated",
+      "alternates": [],
+      "headline": "Rep. Debbie Dingell urged Democrats to deliver on kitchen-table issues after their sweep of Michigan and congressional races, warning against overreading the mandate.",
+      "health_summary": "Dingell recounted a personal encounter with two women at a Kroger who feared losing Medicaid coverage after receiving federal letters. She pledged that the new Democratic House majority's first-100-hours agenda would reverse Medicaid cuts, reverse food assistance cuts, and reinstate the Affordable Care Act premium tax credit while Congress works on broader health care reform.",
+      "health_count": 3,
+      "timestamped": true
+    },
+    {
+      "event_key": "dingell-nbc-interview-2026-11-04",
+      "label": "Debbie Dingell post-election interview, NBC News",
+      "event_date": "2026-11-04",
+      "event_date_pretty": "November 4, 2026",
+      "kind": "interview",
+      "kind_label": "Interview",
+      "speakers": [
+        "dingell"
+      ],
+      "url": "https://www.youtube.com/watch?v=Qt1jr4liIoc",
+      "title": "Rep. Debbie Dingell: If Democrats don't deliver, voters will send another message in two years",
+      "channel": "NBC News",
+      "duration": 196,
+      "duration_label": "3:16",
+      "completeness": "full",
+      "transcript_source": "manual",
+      "alternates": [],
+      "headline": "Rep. Debbie Dingell said Democrats must deliver results on voters' concerns quickly or face another electoral backlash in two years.",
+      "health_summary": "Dingell listed 'our broken health care system' among the top voter concerns Democrats must address, alongside grocery costs, gasoline, rent, and corruption. She did not elaborate on specific health-policy proposals or legislation.",
+      "health_count": 1,
+      "timestamped": true
+    },
+    {
+      "event_key": "dingell-watch-party-remarks-2026-11-04",
+      "label": "Debbie Dingell remarks at Democratic watch party, Hudson's Detroit",
+      "event_date": "2026-11-04",
+      "event_date_pretty": "November 4, 2026",
+      "kind": "remarks",
+      "kind_label": "Remarks",
+      "speakers": [
+        "dingell"
+      ],
+      "url": "https://www.youtube.com/watch?v=WbIzIwlWcjM",
+      "title": "Debbie Dingell wins in Michigan's 6th Congressional District, CBS News projects",
+      "channel": "CBS Detroit",
+      "duration": 93,
+      "duration_label": "1:33",
+      "completeness": "clip",
+      "transcript_source": "manual",
+      "alternates": [],
+      "headline": "Rep. Debbie Dingell toasted Democratic volunteers and the outgoing Sen. Gary Peters, calling on Michigan to send a message against hate.",
+      "health_summary": "Dingell included health care in a brief list of values she said volunteers have fought for, citing 'health care for every American when they're sick.' She offered no specifics on any health policy or program.",
+      "health_count": 1,
+      "timestamped": true
+    },
+    {
+      "event_key": "benson-brinks-transition-presser-2026-11-04",
+      "label": "Jocelyn Benson and Winnie Brinks transition press conference, Detroit",
+      "event_date": "2026-11-04",
+      "event_date_pretty": "November 4, 2026",
+      "kind": "press_conference",
+      "kind_label": "Press conference",
+      "speakers": [
+        "benson",
+        "brinks"
+      ],
+      "url": "https://www.youtube.com/watch?v=xha9JCqPbBQ",
+      "title": "Michigan's Governor-Elect Jocelyn Benson speaks in Detroit",
+      "channel": "CBS Detroit",
+      "duration": 1218,
+      "duration_label": "20:18",
+      "completeness": "full",
+      "transcript_source": "whisper",
+      "alternates": [],
+      "headline": "Governor-elect Jocelyn Benson and Lieutenant Governor-elect Winnie Brinks pledged to lower costs, grow the economy, and govern collaboratively after Democrats swept Michigan's 2026 elections.",
+      "health_summary": "Health care received only a brief, explicit mention: Benson listed it alongside housing, child care, and energy costs as areas where her administration will work to ensure affordability. No specific health care policies, programs, or legislative proposals were discussed at this press conference.",
+      "health_count": 1,
+      "timestamped": true
+    },
+    {
+      "event_key": "benson-victory-speech-2026-11-04",
+      "label": "Jocelyn Benson victory speech, Hudson's Detroit",
+      "event_date": "2026-11-04",
+      "event_date_pretty": "November 4, 2026",
+      "kind": "victory_speech",
+      "kind_label": "Victory speech",
+      "speakers": [
+        "benson",
+        "brinks"
+      ],
+      "url": "https://www.youtube.com/watch?v=X0E_y4UhEaM",
+      "title": "Jocelyn Benson delivers victory speech, as AP projects her as winner of Michigan governor race",
+      "channel": "Click On Detroit | Local 4 | WDIV",
+      "duration": 771,
+      "duration_label": "12:51",
+      "completeness": "full",
+      "transcript_source": "auto-generated",
+      "alternates": [
+        {
+          "id": "4g0UkbAlixs",
+          "url": "https://www.youtube.com/watch?v=4g0UkbAlixs",
+          "channel": "WOOD TV8",
+          "title": "Benson declares victory in Michigan governor's race",
+          "duration": 610,
+          "completeness": "full"
+        },
+        {
+          "id": "j7bbWaOcj4Y",
+          "url": "https://www.youtube.com/watch?v=j7bbWaOcj4Y",
+          "channel": "WWMT-TV",
+          "title": "LIVE: Jocelyn Benson declares victory in race for Michigan Governor",
+          "duration": 569,
+          "completeness": "full"
+        },
+        {
+          "id": "_-Svsi1iVgk",
+          "url": "https://www.youtube.com/watch?v=_-Svsi1iVgk",
+          "channel": "WNEM TV5",
+          "title": "Full speech: Benson declares victory",
+          "duration": 553,
+          "completeness": "full"
+        },
+        {
+          "id": "IycEAVOvAB4",
+          "url": "https://www.youtube.com/watch?v=IycEAVOvAB4",
+          "channel": "Michigan Public",
+          "title": "Governor Candidate Jocelyn Benson Gives Victory Speech",
+          "duration": 543,
+          "completeness": "full"
+        },
+        {
+          "id": "F0BYuvbXdKo",
+          "url": "https://www.youtube.com/watch?v=F0BYuvbXdKo",
+          "channel": "WOOD TV8",
+          "title": "Jocelyn Benson declares victory in race for Michigan governor",
+          "duration": 484,
+          "completeness": "full"
+        },
+        {
+          "id": "BOYbGsniVvg",
+          "url": "https://www.youtube.com/watch?v=BOYbGsniVvg",
+          "channel": "WWMT-TV",
+          "title": "FULL: Democratic Governor-elect Jocelyn Benson calls victory for Michigan",
+          "duration": 481,
+          "completeness": "full"
+        },
+        {
+          "id": "-d5OwD_bWFs",
+          "url": "https://www.youtube.com/watch?v=-d5OwD_bWFs",
+          "channel": "DRM News",
+          "title": "Jocelyn Benson Declares Michigan Governor Victory, Vows to Stand Up to Powerful Bullies | AC1B",
+          "duration": 555,
+          "completeness": "full"
+        },
+        {
+          "id": "_Dq9FyAc-QI",
+          "url": "https://www.youtube.com/watch?v=_Dq9FyAc-QI",
+          "channel": "DRM News",
+          "title": "FULL: Benson Delivers Victory Speech After Winning Michigan Governor Race Against John James | AC1G",
+          "duration": 487,
+          "completeness": "full"
+        },
+        {
+          "id": "-2g5ns5By8I",
+          "url": "https://www.youtube.com/watch?v=-2g5ns5By8I",
+          "channel": "BG On The Scene",
+          "title": "Michigan Governor-elect Jocelyn Benson Gives Victory Speech in Detroit",
+          "duration": 485,
+          "completeness": "full"
+        },
+        {
+          "id": "FTyIDfz00m4",
+          "url": "https://www.youtube.com/watch?v=FTyIDfz00m4",
+          "channel": "Mid-Michigan now on FOX66 & NBC25",
+          "title": "Democratic Governor-elect Jocelyn Benson calls victory for Michigan",
+          "duration": 481,
+          "completeness": "full"
+        },
+        {
+          "id": "-uiPsK8djLY",
+          "url": "https://www.youtube.com/watch?v=-uiPsK8djLY",
+          "channel": "SPTV NEWS",
+          "title": "'Will Stand Up to Any Bully': Jocelyn Benson WARNS Trump After Historic Michigan Win",
+          "duration": 476,
+          "completeness": "full"
+        },
+        {
+          "id": "x2a77d0b592",
+          "url": "https://www.wnem.com/video/2026/11/04/full-speech-benson-declares-victory/",
+          "channel": "ArcPublishing",
+          "title": "Full speech: Benson declares victory",
+          "duration": 5531,
+          "completeness": "full"
+        },
+        {
+          "id": "sUsGFVJeW_Y",
+          "url": "https://www.youtube.com/watch?v=sUsGFVJeW_Y",
+          "channel": "CBS Detroit",
+          "title": "Jocelyn Benson wins Michigan's gubernatorial race, CBS News projects",
+          "duration": 483,
+          "completeness": "partial"
+        },
+        {
+          "id": "a0auAdtNmFU",
+          "url": "https://www.youtube.com/watch?v=a0auAdtNmFU",
+          "channel": "FOX 2 Detroit",
+          "title": "Jocelyn Benson elected next Michigan governor",
+          "duration": 480,
+          "completeness": "partial"
+        },
+        {
+          "id": "ey-ypDaE74E",
+          "url": "https://www.youtube.com/watch?v=ey-ypDaE74E",
+          "channel": "13 ON YOUR SIDE",
+          "title": "Michigan elects Jocelyn Benson as the next governor",
+          "duration": 388,
+          "completeness": "partial"
+        },
+        {
+          "id": "flFkJewk2XA",
+          "url": "https://www.youtube.com/watch?v=flFkJewk2XA",
+          "channel": "WXYZ-TV Detroit | Channel 7",
+          "title": "Jocelyn Benson speaks after several outlets project she will be Michigan's next governor",
+          "duration": 320,
+          "completeness": "partial"
+        },
+        {
+          "id": "pQwBsfQwaLQ",
+          "url": "https://www.youtube.com/watch?v=pQwBsfQwaLQ",
+          "channel": "News Central",
+          "title": "\"I Will Always Fight for You!\" Michigan Governor-Elect Delivers Powerful Victory Speech | AC1W",
+          "duration": 380,
+          "completeness": "partial"
+        },
+        {
+          "id": "RdnoI_VnE5s",
+          "url": "https://www.youtube.com/watch?v=RdnoI_VnE5s",
+          "channel": "DWS News",
+          "title": "Jocelyn Benson Delivers Powerful Victory Speech At Michigan Election Night Rally | DWS News | AC14",
+          "duration": 275,
+          "completeness": "partial"
+        },
+        {
+          "id": "qsuZNsUieJw",
+          "url": "https://www.youtube.com/watch?v=qsuZNsUieJw",
+          "channel": "WOOD TV8",
+          "title": "Jocelyn Benson declares victory in race Michigan governor's race",
+          "duration": 151,
+          "completeness": "clip"
+        },
+        {
+          "id": "Je54nj8gzWY",
+          "url": "https://www.youtube.com/watch?v=Je54nj8gzWY",
+          "channel": "WWMT-TV",
+          "title": "WATCH: Michigan's Jocelyn Benson declares victory in Governor race",
+          "duration": 101,
+          "completeness": "clip"
+        }
+      ],
+      "headline": "Governor-elect Jocelyn Benson declared victory and pledged to use a Democratic trifecta to lower costs, fight corruption, and protect rights for all Michiganders.",
+      "health_summary": "Benson made one direct health-care reference, pledging that she and Lieutenant Governor-elect Winnie Brinks would ensure women and girls always have access to the health care they need. She did not discuss hospitals, Medicaid, federal health cuts, drug prices, or any other specific health-policy topic.",
+      "health_count": 1,
+      "timestamped": true
+    }
+  ],
+  "speakers": [
+    {
+      "key": "benson",
+      "name": "Jocelyn Benson",
+      "office": "Governor-elect",
+      "detail": "Secretary of State; elected governor over John James. Takes office Jan. 1, 2027.",
+      "events": [
+        "benson-brinks-transition-presser-2026-11-04",
+        "benson-victory-speech-2026-11-04"
+      ],
+      "health_count": 2,
+      "high_count": 0,
+      "topics": [
+        "costs",
+        "reproductive"
+      ],
+      "finding_ids": [
+        "benson-victory-speech-2026-11-04#1",
+        "benson-brinks-transition-presser-2026-11-04#1"
+      ],
+      "priorities": [
+        {
+          "label": "Lower everyday costs",
+          "quote": "Voters elected Democrats up and down the ticket, not because they like the shade of blue, but maybe they do, but also because they are calling out for leaders who will get things done, who will work to lower our costs and raise our wages and end corruption.",
+          "timestamp": "00:04:30",
+          "ts_label": "4:30",
+          "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=270s",
+          "event_key": "benson-brinks-transition-presser-2026-11-04"
+        },
+        {
+          "label": "Lower costs for families",
+          "quote": "They want leaders who will fight for them, fight to lower costs, fight to grow our economy, fight the corruption that too often protects the pe powerful and hurts the people.",
+          "timestamp": "00:04:54",
+          "ts_label": "4:54",
+          "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=294s",
+          "event_key": "benson-victory-speech-2026-11-04"
+        },
+        {
+          "label": "End corruption",
+          "quote": "fight the corruption that too often protects the pe powerful and hurts the people.",
+          "timestamp": "00:04:58",
+          "ts_label": "4:58",
+          "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=298s",
+          "event_key": "benson-victory-speech-2026-11-04"
+        },
+        {
+          "label": "Grow Michigan's economy",
+          "quote": "fight to grow our economy",
+          "timestamp": "00:04:58",
+          "ts_label": "4:58",
+          "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=298s",
+          "event_key": "benson-victory-speech-2026-11-04"
+        },
+        {
+          "label": "Women's health care access",
+          "quote": "As governor and lieutenant governor, who will work together every day to ensure that young girls and women always have access to the health care they need and the rights and freedoms they deserve.",
+          "timestamp": "00:06:21",
+          "ts_label": "6:21",
+          "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=381s",
+          "event_key": "benson-victory-speech-2026-11-04"
+        },
+        {
+          "label": "Pass state voting rights act",
+          "quote": "Our Democratic trifecta is going to go to Lancing and pass a voting rights act for the state of Michigan to ensure that every citizen in this state is protected at the ballot box in every election.",
+          "timestamp": "00:06:43",
+          "ts_label": "6:43",
+          "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=403s",
+          "event_key": "benson-victory-speech-2026-11-04"
+        },
+        {
+          "label": "Affordable health care and housing",
+          "quote": "We will transform state government to make it efficient and effective and ensure from health care to housing to child care to our energy costs that those costs are affordable for everyone.",
+          "timestamp": "00:08:00",
+          "ts_label": "8:00",
+          "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=480s",
+          "event_key": "benson-brinks-transition-presser-2026-11-04"
+        },
+        {
+          "label": "Stand up to federal overreach",
+          "quote": "I will be unafraid to stand up to any bully, no matter how powerful, who brings chaos to our communities or tries to put their profits ahead of our people or threatens the rights or freedoms of Michiganders.",
+          "timestamp": "00:10:12",
+          "ts_label": "10:12",
+          "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=612s",
+          "event_key": "benson-victory-speech-2026-11-04"
+        }
+      ],
+      "takeaway": "Benson framed health care as one element of a broader affordability agenda and pledged to protect women's health access, but did not detail specific health policy proposals in her victory speech or transition press conference.",
+      "print_ids": [],
+      "print_only": false
+    },
+    {
+      "key": "el-sayed",
+      "name": "Abdul El-Sayed",
+      "office": "U.S. Senator-elect",
+      "detail": "Physician and former Detroit health director; won the open U.S. Senate seat over Mike Rogers.",
+      "events": [
+        "el-sayed-wdiv-interview-2026-11-04",
+        "el-sayed-victory-speech-2026-11-04"
+      ],
+      "health_count": 21,
+      "high_count": 9,
+      "topics": [
+        "costs",
+        "insurers_corporate",
+        "public_health",
+        "aca_coverage",
+        "single_payer",
+        "medicaid",
+        "medicare",
+        "rural",
+        "federal_cuts",
+        "drug_prices",
+        "behavioral",
+        "hospitals",
+        "other_health",
+        "reproductive"
+      ],
+      "finding_ids": [
+        "el-sayed-victory-speech-2026-11-04#1",
+        "el-sayed-victory-speech-2026-11-04#2",
+        "el-sayed-wdiv-interview-2026-11-04#1",
+        "el-sayed-wdiv-interview-2026-11-04#2",
+        "el-sayed-wdiv-interview-2026-11-04#3",
+        "el-sayed-wdiv-interview-2026-11-04#4",
+        "el-sayed-wdiv-interview-2026-11-04#5",
+        "el-sayed-victory-speech-2026-11-04#3",
+        "el-sayed-wdiv-interview-2026-11-04#6",
+        "el-sayed-victory-speech-2026-11-04#4",
+        "el-sayed-wdiv-interview-2026-11-04#7",
+        "el-sayed-victory-speech-2026-11-04#5",
+        "el-sayed-victory-speech-2026-11-04#6",
+        "el-sayed-wdiv-interview-2026-11-04#8",
+        "el-sayed-wdiv-interview-2026-11-04#9",
+        "el-sayed-wdiv-interview-2026-11-04#10",
+        "el-sayed-wdiv-interview-2026-11-04#11",
+        "el-sayed-victory-speech-2026-11-04#7",
+        "el-sayed-victory-speech-2026-11-04#8",
+        "el-sayed-victory-speech-2026-11-04#9",
+        "el-sayed-victory-speech-2026-11-04#10"
+      ],
+      "priorities": [
+        {
+          "label": "Medicare for Michigan / single-payer",
+          "quote": "Medicare for Michigan. We did it.",
+          "timestamp": "00:00:30",
+          "ts_label": "0:30",
+          "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=30s",
+          "event_key": "el-sayed-victory-speech-2026-11-04"
+        },
+        {
+          "label": "Get money out of politics",
+          "quote": "this movement for money out of politics, money in your pocket, and Medicare for all.",
+          "timestamp": "00:01:47",
+          "ts_label": "1:47",
+          "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=107s",
+          "event_key": "el-sayed-victory-speech-2026-11-04"
+        },
+        {
+          "label": "Block Medicaid cuts",
+          "quote": "So, the first most important thing we can do is the worst of this big ugly bill has not yet happened. They purposely pushed it into January of 2027, and that's the Medicaid cuts.",
+          "timestamp": "00:02:25",
+          "ts_label": "2:25",
+          "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=145s",
+          "event_key": "el-sayed-wdiv-interview-2026-11-04"
+        },
+        {
+          "label": "Break up monopolies and oligopolies",
+          "quote": "Number two, I want to take on the power of igopies and monopolies. I don't think that you should be left to a few big corporations to just consistently raise rates on you, whether it's for the price of meat or it's for your cell phone.",
+          "timestamp": "00:03:32",
+          "ts_label": "3:32",
+          "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=212s",
+          "event_key": "el-sayed-wdiv-interview-2026-11-04"
+        },
+        {
+          "label": "Pass the PRO Act for unions",
+          "quote": "Third, everybody deserves a union, right? Michigan, we understand what unions mean for our state. And I believe we need to pass the proact.",
+          "timestamp": "00:03:43",
+          "ts_label": "3:43",
+          "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=223s",
+          "event_key": "el-sayed-wdiv-interview-2026-11-04"
+        },
+        {
+          "label": "Workers' right to unionize",
+          "quote": "And they won that fight. His hope, an America where every single worker gets the right to a union.",
+          "timestamp": "00:06:23",
+          "ts_label": "6:23",
+          "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=383s",
+          "event_key": "el-sayed-victory-speech-2026-11-04"
+        },
+        {
+          "label": "Achieve Medicare for All",
+          "quote": "And then when it comes to healthcare, look, the answer here is Medicare for all.",
+          "timestamp": "00:08:06",
+          "ts_label": "8:06",
+          "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=486s",
+          "event_key": "el-sayed-wdiv-interview-2026-11-04"
+        },
+        {
+          "label": "Fund public education equitably",
+          "quote": "Well, let me say three things. Number one, you've got a president who wants to defund the Department of Education. I think that's insane.",
+          "timestamp": "00:10:27",
+          "ts_label": "10:27",
+          "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=627s",
+          "event_key": "el-sayed-wdiv-interview-2026-11-04"
+        }
+      ],
+      "takeaway": "El-Sayed made health care the centerpiece of his victory messaging, advancing Medicare for All, warning of Medicaid cuts and insurer market dominance, and signaling sustained pressure on coverage, costs, and corporate practices in the Senate.",
+      "print_ids": [],
+      "print_only": false
+    },
+    {
+      "key": "brinks",
+      "name": "Winnie Brinks",
+      "office": "Lieutenant Governor-elect",
+      "detail": "Senate Majority Leader; Benson's running mate.",
+      "events": [
+        "benson-brinks-transition-presser-2026-11-04",
+        "benson-victory-speech-2026-11-04"
+      ],
+      "health_count": 0,
+      "high_count": 0,
+      "topics": [],
+      "finding_ids": [],
+      "priorities": [
+        {
+          "label": "Bipartisan collaboration",
+          "quote": "Real progress doesn't come from one office or one party alone. Excuse me. It comes when people sit down at the same table and focus on what works for the families that we serve.",
+          "timestamp": "00:02:30",
+          "ts_label": "2:30",
+          "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=150s",
+          "event_key": "benson-brinks-transition-presser-2026-11-04"
+        },
+        {
+          "label": "Lower costs and affordability",
+          "quote": "Together we made history as the first all-female ticket in Michigan and together we will deliver on our commitment to make life more affordable for all.",
+          "timestamp": "00:05:30",
+          "ts_label": "5:30",
+          "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=330s",
+          "event_key": "benson-brinks-transition-presser-2026-11-04"
+        }
+      ],
+      "takeaway": "Brinks did not address health care in her analyzed appearances, focusing her remarks on affordability broadly and collaborative governance.",
+      "print_ids": [],
+      "print_only": false
+    },
+    {
+      "key": "hertel",
+      "name": "Curtis Hertel Jr.",
+      "office": "Michigan Democratic Party Chair",
+      "detail": "MDP chair; spoke at the Hudson's Detroit watch party.",
+      "events": [
+        "hertel-watch-party-remarks-2026-11-03"
+      ],
+      "health_count": 0,
+      "high_count": 0,
+      "topics": [],
+      "finding_ids": [],
+      "priorities": [
+        {
+          "label": "Defeat Republican statewide candidates",
+          "quote": "But we're going to make John James a threetime loser.",
+          "timestamp": "00:00:26",
+          "ts_label": "0:26",
+          "link": "https://www.youtube.com/watch?v=Ar_Y2ZPespw&t=26s",
+          "event_key": "hertel-watch-party-remarks-2026-11-03"
+        },
+        {
+          "label": "Win across the full ticket",
+          "quote": "Let's go win everybody. It's going to be a fun night. Pace yourselves. We're going to have a long night of victories.",
+          "timestamp": "00:00:50",
+          "ts_label": "0:50",
+          "link": "https://www.youtube.com/watch?v=Ar_Y2ZPespw&t=50s",
+          "event_key": "hertel-watch-party-remarks-2026-11-03"
+        }
+      ],
+      "takeaway": "Hertel did not address health care, directing his remarks toward the party's electoral victories across the full ticket.",
+      "print_ids": [],
+      "print_only": false
+    },
+    {
+      "key": "mcmorrow",
+      "name": "Mallory McMorrow",
+      "office": "State Senator",
+      "detail": "Senate Majority Whip.",
+      "events": [
+        "mcmorrow-wwmt-interview-2026-11-03"
+      ],
+      "health_count": 0,
+      "high_count": 0,
+      "topics": [],
+      "finding_ids": [],
+      "priorities": [
+        {
+          "label": "Support U.S. Senate candidate",
+          "quote": "The work is bigger than who's on the ballot. So, I threw 100% behind the pool uh immediately after the primary helping out.",
+          "timestamp": "00:00:28",
+          "ts_label": "0:28",
+          "link": "https://www.youtube.com/watch?v=M5FJOTQb2EU&t=28s",
+          "event_key": "mcmorrow-wwmt-interview-2026-11-03"
+        },
+        {
+          "label": "Address economic concerns",
+          "quote": "That people are ready for change. You know, this was the second Trump presidency he got back into the White House on a promise of bringing jobs back and not starting any more wars and creating more opportunity for people. He's done none of those things.",
+          "timestamp": "00:00:49",
+          "ts_label": "0:49",
+          "link": "https://www.youtube.com/watch?v=M5FJOTQb2EU&t=49s",
+          "event_key": "mcmorrow-wwmt-interview-2026-11-03"
+        },
+        {
+          "label": "Elect Democrats to trifecta",
+          "quote": "We're going to have a trifecta going into 2027. I am so thrilled um to have been supporting 16 candidates for state house and state senate.",
+          "timestamp": "00:01:13",
+          "ts_label": "1:13",
+          "link": "https://www.youtube.com/watch?v=M5FJOTQb2EU&t=73s",
+          "event_key": "mcmorrow-wwmt-interview-2026-11-03"
+        },
+        {
+          "label": "Build grassroots energy statewide",
+          "quote": "I've been at canvas kickoffs all across the state. We were just in the canvas kickoff this past week with Jane Mayo in Jackson. We had 30 people show up for a state house race on a Friday.",
+          "timestamp": "00:01:20",
+          "ts_label": "1:20",
+          "link": "https://www.youtube.com/watch?v=M5FJOTQb2EU&t=80s",
+          "event_key": "mcmorrow-wwmt-interview-2026-11-03"
+        }
+      ],
+      "takeaway": "McMorrow did not address health care, focusing her remarks on economic concerns, grassroots organizing, and support for the Senate candidate.",
+      "print_ids": [],
+      "print_only": false
+    },
+    {
+      "key": "dingell",
+      "name": "Debbie Dingell",
+      "office": "U.S. Rep., MI-6",
+      "detail": "Re-elected.",
+      "events": [
+        "dingell-fox2-interview-2026-11-04",
+        "dingell-nbc-interview-2026-11-04",
+        "dingell-watch-party-remarks-2026-11-04"
+      ],
+      "health_count": 5,
+      "high_count": 3,
+      "topics": [
+        "costs",
+        "aca_coverage",
+        "medicaid",
+        "federal_cuts",
+        "other_health"
+      ],
+      "finding_ids": [
+        "dingell-watch-party-remarks-2026-11-04#1",
+        "dingell-fox2-interview-2026-11-04#1",
+        "dingell-nbc-interview-2026-11-04#1",
+        "dingell-fox2-interview-2026-11-04#2",
+        "dingell-fox2-interview-2026-11-04#3"
+      ],
+      "priorities": [
+        {
+          "label": "Civil rights and equality",
+          "quote": "Believed in the values of civil rights. Equality.",
+          "timestamp": "00:00:37",
+          "ts_label": "0:37",
+          "link": "https://www.youtube.com/watch?v=WbIzIwlWcjM&t=37s",
+          "event_key": "dingell-watch-party-remarks-2026-11-04"
+        },
+        {
+          "label": "Health care access",
+          "quote": "Fighting for health care for every American when they're sick",
+          "timestamp": "00:00:45",
+          "ts_label": "0:45",
+          "link": "https://www.youtube.com/watch?v=WbIzIwlWcjM&t=45s",
+          "event_key": "dingell-watch-party-remarks-2026-11-04"
+        },
+        {
+          "label": "Reducing food costs",
+          "quote": "Reducing the cost of food.",
+          "timestamp": "00:00:50",
+          "ts_label": "0:50",
+          "link": "https://www.youtube.com/watch?v=WbIzIwlWcjM&t=50s",
+          "event_key": "dingell-watch-party-remarks-2026-11-04"
+        },
+        {
+          "label": "Standing against hate",
+          "quote": "Let US send a. Michigan message. About who Michigan is. And we stand up to hey. Whenever and wherever. We see. It.",
+          "timestamp": "00:01:13",
+          "ts_label": "1:13",
+          "link": "https://www.youtube.com/watch?v=WbIzIwlWcjM&t=73s",
+          "event_key": "dingell-watch-party-remarks-2026-11-04"
+        },
+        {
+          "label": "Lower grocery and housing costs",
+          "quote": "the number one thing on everybody's mind working families is how much groceries were costing. uh that some people were afraid they couldn't pay their rent, let alone buy a house.",
+          "timestamp": "00:01:17",
+          "ts_label": "1:17",
+          "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=77s",
+          "event_key": "dingell-fox2-interview-2026-11-04"
+        },
+        {
+          "label": "Deliver results quickly",
+          "quote": "And if we don't deliver in the next few years you're going to see them send another loud message.",
+          "timestamp": "00:01:50",
+          "ts_label": "1:50",
+          "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=110s",
+          "event_key": "dingell-nbc-interview-2026-11-04"
+        },
+        {
+          "label": "Lower grocery and gas costs",
+          "quote": "And I think they're very worried about the cost of groceries, gasoline, about whether they can pay their rent, our broken health care system, and corruption.",
+          "timestamp": "00:02:08",
+          "ts_label": "2:08",
+          "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=128s",
+          "event_key": "dingell-nbc-interview-2026-11-04"
+        },
+        {
+          "label": "Fix the health care system",
+          "quote": "And I think they're very worried about the cost of groceries, gasoline, about whether they can pay their rent, our broken health care system, and corruption.",
+          "timestamp": "00:02:08",
+          "ts_label": "2:08",
+          "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=128s",
+          "event_key": "dingell-nbc-interview-2026-11-04"
+        }
+      ],
+      "takeaway": "Dingell centered Medicaid protection and affordability as immediate concerns, committing to reverse federal Medicaid cuts as among 'one of the first things' the new House majority would pursue and to reinstate the ACA premium tax credit.",
+      "print_ids": [],
+      "print_only": false
+    }
+  ],
+  "print_speakers": [
+    {
+      "key": "puri",
+      "name": "Ranjeev Puri",
+      "office": "House Democratic Leader, likely Speaker",
+      "detail": "House Minority Leader 2025-26; Democrats flipped the state House.",
+      "events": [],
+      "health_count": 0,
+      "high_count": 0,
+      "topics": [],
+      "finding_ids": [],
+      "priorities": [],
+      "takeaway": "Puri was not captured on video, but per the Michigan Advance he decried health care being 'ripped away' at the election-night watch party. He named no specific health policy that night.",
+      "print_ids": [
+        "puri-election-night-health",
+        "puri-election-night-mandate"
+      ],
+      "print_only": true,
+      "print_health": 1
+    },
+    {
+      "key": "camilleri",
+      "name": "Darrin Camilleri",
+      "office": "State Senator",
+      "detail": "Assistant Senate Majority Leader 2025-26; possible Senate leadership candidate.",
+      "events": [],
+      "health_count": 0,
+      "high_count": 0,
+      "topics": [],
+      "finding_ids": [],
+      "priorities": [],
+      "takeaway": "Camilleri was not captured on video, and his post-election statement, per The Detroit News, focused on the Senate Democratic majority's electoral success without addressing health care.",
+      "print_ids": [
+        "camilleri-senate-majority"
+      ],
+      "print_only": true,
+      "print_health": 0
+    }
+  ],
+  "print_quotes": {
+    "puri-election-night-health": {
+      "id": "puri-election-night-health",
+      "speaker": "puri",
+      "period": "election_night",
+      "setting": "Election-night speech, Democratic watch party at Hudson's Detroit, Nov. 3",
+      "date": "2026-11-03",
+      "quote": "I watched healthcare be ripped away from our sick. I watched food and benefits taken away from our needy, and I watched tax cuts to billionaire corporations.",
+      "outlet": "Michigan Advance",
+      "author": "Ben Solis",
+      "headline": "Return of the trifecta: Michigan Democrats reclaim full control of state government",
+      "url": "https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html",
+      "variant": "The Detroit News renders it: \"I've watched health care be ripped away from our sick.\"",
+      "health": true,
+      "type": "criticism",
+      "hospital_relevance": "medium",
+      "context": "Puri listed health care losses first among the harms he said he watched as minority leader under the Republican House majority.",
+      "date_pretty": "November 3, 2026"
+    },
+    "puri-election-night-mandate": {
+      "id": "puri-election-night-mandate",
+      "speaker": "puri",
+      "period": "election_night",
+      "setting": "Election-night speech, Democratic watch party at Hudson's Detroit, Nov. 3",
+      "date": "2026-11-03",
+      "quote": "The people of Michigan spoke up tonight and said that they've had enough, and they delivered a House Democratic majority.",
+      "outlet": "Michigan Advance",
+      "author": "Ben Solis",
+      "headline": "Return of the trifecta: Michigan Democrats reclaim full control of state government",
+      "url": "https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html",
+      "health": false,
+      "context": "Puri called the result not a \"blue wave\" but a \"tsunami\" and said House Democrats would protect the state from \"chaos\" in Washington (Detroit News).",
+      "date_pretty": "November 3, 2026"
+    },
+    "camilleri-senate-majority": {
+      "id": "camilleri-senate-majority",
+      "speaker": "camilleri",
+      "period": "election_night",
+      "setting": "Post-election statement as chair of the Senate Democratic Fund (setting not reported)",
+      "date": "2026-11-04",
+      "quote": "Every one of our candidates left it all on the field and because of their hard work, Michiganders will have an expanded majority in the state Senate that's ready to deliver even more progress for the people of our state.",
+      "outlet": "The Detroit News",
+      "author": "Beth LeBlanc and Craig Mauger",
+      "headline": "Michigan Democrats ride 'blue tsunami' to control in Lansing",
+      "url": "https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html",
+      "health": false,
+      "context": "Camilleri credited candidates for an expanded Senate majority; he did not name health care or other specific priorities in the reported remarks.",
+      "date_pretty": "November 4, 2026"
+    }
+  },
+  "topics": [
+    {
+      "key": "costs",
+      "label": "Health care costs & affordability",
+      "count": 15,
+      "speakers": [
+        "benson",
+        "el-sayed",
+        "dingell"
+      ],
+      "synthesis": "El-Sayed called health care the most unaffordable part of Americans' lives and warned of a premium cost spiral, Dingell listed it among top voter anxieties, and Benson pledged to make health care costs affordable alongside housing, child care, and energy.",
+      "finding_ids": [
+        "dingell-fox2-interview-2026-11-04#1",
+        "el-sayed-wdiv-interview-2026-11-04#2",
+        "el-sayed-wdiv-interview-2026-11-04#3",
+        "dingell-fox2-interview-2026-11-04#3",
+        "el-sayed-victory-speech-2026-11-04#5",
+        "el-sayed-wdiv-interview-2026-11-04#11",
+        "el-sayed-victory-speech-2026-11-04#10",
+        "dingell-nbc-interview-2026-11-04#1",
+        "el-sayed-wdiv-interview-2026-11-04#5",
+        "el-sayed-victory-speech-2026-11-04#3",
+        "el-sayed-victory-speech-2026-11-04#4",
+        "el-sayed-wdiv-interview-2026-11-04#7",
+        "el-sayed-wdiv-interview-2026-11-04#8",
+        "el-sayed-wdiv-interview-2026-11-04#9",
+        "benson-brinks-transition-presser-2026-11-04#1"
+      ]
+    },
+    {
+      "key": "insurers_corporate",
+      "label": "Insurers, corporate & private-equity influence",
+      "count": 7,
+      "speakers": [
+        "el-sayed"
+      ],
+      "synthesis": "El-Sayed repeatedly targeted insurer market concentration, citing the attorney general's lawsuit against Blue Cross Blue Shield, calling for limits on rate increases and stock buybacks, and advocating breaking up dominant corporations to restore competition.",
+      "finding_ids": [
+        "el-sayed-victory-speech-2026-11-04#5",
+        "el-sayed-wdiv-interview-2026-11-04#5",
+        "el-sayed-victory-speech-2026-11-04#4",
+        "el-sayed-wdiv-interview-2026-11-04#8",
+        "el-sayed-wdiv-interview-2026-11-04#9",
+        "el-sayed-wdiv-interview-2026-11-04#10",
+        "el-sayed-wdiv-interview-2026-11-04#6"
+      ]
+    },
+    {
+      "key": "aca_coverage",
+      "label": "ACA subsidies & coverage",
+      "count": 6,
+      "speakers": [
+        "el-sayed",
+        "dingell"
+      ],
+      "synthesis": "Dingell committed to reinstating the ACA premium tax credit as an interim coverage measure while pursuing broader reform, and El-Sayed warned that rising premiums would push more people out of coverage in an accelerating spiral.",
+      "finding_ids": [
+        "el-sayed-wdiv-interview-2026-11-04#3",
+        "dingell-fox2-interview-2026-11-04#3",
+        "el-sayed-victory-speech-2026-11-04#8",
+        "el-sayed-victory-speech-2026-11-04#3",
+        "el-sayed-wdiv-interview-2026-11-04#8",
+        "dingell-watch-party-remarks-2026-11-04#1"
+      ]
+    },
+    {
+      "key": "medicaid",
+      "label": "Medicaid & Healthy Michigan Plan",
+      "count": 5,
+      "speakers": [
+        "el-sayed",
+        "dingell"
+      ],
+      "synthesis": "El-Sayed named blocking scheduled Medicaid cuts as a leading Senate priority, Dingell relayed constituent fears about losing coverage after receiving federal letters, and both framed Medicaid protection as among the new majority's most urgent tasks.",
+      "finding_ids": [
+        "dingell-fox2-interview-2026-11-04#1",
+        "el-sayed-wdiv-interview-2026-11-04#1",
+        "el-sayed-wdiv-interview-2026-11-04#2",
+        "dingell-fox2-interview-2026-11-04#2",
+        "el-sayed-wdiv-interview-2026-11-04#4"
+      ]
+    },
+    {
+      "key": "federal_cuts",
+      "label": "Federal health cuts (H.R. 1)",
+      "count": 4,
+      "speakers": [
+        "el-sayed",
+        "dingell"
+      ],
+      "synthesis": "El-Sayed and Dingell both targeted the reconciliation bill's scheduled Medicaid reductions, with Dingell placing reversal among 'one of the first things' the new House majority would do and El-Sayed warning that the cuts would cause tens of thousands to lose coverage.",
+      "finding_ids": [
+        "dingell-fox2-interview-2026-11-04#1",
+        "el-sayed-wdiv-interview-2026-11-04#1",
+        "dingell-fox2-interview-2026-11-04#2",
+        "el-sayed-wdiv-interview-2026-11-04#4"
+      ]
+    },
+    {
+      "key": "single_payer",
+      "label": "Medicare for All / universal coverage",
+      "count": 4,
+      "speakers": [
+        "el-sayed"
+      ],
+      "synthesis": "El-Sayed championed 'Medicare for Michigan' and Medicare for All as his signature position, opening his victory speech with the phrase and endorsing single-payer as the answer to the affordability crisis throughout his appearances.",
+      "finding_ids": [
+        "el-sayed-victory-speech-2026-11-04#1",
+        "el-sayed-victory-speech-2026-11-04#2",
+        "el-sayed-wdiv-interview-2026-11-04#11",
+        "el-sayed-victory-speech-2026-11-04#8"
+      ]
+    },
+    {
+      "key": "public_health",
+      "label": "Public health, vaccines & science",
+      "count": 4,
+      "speakers": [
+        "el-sayed"
+      ],
+      "synthesis": "El-Sayed pledged to fight environmental health hazards including air and water pollution and cited his personal vaccination history as evidence of America's public health infrastructure.",
+      "finding_ids": [
+        "el-sayed-wdiv-interview-2026-11-04#7",
+        "el-sayed-victory-speech-2026-11-04#6",
+        "el-sayed-victory-speech-2026-11-04#7",
+        "el-sayed-victory-speech-2026-11-04#9"
+      ]
+    },
+    {
+      "key": "medicare",
+      "label": "Medicare & seniors",
+      "count": 3,
+      "speakers": [
+        "el-sayed"
+      ],
+      "synthesis": "El-Sayed invoked Medicare as the financing model for universal coverage, using 'Medicare for Michigan' and 'Medicare for All' interchangeably as shorthand for his single-payer proposal.",
+      "finding_ids": [
+        "el-sayed-victory-speech-2026-11-04#1",
+        "el-sayed-victory-speech-2026-11-04#2",
+        "el-sayed-wdiv-interview-2026-11-04#11"
+      ]
+    },
+    {
+      "key": "reproductive",
+      "label": "Reproductive health & abortion",
+      "count": 2,
+      "speakers": [
+        "benson",
+        "el-sayed"
+      ],
+      "synthesis": "Benson pledged that she and Lieutenant Governor-elect Brinks would protect women's and girls' access to health care and associated rights, and El-Sayed included bodily autonomy language alongside environmental health priorities.",
+      "finding_ids": [
+        "benson-victory-speech-2026-11-04#1",
+        "el-sayed-victory-speech-2026-11-04#9"
+      ]
+    },
+    {
+      "key": "rural",
+      "label": "Rural health",
+      "count": 2,
+      "speakers": [
+        "el-sayed"
+      ],
+      "synthesis": "El-Sayed predicted that rural-state Republican senators would support reversing Medicaid cuts given disproportionate rural impact, and decried the difficulty of seeing a doctor despite national wealth.",
+      "finding_ids": [
+        "el-sayed-victory-speech-2026-11-04#10",
+        "el-sayed-wdiv-interview-2026-11-04#4"
+      ]
+    },
+    {
+      "key": "other_health",
+      "label": "Other health",
+      "count": 2,
+      "speakers": [
+        "el-sayed",
+        "dingell"
+      ],
+      "synthesis": "Dingell characterized the health care system broadly as 'broken' and listed it among top voter anxieties, while El-Sayed used private equity's role in youth sports as an analogy for corporate consolidation driving up costs across sectors.",
+      "finding_ids": [
+        "dingell-nbc-interview-2026-11-04#1",
+        "el-sayed-wdiv-interview-2026-11-04#6"
+      ]
+    },
+    {
+      "key": "drug_prices",
+      "label": "Prescription drugs & PBMs",
+      "count": 1,
+      "speakers": [
+        "el-sayed"
+      ],
+      "synthesis": "El-Sayed shared the story of a mother struggling with medication costs for children with a genetic lung disease, but no speaker outlined a specific drug-pricing legislative proposal on election night.",
+      "finding_ids": [
+        "el-sayed-victory-speech-2026-11-04#3"
+      ]
+    },
+    {
+      "key": "hospitals",
+      "label": "Hospitals & access to care",
+      "count": 1,
+      "speakers": [
+        "el-sayed"
+      ],
+      "synthesis": "El-Sayed's argument that Medicaid coverage losses shift costs onto the privately insured through higher emergency department use was the only direct reference to hospital operations across all analyzed appearances.",
+      "finding_ids": [
+        "el-sayed-wdiv-interview-2026-11-04#2"
+      ]
+    },
+    {
+      "key": "behavioral",
+      "label": "Mental & behavioral health",
+      "count": 1,
+      "speakers": [
+        "el-sayed"
+      ],
+      "synthesis": "El-Sayed's criticism of a health care system 'more interested in monetizing our illness than healing our bodies and minds' was the sole reference touching on behavioral health, with no speaker offering specific behavioral health policy.",
+      "finding_ids": [
+        "el-sayed-victory-speech-2026-11-04#5"
+      ]
+    }
+  ],
+  "matrix": {
+    "speakers": [
+      "benson",
+      "el-sayed",
+      "brinks",
+      "hertel",
+      "mcmorrow",
+      "dingell"
+    ],
+    "topics": [
+      "costs",
+      "insurers_corporate",
+      "aca_coverage",
+      "medicaid",
+      "federal_cuts",
+      "single_payer",
+      "public_health",
+      "medicare",
+      "reproductive",
+      "rural",
+      "other_health",
+      "drug_prices",
+      "hospitals",
+      "behavioral"
+    ],
+    "cells": {
+      "benson": {
+        "medicaid": 0,
+        "federal_cuts": 0,
+        "aca_coverage": 0,
+        "costs": 1,
+        "drug_prices": 0,
+        "medicare": 0,
+        "single_payer": 0,
+        "hospitals": 0,
+        "hospital_pricing": 0,
+        "workforce": 0,
+        "behavioral": 0,
+        "public_health": 0,
+        "reproductive": 1,
+        "insurers_corporate": 0,
+        "medical_debt": 0,
+        "rural": 0,
+        "other_health": 0
+      },
+      "el-sayed": {
+        "medicaid": 3,
+        "federal_cuts": 2,
+        "aca_coverage": 4,
+        "costs": 11,
+        "drug_prices": 1,
+        "medicare": 3,
+        "single_payer": 4,
+        "hospitals": 1,
+        "hospital_pricing": 0,
+        "workforce": 0,
+        "behavioral": 1,
+        "public_health": 4,
+        "reproductive": 1,
+        "insurers_corporate": 7,
+        "medical_debt": 0,
+        "rural": 2,
+        "other_health": 1
+      },
+      "brinks": {
+        "medicaid": 0,
+        "federal_cuts": 0,
+        "aca_coverage": 0,
+        "costs": 0,
+        "drug_prices": 0,
+        "medicare": 0,
+        "single_payer": 0,
+        "hospitals": 0,
+        "hospital_pricing": 0,
+        "workforce": 0,
+        "behavioral": 0,
+        "public_health": 0,
+        "reproductive": 0,
+        "insurers_corporate": 0,
+        "medical_debt": 0,
+        "rural": 0,
+        "other_health": 0
+      },
+      "hertel": {
+        "medicaid": 0,
+        "federal_cuts": 0,
+        "aca_coverage": 0,
+        "costs": 0,
+        "drug_prices": 0,
+        "medicare": 0,
+        "single_payer": 0,
+        "hospitals": 0,
+        "hospital_pricing": 0,
+        "workforce": 0,
+        "behavioral": 0,
+        "public_health": 0,
+        "reproductive": 0,
+        "insurers_corporate": 0,
+        "medical_debt": 0,
+        "rural": 0,
+        "other_health": 0
+      },
+      "mcmorrow": {
+        "medicaid": 0,
+        "federal_cuts": 0,
+        "aca_coverage": 0,
+        "costs": 0,
+        "drug_prices": 0,
+        "medicare": 0,
+        "single_payer": 0,
+        "hospitals": 0,
+        "hospital_pricing": 0,
+        "workforce": 0,
+        "behavioral": 0,
+        "public_health": 0,
+        "reproductive": 0,
+        "insurers_corporate": 0,
+        "medical_debt": 0,
+        "rural": 0,
+        "other_health": 0
+      },
+      "dingell": {
+        "medicaid": 2,
+        "federal_cuts": 2,
+        "aca_coverage": 2,
+        "costs": 3,
+        "drug_prices": 0,
+        "medicare": 0,
+        "single_payer": 0,
+        "hospitals": 0,
+        "hospital_pricing": 0,
+        "workforce": 0,
+        "behavioral": 0,
+        "public_health": 0,
+        "reproductive": 0,
+        "insurers_corporate": 0,
+        "medical_debt": 0,
+        "rural": 0,
+        "other_health": 1
+      }
+    }
+  },
+  "findings": {
+    "el-sayed-wdiv-interview-2026-11-04#1": {
+      "speaker": "el-sayed",
+      "timestamp": "00:02:25",
+      "quote": "So, the first most important thing we can do is the worst of this big ugly bill has not yet happened. They purposely pushed it into January of 2027, and that's the Medicaid cuts. We're going to watch tens of thousands of people, right, in in our communities get kicked off their Medicaid roles.",
+      "topics": [
+        "medicaid",
+        "federal_cuts"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "high",
+      "context": "El-Sayed named blocking scheduled Medicaid cuts in the reconciliation bill as his top priority upon entering the Senate.",
+      "why_it_matters": "Large-scale Medicaid disenrollment would increase uncompensated care at Michigan hospitals and reduce a major revenue stream.",
+      "seconds": 145,
+      "ts_label": "2:25",
+      "end_seconds": 161,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=145s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#1",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "So, the first most important thing we can do is the worst of this big ugly bill has not yet happened. They purposely pushed it into January of 2027, and that's the Medicaid cuts. We're going to watch tens of thousands of people, right, in in our communities get kicked off their Medicaid roles."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#2": {
+      "speaker": "el-sayed",
+      "timestamp": "00:02:39",
+      "quote": "And even if you're not on Medicaid, this still affects you. And let me explain why. Those people still get sick. They still need healthare. and instead of getting it in a primary care office before it's a lot worse and more expensive, they have to go to an emergency room.",
+      "topics": [
+        "medicaid",
+        "costs",
+        "hospitals"
+      ],
+      "type": "framing",
+      "hospital_relevance": "high",
+      "context": "El-Sayed argued that Medicaid coverage losses shift costs onto the privately insured through higher emergency-room use.",
+      "why_it_matters": "Increased ED utilization and uncompensated care directly affect hospital operating margins and capacity.",
+      "seconds": 159,
+      "ts_label": "2:39",
+      "end_seconds": 172,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=159s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#2",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "And even if you're not on Medicaid, this still affects you. And let me explain why. Those people still get sick. They still need healthare. and instead of getting it in a primary care office before it's a lot worse and more expensive, they have to go to an emergency room."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#3": {
+      "speaker": "el-sayed",
+      "timestamp": "00:02:56",
+      "quote": "So premiums are going to go up double digits like they're going to this year. And so we're going to end up having a situation where premiums go up, people get priced out of healthcare. Then premiums go up even more, people get more priced out of healthcare. We have to stop that from happening.",
+      "topics": [
+        "aca_coverage",
+        "costs"
+      ],
+      "type": "criticism",
+      "hospital_relevance": "high",
+      "context": "El-Sayed warned of a cost spiral in which rising premiums push more people out of coverage entirely.",
+      "why_it_matters": "A shrinking insured population would increase bad debt and charity care obligations for Michigan hospitals.",
+      "seconds": 176,
+      "ts_label": "2:56",
+      "end_seconds": 188,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=176s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#3",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "So premiums are going to go up double digits like they're going to this year. And so we're going to end up having a situation where premiums go up, people get priced out of healthcare. Then premiums go up even more, people get more priced out of healthcare. We have to stop that from happening."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#4": {
+      "speaker": "el-sayed",
+      "timestamp": "00:03:09",
+      "quote": "So, I actually think that we're going to be able to get some crossover from Republicans, especially in rural communities, okay, who say, you know what, like this is a crazy thing and we need to address it.",
+      "topics": [
+        "medicaid",
+        "federal_cuts",
+        "rural"
+      ],
+      "type": "policy",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed said he expects bipartisan support to reverse Medicaid cuts, especially from rural-state Republicans.",
+      "why_it_matters": "Bipartisan legislation to preserve Medicaid would be significant for rural Michigan hospitals that depend heavily on Medicaid revenue.",
+      "seconds": 189,
+      "ts_label": "3:09",
+      "end_seconds": 198,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=189s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#4",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "So, I actually think that we're going to be able to get some crossover from Republicans, especially in rural communities, okay, who say, you know what, like this is a crazy thing and we need to address it."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#5": {
+      "speaker": "el-sayed",
+      "timestamp": "00:05:18",
+      "quote": "And these corporations are telling themselves, in particular, DTE and Blue Cross, right? Both of them functional monopolies, right? The attorney general right now is suing Blue Cross Blue Shield because they are basically 85% of our insurance market. There's no real meaningful competition.",
+      "topics": [
+        "insurers_corporate",
+        "costs"
+      ],
+      "type": "criticism",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed cited the attorney general's lawsuit against Blue Cross Blue Shield's market dominance as evidence of monopoly power in Michigan's insurance market.",
+      "why_it_matters": "Antitrust action against the state's dominant insurer could reshape payer-provider negotiations and reimbursement rates for hospitals.",
+      "seconds": 318,
+      "ts_label": "5:18",
+      "end_seconds": 332,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=318s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#5",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "And these corporations are telling themselves, in particular, DTE and Blue Cross, right? Both of them functional monopolies, right? The attorney general right now is suing Blue Cross Blue Shield because they are basically 85% of our insurance market. There's no real meaningful competition."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#6": {
+      "speaker": "el-sayed",
+      "timestamp": "00:06:15",
+      "quote": "Why? Well, private equity companies have bought up all the leagues and they just raised prices on us. It's an example of the way that corporate malfcence and moneymaking has gotten in the way of so much.",
+      "topics": [
+        "insurers_corporate",
+        "other_health"
+      ],
+      "type": "criticism",
+      "hospital_relevance": "low",
+      "context": "El-Sayed used private equity's role in youth sports as an analogy for corporate consolidation driving up costs across sectors.",
+      "why_it_matters": "Though not directly about hospitals, his framing of private equity as predatory could extend to scrutiny of PE-backed health care entities in Michigan.",
+      "seconds": 375,
+      "ts_label": "6:15",
+      "end_seconds": 388,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=375s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#6",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "Why? Well, private equity companies have bought up all the leagues and they just raised prices on us. It's an example of the way that corporate malfcence and moneymaking has gotten in the way of so much."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#7": {
+      "speaker": "el-sayed",
+      "timestamp": "00:07:10",
+      "quote": "And then finally, look, you know, the cause of my life. I'm a doctor who rebuilt health departments. I want everybody in this country to have healthcare. And if you think about the most unaffordable part of your life, it's actually your healthcare. It's just the part you don't see.",
+      "topics": [
+        "costs",
+        "public_health"
+      ],
+      "type": "framing",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed described universal health care as his life's cause and called health care the most unaffordable part of Americans' lives.",
+      "why_it_matters": "A senator framing health care as the central affordability crisis signals sustained legislative pressure on costs that could affect hospital pricing and payment models.",
+      "seconds": 430,
+      "ts_label": "7:10",
+      "end_seconds": 440,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=430s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#7",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "And then finally, look, you know, the cause of my life. I'm a doctor who rebuilt health departments. I want everybody in this country to have healthcare. And if you think about the most unaffordable part of your life, it's actually your healthcare. It's just the part you don't see."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#8": {
+      "speaker": "el-sayed",
+      "timestamp": "00:07:21",
+      "quote": "When you get paid every two weeks or four weeks from from the channel, right, the first group that eats is who? Blue Cross Blue Shield probably, right? It goes right off the top. That's crazy. And they raised their rates. They just got an approval to raise their rates by double digits again from last year. We got to address it.",
+      "topics": [
+        "insurers_corporate",
+        "costs",
+        "aca_coverage"
+      ],
+      "type": "criticism",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed criticized Blue Cross Blue Shield for consecutive double-digit rate increases approved by regulators.",
+      "why_it_matters": "Political pressure on insurer rate increases could lead to tighter rate review processes that affect how much insurers reimburse hospitals.",
+      "seconds": 441,
+      "ts_label": "7:21",
+      "end_seconds": 457,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=441s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#8",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "When you get paid every two weeks or four weeks from from the channel, right, the first group that eats is who? Blue Cross Blue Shield probably, right? It goes right off the top. That's crazy. And they raised their rates. They just got an approval to raise their rates by double digits again from last year. We got to address it."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#9": {
+      "speaker": "el-sayed",
+      "timestamp": "00:07:40",
+      "quote": "So, I think that's part of it. I think they should not be able to just raise rates like that. I don't think they should be able to make money handoverfist. I don't think corporations should be able to to to engage in stock buybacks, right?",
+      "topics": [
+        "insurers_corporate",
+        "costs"
+      ],
+      "type": "policy",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed said he supports legislative limits on insurer rate increases and corporate stock buybacks.",
+      "why_it_matters": "Restrictions on insurer profits and stock buybacks could redirect capital within the health care system but may also constrain insurer network spending.",
+      "seconds": 460,
+      "ts_label": "7:40",
+      "end_seconds": 469,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=460s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#9",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "So, I think that's part of it. I think they should not be able to just raise rates like that. I don't think they should be able to make money handoverfist. I don't think corporations should be able to to to engage in stock buybacks, right?"
+    },
+    "el-sayed-wdiv-interview-2026-11-04#10": {
+      "speaker": "el-sayed",
+      "timestamp": "00:07:56",
+      "quote": "The other thing we can do is break them up. Some of these big corporations have gotten so big, have so much power that we just be like, \"No, I'm so sorry. You can't just keep buying up your competition.\" There needs to be real competition in the marketplace.",
+      "topics": [
+        "insurers_corporate"
+      ],
+      "type": "policy",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed advocated breaking up dominant corporations, including large insurers, to restore marketplace competition.",
+      "why_it_matters": "Breaking up large insurers could create a more fragmented payer landscape, potentially altering hospital contract negotiations.",
+      "seconds": 476,
+      "ts_label": "7:56",
+      "end_seconds": 486,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=476s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#10",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "The other thing we can do is break them up. Some of these big corporations have gotten so big, have so much power that we just be like, \"No, I'm so sorry. You can't just keep buying up your competition.\" There needs to be real competition in the marketplace."
+    },
+    "el-sayed-wdiv-interview-2026-11-04#11": {
+      "speaker": "el-sayed",
+      "timestamp": "00:08:06",
+      "quote": "And then when it comes to healthcare, look, the answer here is Medicare for all. There's no reason in the richest, most powerful country in the world where we're spending our money to buy bombs and tanks for other countries that we can't guarantee healthcare.",
+      "topics": [
+        "single_payer",
+        "medicare",
+        "costs"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "high",
+      "context": "El-Sayed endorsed Medicare for All as the solution to the health care affordability crisis.",
+      "why_it_matters": "A Medicare for All system would fundamentally restructure hospital reimbursement, replacing commercial rates with government-set payment levels.",
+      "seconds": 486,
+      "ts_label": "8:06",
+      "end_seconds": 497,
+      "link": "https://www.youtube.com/watch?v=WL7ZL2UENhI&t=486s",
+      "verified": true,
+      "id": "el-sayed-wdiv-interview-2026-11-04#11",
+      "event_key": "el-sayed-wdiv-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed post-election interview, WDIV Local 4",
+      "quote_raw": "And then when it comes to healthcare, look, the answer here is Medicare for all. There's no reason in the richest, most powerful country in the world where we're spending our money to buy bombs and tanks for other countries that we can't guarantee healthcare."
+    },
+    "el-sayed-victory-speech-2026-11-04#1": {
+      "speaker": "el-sayed",
+      "timestamp": "00:00:30",
+      "quote": "Medicare for Michigan. We did it.",
+      "topics": [
+        "single_payer",
+        "medicare"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "high",
+      "context": "El-Sayed opened his victory speech with the campaign's signature call for a Medicare-based universal coverage system in Michigan.",
+      "why_it_matters": "A Medicare for Michigan push could restructure hospital reimbursement models and shift payer mix away from private insurance.",
+      "seconds": 30,
+      "ts_label": "0:30",
+      "end_seconds": 44,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=30s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#1",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "MEDICARE FOR MICHIGAN. We did it."
+    },
+    "el-sayed-victory-speech-2026-11-04#2": {
+      "speaker": "el-sayed",
+      "timestamp": "00:01:47",
+      "quote": "this movement for money out of politics, money in your pocket, and Medicare for all.",
+      "topics": [
+        "single_payer",
+        "medicare"
+      ],
+      "type": "framing",
+      "hospital_relevance": "high",
+      "context": "El-Sayed described his campaign as a three-part movement, with Medicare for All as one of the central planks.",
+      "why_it_matters": "A federal Medicare for All effort would fundamentally change hospital revenue streams and eliminate private-payer negotiations.",
+      "seconds": 107,
+      "ts_label": "1:47",
+      "end_seconds": 115,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=107s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#2",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "this movement for money out of politics, money in your pocket, and Medicare for all."
+    },
+    "el-sayed-victory-speech-2026-11-04#3": {
+      "speaker": "el-sayed",
+      "timestamp": "00:05:47",
+      "quote": "A mom of two kids with a genetic lung disease in East Jordan, fighting the system to make sure her kids don't lose the meds that they rely on to stay alive. Her hope that they don't have to struggle with health insurance like she has.",
+      "topics": [
+        "aca_coverage",
+        "drug_prices",
+        "costs"
+      ],
+      "type": "personal_story",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed shared the story of a mother whose children depend on medications for a genetic lung disease and who struggles with health insurance.",
+      "why_it_matters": "Stories like these signal the senator-elect may push for prescription drug affordability and coverage protections that affect hospital pharmacy and patient access.",
+      "seconds": 347,
+      "ts_label": "5:47",
+      "end_seconds": 364,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=347s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#3",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "A mom of two kids with a genetic lung disease in East Jordan, fighting the system to make sure her kids don't lose the meds that they rely on to stay alive. Her hope that they don't have to struggle with health insurance like she has."
+    },
+    "el-sayed-victory-speech-2026-11-04#4": {
+      "speaker": "el-sayed",
+      "timestamp": "00:06:35",
+      "quote": "I met a small business owner fighting to make sure that another heart attack doesn't take food off the table for his 30 employees or their families. His hope that his workers don't have to worry about how they'll feed their families.",
+      "topics": [
+        "costs",
+        "insurers_corporate"
+      ],
+      "type": "personal_story",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed described a small business owner whose health crisis threatened the livelihoods of his employees.",
+      "why_it_matters": "This framing may support employer coverage mandates or public option proposals that would change how small-employer patients are insured at hospitals.",
+      "seconds": 395,
+      "ts_label": "6:35",
+      "end_seconds": 408,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=395s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#4",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "I MET A small business owner fighting to make sure that another heart attack doesn't take food off the table for his 30 employees or their families. His hope that his workers don't have to worry about how they'll feed their families."
+    },
+    "el-sayed-victory-speech-2026-11-04#5": {
+      "speaker": "el-sayed",
+      "timestamp": "00:07:12",
+      "quote": "To defend us all from a health care system more interested in monetizing our illness than healing our bodies and minds.",
+      "topics": [
+        "insurers_corporate",
+        "costs",
+        "behavioral"
+      ],
+      "type": "criticism",
+      "hospital_relevance": "high",
+      "context": "El-Sayed criticized the U.S. health care system as prioritizing profit over patient care, referencing both physical and mental health.",
+      "why_it_matters": "This rhetoric signals potential scrutiny of hospital and insurer pricing practices and could inform legislative efforts on transparency or rate regulation.",
+      "seconds": 432,
+      "ts_label": "7:12",
+      "end_seconds": 440,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=432s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#5",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "To defend us all from a health care system more interested in monetizing our illness than healing our bodies and minds."
+    },
+    "el-sayed-victory-speech-2026-11-04#6": {
+      "speaker": "el-sayed",
+      "timestamp": "00:07:20",
+      "quote": "To defend us all from air too putrid to breathe and water too putrid to drink.",
+      "topics": [
+        "public_health"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed pledged to fight environmental health hazards including air and water pollution.",
+      "why_it_matters": "Environmental health advocacy could affect hospital patient volumes related to pollution-linked illnesses and drive community health investment requirements.",
+      "seconds": 440,
+      "ts_label": "7:20",
+      "end_seconds": 448,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=440s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#6",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "To defend us all from air too putrid to breathe and water too putrid to drink."
+    },
+    "el-sayed-victory-speech-2026-11-04#7": {
+      "speaker": "el-sayed",
+      "timestamp": "00:13:54",
+      "quote": "America vaccinated me against diseases that killed an aunt and uncle I never got to meet.",
+      "topics": [
+        "public_health"
+      ],
+      "type": "personal_story",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed cited his personal experience with vaccination as evidence of America's public health infrastructure.",
+      "why_it_matters": "Strong pro-vaccine positioning from a physician-senator may support public health funding that sustains hospital immunization programs.",
+      "seconds": 834,
+      "ts_label": "13:54",
+      "end_seconds": 842,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=834s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#7",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "America vaccinated me against diseases that killed an aunt and uncle I never got to meet."
+    },
+    "el-sayed-victory-speech-2026-11-04#8": {
+      "speaker": "el-sayed",
+      "timestamp": "00:15:33",
+      "quote": "America's greatness is the fight to guarantee all of us the health care we need if we get sick.",
+      "topics": [
+        "single_payer",
+        "aca_coverage"
+      ],
+      "type": "framing",
+      "hospital_relevance": "high",
+      "context": "El-Sayed framed universal health care access as a core American value.",
+      "why_it_matters": "A senator committed to guaranteed coverage could advance legislation expanding insurance enrollment, directly affecting hospital uncompensated care levels.",
+      "seconds": 933,
+      "ts_label": "15:33",
+      "end_seconds": 941,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=933s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#8",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "America's greatness is the fight to guarantee all of us the health care we need if we get sick."
+    },
+    "el-sayed-victory-speech-2026-11-04#9": {
+      "speaker": "el-sayed",
+      "timestamp": "00:15:39",
+      "quote": "Our greatness is the fight for clean air, clean water, and a good home. Our greatness is the fight for equal pay, for equal work, and full freedom of our bodies.",
+      "topics": [
+        "public_health",
+        "reproductive"
+      ],
+      "type": "framing",
+      "hospital_relevance": "medium",
+      "context": "El-Sayed included bodily autonomy language alongside environmental health priorities.",
+      "why_it_matters": "The 'full freedom of our bodies' framing suggests support for reproductive health protections that affect OB-GYN services at Michigan hospitals.",
+      "seconds": 939,
+      "ts_label": "15:39",
+      "end_seconds": 948,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=939s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#9",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "Our greatness is the fight for clean air, clean water, and a good home. Our greatness is the fight for equal pay, for equal work, and full freedom of our bodies."
+    },
+    "el-sayed-victory-speech-2026-11-04#10": {
+      "speaker": "el-sayed",
+      "timestamp": "00:16:18",
+      "quote": "Shouldn't be this hard to see a doctor in the richest, most powerful country in the world.",
+      "topics": [
+        "costs",
+        "rural"
+      ],
+      "type": "framing",
+      "hospital_relevance": "high",
+      "context": "El-Sayed decried the difficulty of accessing medical care despite national wealth.",
+      "why_it_matters": "Emphasis on access barriers could drive legislative action on provider shortages, network adequacy, or rural health funding relevant to Michigan hospitals.",
+      "seconds": 978,
+      "ts_label": "16:18",
+      "end_seconds": 986,
+      "link": "https://www.youtube.com/watch?v=yMNEKYd3Pb8&t=978s",
+      "verified": true,
+      "id": "el-sayed-victory-speech-2026-11-04#10",
+      "event_key": "el-sayed-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Abdul El-Sayed victory speech, election night, Detroit",
+      "quote_raw": "Shouldn't be this hard to see a doctor in the richest, most powerful country in the world."
+    },
+    "dingell-fox2-interview-2026-11-04#1": {
+      "speaker": "dingell",
+      "timestamp": "00:01:33",
+      "quote": "two women uh had a long talk with me about the letter they received from the federal government on their Medicaid and they didn't know if they were going to have health insurance and they didn't know how to sort through it all and they didn't know if their child got sick they were going to be able to take them to the doctor or afford their medicine.",
+      "topics": [
+        "medicaid",
+        "costs",
+        "federal_cuts"
+      ],
+      "type": "personal_story",
+      "hospital_relevance": "high",
+      "context": "Dingell described a Sunday encounter at a Kroger where two women told her they feared losing Medicaid coverage and access to care for their children after receiving federal letters.",
+      "why_it_matters": "Medicaid coverage losses translate directly into uncompensated care and revenue risk for Michigan hospitals that serve newly uninsured patients.",
+      "seconds": 93,
+      "ts_label": "1:33",
+      "end_seconds": 110,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=93s",
+      "verified": true,
+      "id": "dingell-fox2-interview-2026-11-04#1",
+      "event_key": "dingell-fox2-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Debbie Dingell post-election interview, FOX 2 Detroit",
+      "quote_raw": "two women uh had a long talk with me about the letter they received from the federal government on their Medicaid and they didn't know if they were going to have health insurance and they didn't know how to sort through it all and they didn't know if their child got sick they were going to be able to take them to the doctor or afford their medicine."
+    },
+    "dingell-fox2-interview-2026-11-04#2": {
+      "speaker": "dingell",
+      "timestamp": "00:03:03",
+      "quote": "one of the first things that we are going to do is to reverse the cuts in Medicaid, reverse the cuts in food to help make sure we don't have hungry children and seniors and to address the health care issue",
+      "topics": [
+        "medicaid",
+        "federal_cuts"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "high",
+      "context": "Dingell said the Democratic House majority's first-100-hours agenda will reverse federal Medicaid cuts and food assistance reductions.",
+      "why_it_matters": "Restoring Medicaid funding would stabilize a major payer source for Michigan hospitals and reduce the risk of rising uninsured patient volumes.",
+      "seconds": 183,
+      "ts_label": "3:03",
+      "end_seconds": 199,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=183s",
+      "verified": true,
+      "id": "dingell-fox2-interview-2026-11-04#2",
+      "event_key": "dingell-fox2-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Debbie Dingell post-election interview, FOX 2 Detroit",
+      "quote_raw": "one of the first things that we are going to do is to reverse the cuts in Medicaid, reverse the cuts in food to help make sure we don't have hungry children and seniors and to address the health care issue"
+    },
+    "dingell-fox2-interview-2026-11-04#3": {
+      "speaker": "dingell",
+      "timestamp": "00:03:19",
+      "quote": "reinstate the affordable care tax credit until we can figure out what we really need to do to fix a broken health care system.",
+      "topics": [
+        "aca_coverage",
+        "costs"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "high",
+      "context": "Dingell committed to reinstating the ACA premium tax credit as an interim measure while pursuing broader health system reform.",
+      "why_it_matters": "Renewing premium subsidies would help maintain marketplace enrollment in Michigan, protecting hospitals from coverage losses and the associated rise in uncompensated care.",
+      "seconds": 199,
+      "ts_label": "3:19",
+      "end_seconds": 207,
+      "link": "https://www.youtube.com/watch?v=wBwr5WNZbwg&t=199s",
+      "verified": true,
+      "id": "dingell-fox2-interview-2026-11-04#3",
+      "event_key": "dingell-fox2-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Debbie Dingell post-election interview, FOX 2 Detroit",
+      "quote_raw": "reinstate the affordable care tax credit until we can figure out what we really need to do to fix a broken health care system."
+    },
+    "dingell-nbc-interview-2026-11-04#1": {
+      "speaker": "dingell",
+      "timestamp": "00:02:08",
+      "quote": "And I think they're very worried about the cost of groceries, gasoline, about whether they can pay their rent, our broken health care system, and corruption. But we've got to address all of that.",
+      "topics": [
+        "costs",
+        "other_health"
+      ],
+      "type": "framing",
+      "hospital_relevance": "medium",
+      "context": "Dingell characterized the health care system as 'broken' and listed it among top voter anxieties that the new Democratic majority must address.",
+      "why_it_matters": "Framing the health care system as broken signals potential legislative interest in systemic reforms that could affect hospital operations, reimbursement, or regulation in Michigan.",
+      "seconds": 128,
+      "ts_label": "2:08",
+      "end_seconds": 141,
+      "link": "https://www.youtube.com/watch?v=Qt1jr4liIoc&t=128s",
+      "verified": true,
+      "id": "dingell-nbc-interview-2026-11-04#1",
+      "event_key": "dingell-nbc-interview-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Debbie Dingell post-election interview, NBC News",
+      "quote_raw": "AND I THINK THEY'RE VERY WORRIED ABOUT THE COST OF GROCERIES, GASOLINE, ABOUT WHETHER THEY CAN PAY THEIR RENT, OUR BROKEN HEALTH CARE SYSTEM, AND CORRUPTION. BUT WE'VE GOT TO ADDRESS ALL OF THAT."
+    },
+    "dingell-watch-party-remarks-2026-11-04#1": {
+      "speaker": "dingell",
+      "timestamp": "00:00:45",
+      "quote": "Fighting for health care for every American when they're sick",
+      "topics": [
+        "aca_coverage"
+      ],
+      "type": "framing",
+      "hospital_relevance": "low",
+      "context": "Dingell listed health care access among core Democratic values that volunteers have championed.",
+      "why_it_matters": "The remark signals continued rhetorical support for broad coverage but contains no specific policy detail that would directly affect Michigan hospital operations or finances.",
+      "seconds": 45,
+      "ts_label": "0:45",
+      "end_seconds": 53,
+      "link": "https://www.youtube.com/watch?v=WbIzIwlWcjM&t=45s",
+      "verified": true,
+      "id": "dingell-watch-party-remarks-2026-11-04#1",
+      "event_key": "dingell-watch-party-remarks-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Debbie Dingell remarks at Democratic watch party, Hudson's Detroit",
+      "quote_raw": "FIGHTING FOR HEALTH CARE FOR EVERY AMERICAN WHEN THEY'RE SICK"
+    },
+    "benson-brinks-transition-presser-2026-11-04#1": {
+      "speaker": "benson",
+      "timestamp": "00:08:00",
+      "quote": "We will transform state government to make it efficient and effective and ensure from health care to housing to child care to our energy costs that those costs are affordable for everyone.",
+      "topics": [
+        "costs"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "medium",
+      "context": "Benson listed health care among several household cost categories her administration will target for affordability.",
+      "why_it_matters": "A broad affordability agenda that names health care could lead to state-level actions on insurance premiums, hospital pricing, or coverage costs, but no specifics were offered at this stage.",
+      "seconds": 480,
+      "ts_label": "8:00",
+      "end_seconds": 495,
+      "link": "https://www.youtube.com/watch?v=xha9JCqPbBQ&t=480s",
+      "verified": true,
+      "id": "benson-brinks-transition-presser-2026-11-04#1",
+      "event_key": "benson-brinks-transition-presser-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Jocelyn Benson and Winnie Brinks transition press conference, Detroit",
+      "quote_raw": "We will transform state government to make it efficient and effective and ensure from health care to housing to child care to our energy costs that those costs are affordable for everyone."
+    },
+    "benson-victory-speech-2026-11-04#1": {
+      "speaker": "benson",
+      "timestamp": "00:06:21",
+      "quote": "As governor and lieutenant governor, who will work together every day to ensure that young girls and women always have access to the health care they need and the rights and freedoms they deserve.",
+      "topics": [
+        "reproductive"
+      ],
+      "type": "commitment",
+      "hospital_relevance": "medium",
+      "context": "Benson pledged that she and Brinks would protect women's and girls' access to health care and associated rights.",
+      "why_it_matters": "The commitment signals continued state-level protection of reproductive health services, which affects hospitals and health systems that provide those services.",
+      "seconds": 381,
+      "ts_label": "6:21",
+      "end_seconds": 394,
+      "link": "https://www.youtube.com/watch?v=X0E_y4UhEaM&t=381s",
+      "verified": true,
+      "id": "benson-victory-speech-2026-11-04#1",
+      "event_key": "benson-victory-speech-2026-11-04",
+      "event_date": "2026-11-04",
+      "event_label": "Jocelyn Benson victory speech, Hudson's Detroit",
+      "quote_raw": "As governor and lieutenant governor, who will work together every day to ensure that young girls and women always have access to the health care they need and the rights and freedoms they deserve."
+    }
+  },
+  "executive_summary": "Health care was a central theme in election-night messaging but concentrated among few voices. Of {{speakers}} leaders on camera across {{events}} speeches and press events, only {{speakers_on_health}} addressed health care directly, producing {{health_findings}} statements across {{minutes}} minutes of transcribed video. Senator-elect Abdul El-Sayed generated the vast majority, framing health care as unaffordable, corporate-dominated, and in need of structural overhaul. Rep. Debbie Dingell contributed statements emphasizing Medicaid anxiety among constituents and cost-of-living pressures. Governor-elect Jocelyn Benson offered brief pledges on affordable health care costs and women's health access. Separately, likely incoming Speaker Ranjeev Puri told the election-night watch party, per the Michigan Advance, that he 'watched healthcare be ripped away from our sick,' but he named no specific health policy that night.\n\nThe most actionable policy signals for hospitals center on Medicaid and federal spending. Both El-Sayed and Dingell identified reversing scheduled federal Medicaid cuts as an immediate priority; Dingell placed reversal among 'one of the first things' the new House majority would pursue, while El-Sayed warned that coverage losses would shift costs onto hospitals through increased emergency department use. El-Sayed predicted Republican crossover support for reversal, especially in rural communities. On coverage, Dingell committed to reinstating the ACA premium tax credit as an interim step, and El-Sayed warned of a premium cost spiral if coverage gaps widen. El-Sayed's repeated endorsement of Medicare for All and his criticism of Blue Cross Blue Shield's market dominance signal sustained scrutiny of insurer pricing and market structure. Notably absent from all appearances were hospital workforce shortages, detailed behavioral health policy, and any discussion of hospital finances or reimbursement.",
+  "watch_list": [
+    {
+      "title": "Medicaid cuts reversal as early federal priority",
+      "body": "Both Dingell and El-Sayed identified reversing scheduled federal Medicaid reductions as among the new majority's first acts, with El-Sayed warning that coverage losses would increase uncompensated emergency care at hospitals. MHA should prepare impact data on Michigan hospital coverage-loss scenarios and engage both offices as reversal legislation takes shape.",
+      "evidence": [
+        "el-sayed-wdiv-interview-2026-11-04#1",
+        "dingell-fox2-interview-2026-11-04#2",
+        "el-sayed-wdiv-interview-2026-11-04#2"
+      ]
+    },
+    {
+      "title": "Medicare for All advocacy from incoming Senator",
+      "body": "El-Sayed made single-payer health care his signature issue and will enter the Senate as a vocal advocate for restructuring health care financing around a Medicare model. MHA should monitor for federal single-payer legislation or state-level 'Medicare for Michigan' proposals and assess potential effects on hospital revenue and reimbursement structures.",
+      "evidence": [
+        "el-sayed-victory-speech-2026-11-04#1",
+        "el-sayed-wdiv-interview-2026-11-04#11",
+        "el-sayed-victory-speech-2026-11-04#8"
+      ]
+    },
+    {
+      "title": "Insurer market scrutiny and regulatory pressure",
+      "body": "El-Sayed called for breaking up dominant insurers, capping rate increases, and banning stock buybacks, citing the attorney general's lawsuit against Blue Cross Blue Shield as evidence of monopoly power. MHA should watch for federal or state legislation targeting insurer consolidation and rate-setting, which could reshape payer dynamics and contract negotiations for hospitals.",
+      "evidence": [
+        "el-sayed-wdiv-interview-2026-11-04#5",
+        "el-sayed-wdiv-interview-2026-11-04#9",
+        "el-sayed-wdiv-interview-2026-11-04#10"
+      ]
+    },
+    {
+      "title": "ACA premium tax credit reinstatement timeline",
+      "body": "Dingell committed to reinstating the ACA premium tax credit as an interim coverage measure, and El-Sayed warned of a cost spiral without subsidies in place. MHA should track the scope and timing of reinstatement legislation, as premium subsidies directly affect the size and stability of the insured population hospitals serve.",
+      "evidence": [
+        "dingell-fox2-interview-2026-11-04#3",
+        "el-sayed-wdiv-interview-2026-11-04#3"
+      ]
+    }
+  ],
+  "coverage": {
+    "not_found": [
+      {
+        "key": "savit",
+        "name": "Eli Savit",
+        "office": "Attorney General-elect"
+      },
+      {
+        "key": "senate-dems",
+        "name": "Michigan Senate Democrats",
+        "office": "Senate majority caucus"
+      },
+      {
+        "key": "mccann",
+        "name": "Sean McCann",
+        "office": "U.S. Rep.-elect, MI-4"
+      },
+      {
+        "key": "lawrence",
+        "name": "William Lawrence",
+        "office": "U.S. Rep.-elect, MI-7"
+      },
+      {
+        "key": "hines",
+        "name": "Christina Hines",
+        "office": "U.S. Rep.-elect, MI-10"
+      },
+      {
+        "key": "moss",
+        "name": "Jeremy Moss",
+        "office": "U.S. Rep.-elect, MI-11"
+      },
+      {
+        "key": "scholten",
+        "name": "Hillary Scholten",
+        "office": "U.S. Rep., MI-3"
+      },
+      {
+        "key": "mcdonald-rivet",
+        "name": "Kristen McDonald Rivet",
+        "office": "U.S. Rep., MI-8"
+      },
+      {
+        "key": "mckinney",
+        "name": "Donavan McKinney",
+        "office": "U.S. Rep.-elect, MI-13"
+      },
+      {
+        "key": "tlaib",
+        "name": "Rashida Tlaib",
+        "office": "U.S. Rep., MI-12"
+      },
+      {
+        "key": "whitmer",
+        "name": "Gretchen Whitmer",
+        "office": "Governor (outgoing)"
+      }
+    ],
+    "failed": []
+  },
+  "methodology": "Videos were found by searching YouTube for each tracked leader (newest-first and by relevance) and by checking video links collected in the Election-Fallout research notes, keeping uploads from November 3, 2026 onward. Claude screened every result, kept only videos where a tracked leader speaks at length after the polls closed, and grouped re-uploads of the same speech so each event is analyzed once, from the most complete recording (other uploads are listed in the appendix). Transcripts come from YouTube captions where available and Whisper speech-to-text otherwise. Claude then listed every statement about health or health care by a tracked leader and each leader's stated priorities. Every quote was matched back to the transcript text; quotes that could not be located were dropped. For leaders with no video, quotes reported by news outlets are shown separately, marked with the outlet and linked to the article; they were checked against the article text, are not counted in the totals, and pre-election remarks are labeled as such. Broadcast captions typed in all capitals are shown in sentence case; no words were changed. Timestamps link to the moment in the video on YouTube; for recordings hosted elsewhere, the timestamp is printed beside the link.",
+  "disclaimer": "Prepared with AI assistance (Claude) for internal MHA use. Quotes are drawn from automated transcripts and machine-verified against the transcript text, but transcription errors are possible. Check the linked video before citing a quote externally.",
+  "_narrative": {
+    "executive_summary": "Health care was a central theme in election-night messaging but concentrated among few voices. Of {{speakers}} leaders on camera across {{events}} speeches and press events, only {{speakers_on_health}} addressed health care directly, producing {{health_findings}} statements across {{minutes}} minutes of transcribed video. Senator-elect Abdul El-Sayed generated the vast majority, framing health care as unaffordable, corporate-dominated, and in need of structural overhaul. Rep. Debbie Dingell contributed statements emphasizing Medicaid anxiety among constituents and cost-of-living pressures. Governor-elect Jocelyn Benson offered brief pledges on affordable health care costs and women's health access. Separately, likely incoming Speaker Ranjeev Puri told the election-night watch party, per the Michigan Advance, that he 'watched healthcare be ripped away from our sick,' but he named no specific health policy that night.\n\nThe most actionable policy signals for hospitals center on Medicaid and federal spending. Both El-Sayed and Dingell identified reversing scheduled federal Medicaid cuts as an immediate priority; Dingell placed reversal among 'one of the first things' the new House majority would pursue, while El-Sayed warned that coverage losses would shift costs onto hospitals through increased emergency department use. El-Sayed predicted Republican crossover support for reversal, especially in rural communities. On coverage, Dingell committed to reinstating the ACA premium tax credit as an interim step, and El-Sayed warned of a premium cost spiral if coverage gaps widen. El-Sayed's repeated endorsement of Medicare for All and his criticism of Blue Cross Blue Shield's market dominance signal sustained scrutiny of insurer pricing and market structure. Notably absent from all appearances were hospital workforce shortages, detailed behavioral health policy, and any discussion of hospital finances or reimbursement.",
+    "topic_syntheses": {
+      "costs": "El-Sayed called health care the most unaffordable part of Americans' lives and warned of a premium cost spiral, Dingell listed it among top voter anxieties, and Benson pledged to make health care costs affordable alongside housing, child care, and energy.",
+      "insurers_corporate": "El-Sayed repeatedly targeted insurer market concentration, citing the attorney general's lawsuit against Blue Cross Blue Shield, calling for limits on rate increases and stock buybacks, and advocating breaking up dominant corporations to restore competition.",
+      "aca_coverage": "Dingell committed to reinstating the ACA premium tax credit as an interim coverage measure while pursuing broader reform, and El-Sayed warned that rising premiums would push more people out of coverage in an accelerating spiral.",
+      "medicaid": "El-Sayed named blocking scheduled Medicaid cuts as a leading Senate priority, Dingell relayed constituent fears about losing coverage after receiving federal letters, and both framed Medicaid protection as among the new majority's most urgent tasks.",
+      "federal_cuts": "El-Sayed and Dingell both targeted the reconciliation bill's scheduled Medicaid reductions, with Dingell placing reversal among 'one of the first things' the new House majority would do and El-Sayed warning that the cuts would cause tens of thousands to lose coverage.",
+      "single_payer": "El-Sayed championed 'Medicare for Michigan' and Medicare for All as his signature position, opening his victory speech with the phrase and endorsing single-payer as the answer to the affordability crisis throughout his appearances.",
+      "public_health": "El-Sayed pledged to fight environmental health hazards including air and water pollution and cited his personal vaccination history as evidence of America's public health infrastructure.",
+      "medicare": "El-Sayed invoked Medicare as the financing model for universal coverage, using 'Medicare for Michigan' and 'Medicare for All' interchangeably as shorthand for his single-payer proposal.",
+      "reproductive": "Benson pledged that she and Lieutenant Governor-elect Brinks would protect women's and girls' access to health care and associated rights, and El-Sayed included bodily autonomy language alongside environmental health priorities.",
+      "rural": "El-Sayed predicted that rural-state Republican senators would support reversing Medicaid cuts given disproportionate rural impact, and decried the difficulty of seeing a doctor despite national wealth.",
+      "other_health": "Dingell characterized the health care system broadly as 'broken' and listed it among top voter anxieties, while El-Sayed used private equity's role in youth sports as an analogy for corporate consolidation driving up costs across sectors.",
+      "drug_prices": "El-Sayed shared the story of a mother struggling with medication costs for children with a genetic lung disease, but no speaker outlined a specific drug-pricing legislative proposal on election night.",
+      "hospitals": "El-Sayed's argument that Medicaid coverage losses shift costs onto the privately insured through higher emergency department use was the only direct reference to hospital operations across all analyzed appearances.",
+      "behavioral": "El-Sayed's criticism of a health care system 'more interested in monetizing our illness than healing our bodies and minds' was the sole reference touching on behavioral health, with no speaker offering specific behavioral health policy."
+    },
+    "speaker_takeaways": {
+      "benson": "Benson framed health care as one element of a broader affordability agenda and pledged to protect women's health access, but did not detail specific health policy proposals in her victory speech or transition press conference.",
+      "el-sayed": "El-Sayed made health care the centerpiece of his victory messaging, advancing Medicare for All, warning of Medicaid cuts and insurer market dominance, and signaling sustained pressure on coverage, costs, and corporate practices in the Senate.",
+      "brinks": "Brinks did not address health care in her analyzed appearances, focusing her remarks on affordability broadly and collaborative governance.",
+      "hertel": "Hertel did not address health care, directing his remarks toward the party's electoral victories across the full ticket.",
+      "mcmorrow": "McMorrow did not address health care, focusing her remarks on economic concerns, grassroots organizing, and support for the Senate candidate.",
+      "dingell": "Dingell centered Medicaid protection and affordability as immediate concerns, committing to reverse federal Medicaid cuts as among 'one of the first things' the new House majority would pursue and to reinstate the ACA premium tax credit.",
+      "puri": "Puri was not captured on video, but per the Michigan Advance he decried health care being 'ripped away' at the election-night watch party. He named no specific health policy that night.",
+      "camilleri": "Camilleri was not captured on video, and his post-election statement, per The Detroit News, focused on the Senate Democratic majority's electoral success without addressing health care."
+    },
+    "watch_list": [
+      {
+        "title": "Medicaid cuts reversal as early federal priority",
+        "body": "Both Dingell and El-Sayed identified reversing scheduled federal Medicaid reductions as among the new majority's first acts, with El-Sayed warning that coverage losses would increase uncompensated emergency care at hospitals. MHA should prepare impact data on Michigan hospital coverage-loss scenarios and engage both offices as reversal legislation takes shape.",
+        "evidence": [
+          "el-sayed-wdiv-interview-2026-11-04#1",
+          "dingell-fox2-interview-2026-11-04#2",
+          "el-sayed-wdiv-interview-2026-11-04#2"
+        ]
+      },
+      {
+        "title": "Medicare for All advocacy from incoming Senator",
+        "body": "El-Sayed made single-payer health care his signature issue and will enter the Senate as a vocal advocate for restructuring health care financing around a Medicare model. MHA should monitor for federal single-payer legislation or state-level 'Medicare for Michigan' proposals and assess potential effects on hospital revenue and reimbursement structures.",
+        "evidence": [
+          "el-sayed-victory-speech-2026-11-04#1",
+          "el-sayed-wdiv-interview-2026-11-04#11",
+          "el-sayed-victory-speech-2026-11-04#8"
+        ]
+      },
+      {
+        "title": "Insurer market scrutiny and regulatory pressure",
+        "body": "El-Sayed called for breaking up dominant insurers, capping rate increases, and banning stock buybacks, citing the attorney general's lawsuit against Blue Cross Blue Shield as evidence of monopoly power. MHA should watch for federal or state legislation targeting insurer consolidation and rate-setting, which could reshape payer dynamics and contract negotiations for hospitals.",
+        "evidence": [
+          "el-sayed-wdiv-interview-2026-11-04#5",
+          "el-sayed-wdiv-interview-2026-11-04#9",
+          "el-sayed-wdiv-interview-2026-11-04#10"
+        ]
+      },
+      {
+        "title": "ACA premium tax credit reinstatement timeline",
+        "body": "Dingell committed to reinstating the ACA premium tax credit as an interim coverage measure, and El-Sayed warned of a cost spiral without subsidies in place. MHA should track the scope and timing of reinstatement legislation, as premium subsidies directly affect the size and stability of the insured population hospitals serve.",
+        "evidence": [
+          "dingell-fox2-interview-2026-11-04#3",
+          "el-sayed-wdiv-interview-2026-11-04#3"
+        ]
+      },
+      {
+        "title": "Silence on workforce and behavioral health capacity",
+        "body": "No speaker addressed hospital workforce shortages, behavioral health system capacity beyond a passing reference, or hospital financial sustainability in any analyzed appearance. MHA should proactively engage incoming leaders on these topics before legislative priorities solidify in the new session.",
+        "evidence": []
+      }
+    ]
+  }
+}
