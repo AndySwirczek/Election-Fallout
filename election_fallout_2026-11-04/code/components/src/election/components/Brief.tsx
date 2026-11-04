@@ -94,9 +94,9 @@ function Leaders({ data }: { data: BriefData }) {
   const speakers = [...data.speakers].sort((a, b) => b.health_count - a.health_count);
   const said = (k: string, fallback: string) => data.brief.speakers[k] ?? fallback;
   return (
-    <section className="mt-7">
+    <section className="page-break">
       <SectionHead n="02" title="What each leader said" kicker="Health statements counted across each leader's appearances on video, Nov. 3–4." />
-      <table className="w-full border-collapse">
+      <table className="avoid-break w-full border-collapse">
         <thead>
           <tr className="text-left text-[9.5px] font-semibold uppercase tracking-[0.1em] text-mute">
             <th className="w-[2in] pb-1.5">Leader</th>
