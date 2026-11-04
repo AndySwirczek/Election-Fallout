@@ -33,6 +33,7 @@ export interface BriefContent {
   quotes: BriefQuote[];
   names?: Record<string, string>;
   extra_speakers?: { key: string; name: string; office: string; source: string; said: string }[];
+  silent?: { name: string; office: string; headline: string; facts: string[]; note?: string; sources: { label: string; url: string }[] };
 }
 export type BriefData = ReportData & { brief: BriefContent };
 
@@ -138,11 +139,44 @@ function Themes({ data }: { data: BriefData }) {
   );
 }
 
+function Silent({ data }: { data: BriefData }) {
+  const h = data.brief.silent;
+  if (!h) return null;
+  return (
+    <section className="avoid-break mt-7">
+      <SectionHead n="02" title="Not heard from" kicker="Leaders who have said nothing publicly since the election." />
+      <div className="rounded-[10px] border-2 border-coral/70 bg-coral-soft/50 px-4 py-3.5">
+        <div className="flex items-center gap-3">
+          <Monogram name={h.name} size={34} tone="light" />
+          <div>
+            <h3 className="font-display text-[16px] font-bold leading-snug text-deep">{h.headline}</h3>
+            <div className="text-[11px] text-mute">{h.office}</div>
+          </div>
+        </div>
+        <ul className="mt-2.5 list-disc space-y-1 pl-5 text-[12px] leading-[1.5] text-slate">
+          {h.facts.map((f, i) => (
+            <li key={i}>{f}</li>
+          ))}
+        </ul>
+        <p className="mt-2 text-[10.5px] leading-snug text-mute">
+          {h.note} Checked:{" "}
+          {h.sources.map((src, i) => (
+            <span key={i}>
+              {i > 0 && " · "}
+              <a href={src.url} className="link-u">{src.label}</a>
+            </span>
+          ))}
+        </p>
+      </div>
+    </section>
+  );
+}
+
 function HealthSummary({ data }: { data: BriefData }) {
   return (
     <section className="page-break">
       <PartBand n="2" title="Health care focus" kicker="What was said about health care" />
-      <SectionHead n="02" title="Summary of what was said on health care" />
+      <SectionHead n="03" title="Summary of what was said on health care" />
       <div className="space-y-3 text-[12.5px] leading-[1.58] text-slate">
         {data.brief.summary.map((p, i) => (
           <p key={i}>
@@ -169,7 +203,7 @@ function Row({ name, office, count, badge, said, active }: {
         </div>
       </td>
       <td className="py-2 pr-3 text-center">
-        {badge ? <Badge tone="amber">{badge}</Badge> : <div className="font-display text-[17px] font-bold text-deep">{count || "–"}</div>}
+        {badge ? <Badge tone={badge === "No statement" ? "coral" : "amber"}>{badge}</Badge> : <div className="font-display text-[17px] font-bold text-deep">{count || "–"}</div>}
       </td>
       <td className="py-2 text-[11.5px] leading-snug text-slate">{said}</td>
     </tr>
@@ -181,7 +215,7 @@ function Leaders({ data }: { data: BriefData }) {
   const said = (k: string, fallback: string) => data.brief.speakers[k] ?? fallback;
   return (
     <section className="avoid-break mt-7">
-      <SectionHead n="03" title="What each leader said on health care" kicker="Health statements counted across each leader's appearances on video, Nov. 3–4." />
+      <SectionHead n="04" title="What each leader said on health care" kicker="Health statements counted across each leader's appearances on video, Nov. 3–4." />
       <table className="avoid-break w-full border-collapse">
         <thead>
           <tr className="text-left text-[9.5px] font-semibold uppercase tracking-[0.1em] text-mute">
@@ -209,7 +243,7 @@ function Leaders({ data }: { data: BriefData }) {
 function Quotes({ data }: { data: BriefData }) {
   return (
     <section className="mt-7">
-      <SectionHead n="04" title="In their words: health care" kicker="Key health care lines, trimmed to the main point. Timestamps open the video at that moment." />
+      <SectionHead n="05" title="In their words: health care" kicker="Key health care lines, trimmed to the main point. Timestamps open the video at that moment." />
       <div className="space-y-2">
         {data.brief.quotes.map((q, i) => (
           <div key={i} className="border-b border-line pb-2">
@@ -234,6 +268,7 @@ export function Brief({ data }: { data: BriefData }) {
       <div className="sheet">
         <Header data={data} />
         <Themes data={data} />
+        <Silent data={data} />
         <HealthSummary data={data} />
         <Leaders data={data} />
         <Quotes data={data} />

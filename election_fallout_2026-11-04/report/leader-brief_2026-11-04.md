@@ -49,6 +49,19 @@ Few concrete plans were named. Benson named a state voting rights act; El-Sayed 
 - **El-Sayed:** "I believe we need to pass the [PRO Act]." ([post-election interview, WDIV Local 4 3:43](https://www.youtube.com/watch?v=WL7ZL2UENhI&t=223s))
 - **Dingell:** "one of the first things that we are going to do is to reverse the cuts in Medicaid" ([post-election interview, FOX 2 Detroit 3:03](https://www.youtube.com/watch?v=wBwr5WNZbwg&t=183s))
 
+## Not heard from: Speaker Matt Hall
+
+**Speaker Matt Hall has not spoken publicly since the election.** Speaker of the Michigan House (R), through Dec. 31, 2026.
+
+- No statement, concession or comment from Hall was found as of the afternoon of Nov. 4, 2026.
+- His page on the House Republicans' site has no post since July 29, 2026 ("Speaker Hall on the governor's recent vetoes").
+- The Michigan Advance and Detroit News stories on Democrats winning the House, both updated Nov. 4, do not quote or mention him.
+- No video of Hall from election night or Nov. 4 was found.
+- His own race (HD-42) was close: about 51% to 49% at 97% reporting (ClickOnDetroit, unofficial).
+- He remains Speaker, and Republicans control the House floor, through Dec. 31, 2026.
+
+*Hall's X and Facebook accounts were not checked. Checked: [gophouse.org Hall posts](https://gophouse.org/member/repmatthall/posts) · [Detroit News via Yahoo, Nov. 4](https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html) · [Michigan Advance via Yahoo, Nov. 4](https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html)*
+
 ## Part 2: Health care focus
 
 ### Summary of what was said on health care
@@ -74,6 +87,7 @@ No leader mentioned hospitals, nurses or reimbursement, and no one named a speci
 | Ranjeev Puri, House Democratic Leader, likely Speaker | News quote | "I watched healthcare be ripped away from our sick" (election-night watch party, per the Michigan Advance). Named no specific health policy. |
 | Darrin Camilleri, State Senator | News quote | Did not mention health care. His statement was about the expanded Senate Democratic majority (per The Detroit News). |
 | Eli Savit, Attorney General-elect | News quote | Did not mention health care in his Nov. 4 victory remarks. Said he would represent "the people and not the powerful" and "I am going to work for you" (per the Michigan Advance and WLNS). No post-election video found. |
+| Matt Hall, House Speaker (R), outgoing | No statement | Has not spoken publicly since the election. No statement found as of Nov. 4. |
 
 ### In their words: health care
 
