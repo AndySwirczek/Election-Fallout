@@ -101,7 +101,7 @@ function SourceChip({ q, data }: { q: BriefQuote; data: BriefData }) {
 function QuoteLine({ q, data, withEvent }: { q: BriefQuote; data: BriefData; withEvent?: boolean }) {
   const name = nameOf(data, q.speaker);
   const ev = q.event ? eventByKey(data, q.event) : undefined;
-  const where = ev ? ev.label.replace(new RegExp(`^${name}\\s*`), "").replace(/^and Winnie Brinks\s*/, "") : q.outlet;
+  const where = ev ? ev.label.replace(new RegExp(`^${name}\\s*`), "").replace(/^and Winnie Brinks\s*/, "") : undefined;
   return (
     <div className="avoid-break flex items-start gap-2 text-[11.5px] leading-snug">
       <SourceChip q={q} data={data} />
@@ -143,13 +143,13 @@ function Silent({ data }: { data: BriefData }) {
   const h = data.brief.silent;
   if (!h) return null;
   return (
-    <section className="avoid-break mt-7">
-      <SectionHead n="02" title="Not heard from" kicker="Leaders who have said nothing publicly since the election." />
-      <div className="rounded-[10px] border-2 border-coral/70 bg-coral-soft/50 px-4 py-3.5">
-        <div className="flex items-center gap-3">
-          <Monogram name={h.name} size={34} tone="light" />
+    <section className="avoid-break mt-8">
+      <div className="rounded-[10px] border border-line bg-wash px-4 py-3.5">
+        <div className="text-[10px] font-semibold uppercase tracking-[0.16em] text-coral">One more thing</div>
+        <div className="mt-1.5 flex items-center gap-3">
+          <Monogram name={h.name} size={30} tone="light" />
           <div>
-            <h3 className="font-display text-[16px] font-bold leading-snug text-deep">{h.headline}</h3>
+            <h3 className="font-display text-[15px] font-bold leading-snug text-deep">{h.headline}</h3>
             <div className="text-[11px] text-mute">{h.office}</div>
           </div>
         </div>
@@ -176,7 +176,7 @@ function HealthSummary({ data }: { data: BriefData }) {
   return (
     <section className="page-break">
       <PartBand n="2" title="Health care focus" kicker="What was said about health care" />
-      <SectionHead n="03" title="Summary of what was said on health care" />
+      <SectionHead n="02" title="Summary of what was said on health care" />
       <div className="space-y-3 text-[12.5px] leading-[1.58] text-slate">
         {data.brief.summary.map((p, i) => (
           <p key={i}>
@@ -215,7 +215,7 @@ function Leaders({ data }: { data: BriefData }) {
   const said = (k: string, fallback: string) => data.brief.speakers[k] ?? fallback;
   return (
     <section className="avoid-break mt-7">
-      <SectionHead n="04" title="What each leader said on health care" kicker="Health statements counted across each leader's appearances on video, Nov. 3–4." />
+      <SectionHead n="03" title="What each leader said on health care" kicker="Health statements counted across each leader's appearances on video, Nov. 3–4." />
       <table className="avoid-break w-full border-collapse">
         <thead>
           <tr className="text-left text-[9.5px] font-semibold uppercase tracking-[0.1em] text-mute">
@@ -243,7 +243,7 @@ function Leaders({ data }: { data: BriefData }) {
 function Quotes({ data }: { data: BriefData }) {
   return (
     <section className="mt-7">
-      <SectionHead n="05" title="In their words: health care" kicker="Key health care lines, trimmed to the main point. Timestamps open the video at that moment." />
+      <SectionHead n="04" title="In their words: health care" kicker="Key health care lines, trimmed to the main point. Timestamps open the video at that moment." />
       <div className="space-y-2">
         {data.brief.quotes.map((q, i) => (
           <div key={i} className="border-b border-line pb-2">
@@ -251,6 +251,13 @@ function Quotes({ data }: { data: BriefData }) {
           </div>
         ))}
       </div>
+    </section>
+  );
+}
+
+function Footer({ data }: { data: BriefData }) {
+  return (
+    <footer className="avoid-break">
       {data.coverage.not_found.length > 0 && (
         <p className="mt-4 text-[10.5px] leading-snug text-mute">
           <span className="font-semibold text-slate">No post-election video found for: </span>
@@ -258,7 +265,7 @@ function Quotes({ data }: { data: BriefData }) {
         </p>
       )}
       <p className="mt-4 border-t border-line pt-3 text-[10px] leading-snug text-mute">{data.disclaimer}</p>
-    </section>
+    </footer>
   );
 }
 
@@ -268,10 +275,11 @@ export function Brief({ data }: { data: BriefData }) {
       <div className="sheet">
         <Header data={data} />
         <Themes data={data} />
-        <Silent data={data} />
         <HealthSummary data={data} />
         <Leaders data={data} />
         <Quotes data={data} />
+        <Silent data={data} />
+        <Footer data={data} />
       </div>
     </main>
   );
